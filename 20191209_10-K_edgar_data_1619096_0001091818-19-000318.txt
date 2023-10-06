@@ -1,0 +1,2288 @@
+<Header>
+<FileStats>
+    <FileName>20191209_10-K_edgar_data_1619096_0001091818-19-000318.txt</FileName>
+    <GrossFileSize>2174591</GrossFileSize>
+    <NetFileSize>118330</NetFileSize>
+    <NonText_DocumentType_Chars>786273</NonText_DocumentType_Chars>
+    <HTML_Chars>353521</HTML_Chars>
+    <XBRL_Chars>498283</XBRL_Chars>
+    <XML_Chars>365169</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001091818-19-000318.hdr.sgml : 20191209
+<ACCEPTANCE-DATETIME>20191209144317
+ACCESSION NUMBER:		0001091818-19-000318
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		56
+CONFORMED PERIOD OF REPORT:	20190731
+FILED AS OF DATE:		20191209
+DATE AS OF CHANGE:		20191209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Summit Networks Inc.
+		CENTRAL INDEX KEY:			0001619096
+		STANDARD INDUSTRIAL CLASSIFICATION:	GLASS PRODUCTS, MADE OF PURCHASED GLASS [3231]
+		IRS NUMBER:				352511257
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-199108
+		FILM NUMBER:		191275044
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3A, KINGSWELL COMMERCIAL TOWER
+		STREET 2:		171-173 LOCKHARD ROAD
+		CITY:			WANCHAI
+		STATE:			K3
+		ZIP:			00000
+		BUSINESS PHONE:		852-3910-6020
+
+	MAIL ADDRESS:	
+		STREET 1:		3A, KINGSWELL COMMERCIAL TOWER
+		STREET 2:		171-173 LOCKHARD ROAD
+		CITY:			WANCHAI
+		STATE:			K3
+		ZIP:			00000
+
+</SEC-Header>
+</Header>
+
+ 0001091818-19-000318.txt : 20191209
+
+10-K
+ 1
+ sntw12052019form10k2019.htm
+ YEAR END REPORT-JULY 31, 2019
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 10-K 
+
+(Mark One) 
+
+x 
+ ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the fiscal year ended July 31, 2019 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ____________________ to _____________________ 
+
+Commission file number 333-199108 
+ 
+ SUMMIT NETWORKS INC 
+ (Exact name of registrant as specified in its charter) 
+
+Nevada 
+ 35-2511257 
+ 
+ (State or other jurisdiction of incorporation or organization) 
+ (I.R.S. Employer Identification No.) 
+
+3A, Kingswell Commercial Tower 
+ 171-173 Lockhard Road 
+ Hong Kong 
+ (Address of registrant s principal executive offices) 
+ Registrant s telephone number, including area code 852-3910 6020 
+ Securities registered under Section 12(b) of the Act: 
+
+None 
+ N/A 
+ 
+ Title of each class 
+ Name of each exchange on which registered 
+
+Securities registered under Section 12(g) of the Act: 
+ 
+ Common Stock, 0.001 par value 
+ (Title of class) 
+ -i- 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes o No 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act Yes o No 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No o 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes No [ ] 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ ] 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer [ ] 
+ 
+ Accelerated filer [ ] 
+ 
+ Non-accelerated filer [ ] 
+(Do not check if a smaller reporting company) 
+ 
+ Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [ ] No 
+ At July 31, 2019, the last business day of the Registrant's most recently completed fiscal year, the aggregate market value of the voting common stock held by non-affiliates of the Registrant (without admitting that any person whose shares are not included in such calculation is an affiliate) was approximately 730,469. As of July 31, 2019, the registrant had 61,049,990 shares of common stock, par value 0.001 per share issued and outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+ 
+ List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) any annual report to security holders; (2) any proxy or information statement; and (3) any prospectus filed pursuant to Rule 424(b) or (c) of the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980). Not Applicable 
+ -ii- 
+
+Table of Contents 
+
+PART I 
+
+Page 
+ 
+ Item 1. 
+ Business 
+ 2 
+
+Item 1A. 
+ Risk Factors 
+ 8 
+
+Item 2. 
+ Property 
+ 16 
+
+Item 3. 
+ Legal Proceedings 
+ 16 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 16 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 16 
+
+Item 6. 
+ Selected Financial Data 
+ 18 
+
+Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 18 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosure About Market Risk 
+ 18 
+
+Item 8. 
+ Financial Statements and Supplementary Data 
+ 23 
+
+Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 37 
+
+Item 9A. 
+ Controls and Procedures 
+ 37 
+
+Item 9B. 
+ Other Information 
+ 38 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 39 
+
+Item 11. 
+ Executive Compensation 
+ 43 
+
+Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 45 
+
+Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 46 
+
+Item 14. 
+ Principal Accountant Fees and Services 
+ 46 
+
+Item 15. 
+ Exhibits, and Financial Statement Schedules 
+ 46 
+
+Signatures 
+ 46 
+
+-1- 
+
+PART I 
+ Forward Looking Statements. 
+ 
+ This annual report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These statements relate to future events or our future financial performance. In some cases, you can identify forward-looking statements by terminology such as may , should , expects , plans , anticipates , believes , estimates , predicts , potential or continue or the negative of these terms or other comparable terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled Risk Factors and the risks set out below, any of which may cause our or our industry s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. 
+ 
+ Forward looking statements are made based on management s beliefs, estimates and opinions on the date the statements are made and we undertake no obligation to update forward-looking statements if these beliefs, estimates and opinions or other circumstances should change. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results. 
+ 
+ Our financial statements are stated in United States dollars US) and are prepared in accordance with United States Generally Accepted Accounting Principles. 
+ 
+ In this annual report, unless otherwise specified, all references to common stock refer to the common shares in our capital stock. 
+ 
+ As used in this annual report, the terms we , us , our , Summit and Summit Networks mean Summit Networks Inc, unless the context clearly requires otherwise. 
+
+ITEM 1. BUSINESS 
+ 
+ Corporate Background and General Business Overview 
+ 
+ Our Company was incorporated in the State of Nevada on July 8, 2014 to engage in the development and operation of a business engaged in the distribution of glass craft products produced in China. We are a development stage company and also considered an Emerging Growth Company . Our fiscal year end is July 31st. We have an office located at 3A, 171-173 Lockhard Road, Kingswell Commercial Tower, Wanchai, Hong Kong. On Our President and CEO, Chi Ming Tso, oversees the implementation of the business strategy and is responsible for the development of new initiatives and future expansion of the Company s operations. 
+ 
+ Since inception, we have had limited operating activities. Our principal business activities from inception to recently were in the sale of glass craft products. We had supply agreements with three large and well-established suppliers and distributors of glass craft products in China. The term of these agreement began in 2014 and expired in 2018. 
+ -2- 
+
+Currently, we are in the early stage of development of our new business plan in which we act as an international agent through our wholly owned subsidiary for a Chinese environmental company to market its environmental technologies, equipment and products and to develop projects utilizing its environmental technologies, equipment and products in worldwide markets. As well, we would seek for acquisition by the Chinese environmental company environmental technologies and equipment or technology and equipment integration methodologies. 
+ 
+ On April 9, 2019 the Company entered into a Share Exchange Agreement with MoralArrival Environmental and Blockchain Technology Services Limited MoralArrival ), a British Virgin Islands company and the shareholder of MoralArrival. Under the terms of that Share Exchange Agreement, the Company agreed to exchange 300,000 shares of its common stock for all the outstanding shares of common stock of MoralArrival. As a result of this transaction, MoralArrival would become a wholly owned subsidiary of the Company. MoralArrival is a recently formed startup company with nominal assets and no history of operations. MoralArrival is in the business of acting as an international agent for a Chinese environmental company, Hengshui Jingzhen Environmental Technology Company Limited of Hebei, China Hengshui ). Hengshui supplies environmental treatment systems and products. It is a comprehensive environmental protection enterprise with technology integrating hazardous waste collection, disposal and utilization. It uses modern technology to efficiently treat hazardous waste and turn waste into energy regeneration. 
+ 
+ On April 10, 2019 the Company sold its shares of its wholly owned subsidiary, Real Capital Limited Real Capital ), for a nominal consideration of One US Dollar (US 1.00). The Company acquired Real Capital on May 8, 2018 with the aim of developing new business opportunities. Real Capital has had no sales revenue for the past few years and a net assets value of minus Forty Two Thousand, One Hundred and Sixty Hong Kong Dollars (HK 42,160) as at January 31, 2019. 
+ 
+ Our plan of operations over the next 12-month period is to continue to develop and grow our current business activities. We are also continuously looking for other business opportunities. 
+ 
+ On July 17, 2019 the Company received the approval from Finra to do a 1:10 forward split of its shares. Prior to the 1:10 forward split, the Company had 6,104,999 shares of common stock issued and outstanding, and after the 1:10 forward split the Company had 61,049,990 shares of common stock issued and outstanding. 
+ 
+ As at July 31, 2019 the Company had 61,049,990 shares of common stock issued and outstanding. 
+ 
+ From the Company s inception on July 8, 2014 to the fiscal year ended July 31, 2019, the Company had 223,910 in revenues and a net loss of 512,258. From the Company s inception on July 8, 2014 to the fiscal year ended July 31, 2018, the Company had 223,910 in revenues and a net loss of 136,266. 
+ 
+ Our independent registered public accountant has issued an audit opinion for our Company which includes a statement expressing substantial doubt as to our ability to continue as a going concern (see Financial Statements). 
+ -3- 
+
+The Company qualifies as an emerging growth company as defined in the Jumpstart our Business Startups Act (the JOBS Act ). We intend to take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act, reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and shareholder approval of any golden parachute payments not previously approved. As well, our election allows us to delay the adoption of new or revised accounting standards that have different effective dates for public and private companies until they apply to private companies. Therefore, as a result of our election, our financial statements may not be comparable to companies that comply with public company effective dates. 
+ 
+ Research and Development Expenditures 
+ 
+ We have not incurred any research expenditures since our incorporation. 
+ 
+ Bankruptcy or Similar Proceedings 
+ 
+ There has been no bankruptcy, receivership or similar proceeding. 
+ 
+ Reorganizations, Purchase or Sale of Assets 
+ 
+ There have been no material reclassifications, mergers, consolidations, or purchase or sale of a significant amount of assets not in the ordinary course of business. 
+ 
+ Compliance with Government Regulation 
+ 
+ We are required to comply with all regulations, rules and directives of governmental authorities and agencies applicable to our business activities. We do not believe that government regulation will have a material impact on the way we conduct our business. 
+ 
+ We do not believe that any existing or probable government regulation on our business, including any applicable export or import regulation or control imposed by China or USA in which we plan to distribute glass craft products will have a material impact on the way we conduct our business. 
+ -4- 
+
+Patents, Trademarks and Copyrights 
+ 
+ We do not own, either legally or beneficially, any patents or trademarks. Beyond our trade name, we do not hold any other intellectual property. 
+ 
+ Research and Development Activities and Costs 
+ 
+ We have not incurred any research and development costs to date. We have plans to undertake certain research and development activities during the next 12 months related to the development of our website. 
+ 
+ Facilities 
+ We do not own any physical property. Currently, we are renting a shared office space located at 3A, Kingswell Commercial Tower, 171-173 Lockhard Road, Wanchai, Hong Kong. 
+ Chi Ming Tso (our director, President and CEO), works on Company business from our office in Hong Kong. This location serves as our primary office for planning and implementing our business plan. Management believes the current premises arrangement is sufficient for its needs for at least the next 12 months. 
+ 
+ Employees and Employment Agreements 
+ 
+ We have no employees as of the date of this report. Our CEO works as a consultant and devotes as much time as necessary for him to manage the affairs of the Company. As our business and operations increase, we will hire full time management and administrative support personnel. 
+ 
+ Reports to Stockholders 
+ 
+ We are required to file reports with the SEC pursuant to the Securities Exchange Act of 1934, as amended (the Exchange Act ). These reports include annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K. You may obtain copies of these reports from the SEC s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549, on official business days during the hours of 10 A.M. to 3 P.M. or on the SEC s website, at www.sec.gov. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+ 
+ We will also make these reports available on our website once our website is completed and launched. 
+ -5- 
+
+Jobs Act 
+ 
+ Because we generated less than 1 billion in total annual gross revenues during our most recently completed fiscal year, we qualify as an emerging growth company under the Jumpstart Our Business Startups JOBS Act. 
+ 
+ We will lose our emerging growth company status on the earliest occurrence of any of the following events: 
+ 
+ 1. on the last day of any fiscal year in which we earn at least 1 billion in total annual gross revenues, which amount is adjusted for inflation every five years; 
+ 
+ 2. on the last day of the fiscal year of the issuer following the fifth anniversary of the date of our first sale of common equity securities pursuant to an effective registration statement; 
+ 
+ 3. on the date on which we have, during the previous 3-year period, issued more than 1 billion in non-convertible debt; or 
+ 
+ 4. the date on which such issuer is deemed to be a large accelerated filer , as defined in section 240.12b 2 of title 17, Code of Federal Regulations, or any successor thereto. 
+ 
+ A large accelerated filer is an issuer that, at the end of its fiscal year, meets the following conditions: 
+ 
+ 1. it has an aggregate worldwide market value of the voting and non-voting common equity held by its non-affiliates of 700 million or more as of the last business day of the issuer's most recently completed second fiscal quarter; 
+ 
+ 2. It has been subject to the requirements of section 13(a) or 15(d) of the Act for a period of at least twelve calendar months; and 
+ 
+ 3. It has filed at least one annual report pursuant to section 13(a) or 15(d) of the Act. 
+ -6- 
+
+As an emerging growth company, exemptions from the following provisions are available to us: 
+ 
+ 1. Section 404(b) of the Sarbanes-Oxley Act of 2002, which requires auditor attestation of internal controls; 
+ 
+ 2. Section 14A(a) and (b) of the Securities Exchange Act of 1934, which require companies to hold shareholder advisory votes on executive compensation and golden parachute compensation; 
+ 
+ 3. Section 14(i) of the Exchange Act (which has not yet been implemented), which requires companies to disclose the relationship between executive compensation actually paid and the financial performance of the company; 
+ 
+ 4. Section 953(b)(1) of the Dodd-Frank Act (which has not yet been implemented), which requires companies to disclose the ratio between the annual total compensation of the CEO and the median of the annual total compensation of all employees of the companies; and 
+ 
+ 5. The requirement to provide certain other executive compensation disclosure under Item 402 of Regulation S-K. Instead, an emerging growth company must only comply with the more limited provisions of Item 402 applicable to smaller reporting companies, regardless of the issuer s size. 
+ 
+ Pursuant to Section 107 of the JOBS Act, an emerging growth company may choose to forgo such exemption and instead comply with the requirements that apply to an issuer that is not an emerging growth company. 
+ 
+ We have elected to maintain our status as an emerging growth company and take advantage of the JOBS Act provisions . 
+ 
+ Smaller Reporting Company 
+ 
+ IMPLICATIONS OF BEING AN EMERGING GROWTH COMPANY - THE JOBS ACT 
+ -7- 
+
+We qualify as an emerging growth company as that term is used in the JOBS Act. An emerging growth company may take advantage of specified reduced reporting and other burdens that are otherwise applicable generally to public companies. These provisions include: 
+
+A requirement to have only two years of audited financial statements and only two years of related MD 
+
+Exemption from the auditor attestation requirement in the assessment of the emerging growth company s internal control over financial reporting under Section 404 of the Sarbanes-Oxley Act of 2002; 
+
+Reduced disclosure about the emerging growth company s executive compensation arrangements; and 
+
+No non-binding advisory votes on executive compensation or golden parachute arrangements. 
+
+We may take advantage of the reduced reporting requirements applicable to smaller reporting companies even if we no longer qualify as an emerging growth company. 
+ 
+ In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act of 1933, as amended (the Securities Act for complying with new or revised accounting standards. We have elected to use the extended transition period provided above and therefore our financial statements may not be comparable to companies that comply with public company effective dates. 
+ 
+ We could remain an emerging growth company for up to five years, or until the earliest of (i) the last day of the first fiscal year in which our annual gross revenues exceed 1 billion, (ii) the date that we become a large accelerated filer as defined in Rule 12b-2 under the Exchange Act, which would occur if the market value of our common stock that is held by non-affiliates exceeds 700 million as of the last business day of our most recently completed second fiscal quarter, or (iii) the date on which we have issued more than 1 billion in non-convertible debt during the preceding three year period. 
+ 
+ ITEM 1A. RISK FACTORS 
+ 
+ Our common shares are considered speculative. Prospective investors should consider carefully the risk factors set out below. 
+ 
+ RISK FACTORS 
+ 
+ An investment in our common stock involves a high degree of risk. You should carefully consider the risks described below and the other information in this annual report before investing in our common stock. If any of the following risks occur, our business, operating results and financial condition could be seriously harmed. The trading price of our common stock could decline due to any of these risks, and you may lose all or part of your investment. 
+ -8- 
+
+Risks Relating to our Business 
+ 
+ Because our independent registered public accountants have issued a going concern opinion, there is substantial uncertainty that we will continue operations, in which case you could lose your investment. 
+ 
+ Our independent registered public accountants have issued a going concern opinion. This means that there is substantial doubt that we can continue as an ongoing business for the next twelve months. The financial statements do not include any adjustments that might result from the uncertainty about our ability to continue in business. As such we may have to cease operations and you could lose your investment. 
+ 
+ We have a very limited operating history and we anticipate that we will incur net losses from our operations for the foreseeable future. 
+ 
+ We were incorporated on July 8, 2014 and have limited operations. We have realized some revenues to date. Our business plan is still under development and, combined with our limited operating history, this can make an evaluation of our future success or failure very difficult. Our financial statements as at July 31, 2019 show an accumulated deficit of 512,258, we anticipate that we will incur net losses from our operations for the foreseeable future. This will happen because there are substantial costs and expenses associated with the development, marketing and distribution of our products. We may fail to generate revenues in the future. If we cannot attract a significant number of purchasers, we will not be able to generate any significant revenues or income. Failure to generate revenues will cause us to go out of business because we will not have the money to pay our ongoing expenses. 
+ 
+ In particular, additional capital may be required in the event that: 
+ 
+ a. the actual expenditures required to be made are at or above the higher range of our estimated expenditures; 
+ 
+ b. we incur unexpected costs in completing the development of our business or encounter any unexpected difficulties; 
+ 
+ c. we incur delays and additional expenses related to the distribution or procurement of our products; or 
+ 
+ d. we are unable to create a substantial market for our products; or we incur any significant unanticipated expenses. 
+ -9- 
+
+The occurrence of any of the aforementioned events could adversely affect our ability to meet our business plans and achieve a profitable level of operations. 
+ 
+ If we are unable to attain the necessary revenue levels to continue implement our business plan we will not have the money to pay our ongoing expenses and we may go out of business. 
+ 
+ We have generated some small revenue from our business in the past. We do not foresee that we will be able to generate larger revenues in the near future. Therefore, we may need to raise significant, additional funds for the future development of our business and to respond to unanticipated requirements or expenses. 
+ 
+ Our ability to successfully market our products and to eventually distribute and generate operating revenues also depends on our ability to obtain the necessary financing to implement our business plan. Given that we have a very limited operating history and small revenues, we may not be able to achieve this goal, and we may go out of business. We may need to issue additional equity securities in the future to raise the necessary funds. We do not currently have any arrangements for additional financing, and we can provide no assurance to investors we will be able to find such financing if further funding is required. Obtaining additional financing would be subject to a number of factors, including investor acceptance of our products and our business model. The issuance of additional equity securities by us would result in a significant dilution in the equity interests of the original stockholders. Obtaining loans will increase our liabilities and future cash commitments, and there can be no assurance that we will even have sufficient funds to repay our future indebtedness or that we will not default on our future debts if we are able to even obtain loans. 
+ 
+ There can be no assurance that capital will be available to us to meet our future funding needs or, if the capital is available, that it will be on terms acceptable to us. If we are unable to obtain financing in the amounts and on terms deemed acceptable to us, we may be forced to scale back or cease operations, which might result in the loss of some or all of your investment in our common stock. 
+ 
+ The market for treatment of hazardous waste is fragmented and competitive and we may not be able to compete successfully with our existing competitors or new entrants into the markets we serve. 
+ 
+ The market for treatment of hazardous waste is fragmented and competitive. Our competition varies by technologies, customer requirements and geographic market. We compete with various national and international technology companies. Many of our competitors have greater financial resources and may be able to withstand the competition in the market more effectively than we can. We also expect to continue to face competition from new market entrants. We may be unable to continue to compete effectively with these existing or new competitors, which could have a material adverse effect on our financial condition and results of operations. 
+ -10- 
+
+We depend on our suppliers for our business to operate. 
+ 
+ We are and will continue to be for the foreseeable future, substantially dependent on our technology suppliers to provide us their environmental treatment systems and products. We do not have our own manufacturing or research facilities to produce or develop our products. We are and will continue to be for the foreseeable future, entirely dependent on third parties to supply technologies and products we need to operate our business. We can make no assurance that we will be able to maintain these third-party relationships or establish additional relationships as necessary to support growth and profitability of our business on economically viable terms. As independent companies, our suppliers make their own business decisions. Such suppliers may choose not to do business with us for a variety of reasons, including competition, brand identity, product standards and concerns regarding our economic viability. In addition, their financial condition could also be adversely affected by conditions beyond our control and our business could suffer. We will face risks associated with any supplier s failure to adhere to quality control and service guidelines we establish or failure to ensure an adequate and timely supply of product to our potential and future customers. Any of these factors could negatively affect our business and financial performance. If we are unable to obtain and maintain a source of supply for our products, our business will be materially and adversely affected. 
+ 
+ Because we will purchase and distribute our products to and from overseas locations, a disruption in the delivery of exported products may have a greater effect on us than on our competitors. 
+ 
+ We will export our products from China. Because we export our products and deliver them directly to our customers, we believe that disruptions in shipping deliveries may have a greater effect on us than on competitors who manufacture and/or warehouse products in Europe and North America. Deliveries of our products may be disrupted through factors such as: 
+ 
+ a. raw material shortages, work stoppages, strikes and political unrest; 
+ 
+ b. fuel price increases; 
+ 
+ c. problems with ocean shipping, including work stoppages and shipping and container shortages; 
+ 
+ d. increased inspections of import shipments or other factors causing delays in shipments; and 
+ 
+ e. economic crises, international disputes and wars. 
+ 
+ Some of our competitors warehouse products they import from overseas, which allows them to continue delivering their products for the near term, despite overseas shipping disruptions. If our competitors are able to deliver products when we cannot, our reputation may be damaged, and we may lose customers to our competitors. 
+ -11- 
+
+Price competition could negatively affect our gross margins. 
+ 
+ Price competition could negatively affect our operating results. To respond to competitive pricing pressures, we may have to offer our products at lower prices in order to retain or gain market share and customers. If our competitors offer discounts on products in the future, we will need to lower prices to match the competition, which could adversely affect our gross margins and operating results. 
+ 
+ We depend completely on one director to manage the affairs of the Company, the loss of whom would materially and adversely affect our company. 
+ 
+ We currently depend primarily on Mr. Tso for all of our operations. The loss of the service of Mr. Tso would have a substantial negative effect on our company. There is intense competition for skilled personnel and there can be no assurance that we will be able to attract and retain qualified personnel on acceptable terms. The loss of Mr. Tso s services could prevent us from completing the development of our business. In the event of the loss of his services, no assurance can be given that we will be able to obtain the services of an adequate replacement. 
+ 
+ We do not have any employment agreements or maintain key person life insurance policies on our officers and directors. We do not anticipate acquiring key man insurance for any officers and directors in the foreseeable future. 
+ 
+ We have limited business, sales and marketing experience in our industry. 
+ 
+ While we have plans for marketing and sales, there can be no assurance that such efforts will be successful. There can be no assurance that our glass craft products will gain wide acceptance in its target market or that we will be able to effectively market our product. 
+ 
+ Our officers and directors are also engaged in other activities and may not devote sufficient time to our affairs, which may affect our ability to conduct operations and generate revenues. 
+ 
+ We have not formulated a plan to resolve any possible conflict of interest with our officers and directors other business activities. Because we rely primarily on our officers and directors to maintain our business contacts and to promote our products, their limited devotion of time and attention to our business may hurt the operation of our business. 
+ 
+ We are subject to the periodic reporting requirements of the Securities Exchange Act of 1934, which will require us to incur audit fees and legal fees in connection with the preparation of such reports. These additional costs will negatively affect our ability to earn a profit. 
+ 
+ We are required to file periodic reports with the Securities and Exchange Commission pursuant to the Securities Exchange Act of 1934, as amended, and the rules and regulations thereunder. In order to comply with such requirements, our independent registered public accountants have to review our financial statements on a quarterly basis and audit our financial statements on an annual basis. Moreover, our legal counsel will have to review and assist in the preparation of such reports. The costs charged by these professionals for such services cannot be accurately predicted at this time because factors such as the number and type of transactions that we engage in and the complexity of our reports cannot be determined at this time and will have a major effect on the amount of time to be spent by our independent registered public accountants and attorneys. However, the incurrence of such costs will obviously be an expense to our operations and thus have a negative effect on our ability to meet our overhead requirements and earn a profit. 
+ -12- 
+
+Because our headquarters and assets are located outside the U.S., investors may experience difficulties in attempting to affect service of process and to enforce judgments based upon U.S. federal securities laws against the Company and its non-U.S. resident officer and director. 
+ 
+ While we are organized under the laws of State of Nevada, our headquarters and assets are located outside the United States, in Hong Kong. Consequently, it may be difficult for investors to affect service of process on our officers and directors and to enforce in the United States judgments obtained in United States courts against the Company and its officers and directors based on the civil liability provisions of the United States securities laws. Since the majority our assets will be located outside U.S. it may be difficult or impossible for U.S. investors to collect a judgment against us. As well, any judgment obtained in the United States against us is likely not enforceable in Hong Kong. 
+ 
+ As an Emerging Growth Company under the Jumpstart Our Business Startups Act (JOBS Act), we are permitted to rely on exemptions from certain disclosure requirements. 
+ 
+ We qualify as an emerging growth company under the JOBS Act. As a result, we are permitted to, and intend to, rely on exemptions from certain disclosure requirements. For so long as we are an emerging growth company, we will not be required to: 
+
+have an auditor report on our internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act; 
+
+comply with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditor s report providing additional information about the audit and the financial statements (i.e., an auditor discussion and analysis); 
+
+submit certain executive compensation matters to shareholder advisory votes, such as say-on-pay and say-on-frequency; and 
+
+disclose certain executive compensation related items such as the correlation between executive compensation and performance and comparisons of the CEO s compensation to median employee compensation. 
+
+In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We will remain an emerging growth company for up to five full fiscal years, although if the market value of our common stock that is held by non-affiliates exceeds 700 million as of any June 30 before that time, we would cease to be an emerging growth company as of the following December 31, or if our annual revenues exceed 1 billion, we would cease to be an emerging growth company the following fiscal year, or if we issue more than 1 billion in non-convertible debt in a three-year period, we would cease to be an emerging growth company immediately. 
+ 
+ We will elect to take advantage of the extended transition period for complying with new or revised accounting standards under section 102(b)(1) 
+ -13- 
+
+This election allows us to delay the adoption of new or revised accounting standards that have different effective dates for public and private companies until those standards apply to private companies. As a result of this election our financial statements may not be comparable to companies that comply with public company effective dates. 
+ 
+ Risks Associated with our Common Stock 
+ 
+ Our shares of common stock are listed for trading on the OTC Bulletin Board, the trading price may fluctuate significantly, and stockholders may have difficulty reselling their shares. 
+ 
+ Our common stock has been listed for trading on the Over-the-Counter Bulletin Board. The extremely small numbers of holders sharply limits liquidity of the shares, and there is a volatility associated with Bulletin Board securities in general and the value of your investment could decline due to the impact of any of the following factors upon the market price of our common stock: (i) disappointing results from our discovery or development efforts; (ii) failure to meet our revenue or profit goals or operating budget; (iii) decline in demand for our common stock; (iv) downward revisions in securities analysts estimates or changes in general market conditions; (v) technological innovations by competitors or in competing technologies; (vi) lack of funding generated for operations; (vii) investor perception of our industry or our prospects; and (viii) general economic trends. As a result, investors may be unable to sell their shares at a fair price and you may lose all or part of your investment. 
+ 
+ Broker-dealers may be discouraged from effecting transactions in our shares because they are considered penny stocks and are subject to the penny stock rules. 
+ 
+ The SEC has adopted rules that regulate broker-dealer practices in connection with transactions in penny stocks. Penny stocks generally are equity securities with a price of less than 5.00 (other than securities registered on certain national securities exchanges or quoted on the NASDAQ system, provided that current price and volume information with respect to transactions in such securities is provided by the exchange or system). Penny stock rules require a broker-dealer, prior to a transaction in a penny stock not otherwise exempt from those rules, to deliver a standardized risk disclosure document prepared by the SEC, which specifies information about penny stocks and the nature and significance of risks of the penny stock market. A broker-dealer must also provide the customer with bid and offer quotations for the penny stock, the compensation of the broker-dealer, and salesperson in the transaction, and monthly account statements indicating the market value of each penny stock held in the customer s account. In addition, the penny stock rules require that, prior to a transaction in a penny stock not otherwise exempt from those rules, the broker-dealer must make a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser s written agreement to the transaction. These disclosure requirements may have the effect of reducing the trading activity in the secondary market for stock that becomes subject to those penny stock rules. Our common stock is subject to the penny stock rules, and shareholders may have difficulty in selling their shares. 
+ 
+ Because we do not intend to pay any cash dividends on our common stock, our stockholders will not be able to receive a return on their shares unless they sell them. 
+ 
+ We have not declared or paid any dividends on our common stock since our inception, and we do not anticipate paying any such dividends for the foreseeable future. Investors that need to rely on dividend income should not invest in our common stock, as any income would only come from any rise in the market price of our common stock, which is uncertain and unpredictable. Investors that require liquidity should also not invest in our common stock. Unless we pay dividends, our stockholders will not be able to receive a return on their shares unless they sell them. There is no established trading market, and should one develop, it will likely be volatile and subject to minimal trading volumes. 
+ -14- 
+
+Because we can issue additional shares of common stock, purchasers of our common stock may incur immediate dilution and may experience further dilution. 
+ 
+ We are authorized to issue up to 500,000,000 shares of common stock. At present, there are 61,049,990 issued and outstanding shares of common stock. Our Board of Directors has the authority to cause us to issue additional shares of common stock without consent of any of our stockholders. Consequently, our stockholders may experience more dilution in their ownership of our Company in the future, which could have an adverse effect on the trading market for our shares of common stock. 
+ 
+ Anti-takeover effects of certain provisions of Nevada state law hinder a potential takeover of the company. 
+ 
+ Though not now, we may be or in the future we may become subject to Nevada s control share law. A corporation is subject to Nevada s control share law if it has more than 200 stockholders, at least 100 of whom are stockholders of record and residents of Nevada, and it does business in Nevada or through an affiliated corporation. The law focuses on the acquisition of a controlling interest which means the ownership of outstanding voting shares sufficient, but for the control share law, to enable the acquiring person to exercise the following proportions of the voting power of the corporation in the election of directors: (i) one-fifth or more but less than one-third, (ii) one-third or more but less than a majority, or (iii) a majority or more. The ability to exercise such voting power may be direct or indirect, as well as individual or in association with others. 
+ 
+ The effect of the control share law is that the acquiring person, and those acting in association with it, obtains only such voting rights in the control shares as are conferred by a resolution of the stockholders of the corporation, approved at a special or annual meeting of stockholders. The control share law contemplates that voting rights will be considered only once by the other stockholders. Thus, there is no authority to strip voting rights from the control shares of an acquiring person once those rights have been approved. If the stockholders do not grant voting rights to the control shares acquired by an acquiring person, those shares do not become permanent non-voting shares. The acquiring person is free to sell its shares to others. If the buyers of those shares themselves do not acquire a controlling interest, their shares do not become governed by the control share law. 
+ 
+ If control shares are accorded full voting rights and the acquiring person has acquired control shares with a majority or more of the voting power, any stockholder of record, other than an acquiring person, who has not voted in favor of approval of voting rights is entitled to demand fair value for such stockholder s shares. 
+ 
+ Nevada s control share law may have the effect of discouraging takeovers of the corporation. In addition to the control share law, Nevada has a business combination law which prohibits certain business combinations between Nevada corporations and interested stockholders for three years after the interested stockholder first becomes an interested stockholder, unless the corporation s board of directors approves the combination in advance. For purposes of Nevada law, an interested stockholder is any person who is (i) the beneficial owner, directly or indirectly, of ten percent or more of the voting power of the outstanding voting shares of the corporation, or (ii) an affiliate or associate of the corporation and at any time within the three previous years was the beneficial owner, directly or indirectly, of ten percent or more of the voting power of the then outstanding shares of the corporation. The definition of the term business combination is sufficiently broad to cover virtually any kind of transaction that would allow a potential acquirer to use the corporation s assets to finance the acquisition or otherwise to benefit its own interests rather than the interests of the corporation and its other stockholders. 
+ 
+ The effect of Nevada s business combination law is to potentially discourage parties interested in taking control of us from doing so if it cannot obtain the approval of our board of directors. 
+ -15- 
+
+ITEM 2. PROPERTIES. 
+ 
+ We do not own any physical property. Currently, we are renting a shared office space located at 3A, Kingswell Commercial Tower, 171-173 Lockhard Road, Wanchai, Hong Kong. 
+ 
+ Management believes the current premises arrangements are sufficient for its needs for at least the next 12 months. 
+ 
+ We currently have no investment policies as they pertain to real estate, real estate interests or real estate mortgages. 
+ 
+ ITEM 3. LEGAL PROCEEDINGS. 
+ 
+ We know of no material, active or pending legal proceedings against our company, nor are we involved as a plaintiff in any material proceeding or pending litigation. There are no proceedings in which our director, officer or affiliates, or any registered or beneficial shareholder, is an adverse party or has a material interest adverse to our interest. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES. 
+ 
+ None. 
+ PART II 
+ 
+ ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+ 
+ Market for Securities 
+ 
+ Our common stock is listed on the Over-the Counter Bulletin Board. There has been no active trading of our common stock. 
+ 
+ Holders of our Common Stock 
+ 
+ As of July 31, 2019, there were 35 registered stockholders, holding 61,049,990 shares of our issued and outstanding common stock. 
+ -16- 
+
+Dividend Policy 
+ 
+ There are no restrictions in our articles of incorporation or bylaws that prevent us from declaring dividends. The Nevada Revised Statutes, however, do prohibit us from declaring dividends where, after giving effect to the distribution of the dividend: 
+
+1. 
+ We would not be able to pay our debts as they become due in the usual course of business; or 
+
+2. 
+ Our total assets would be less than the sum of our total liabilities plus the amount that would be needed to satisfy the rights of shareholders who have preferential rights superior to those receiving the distribution. 
+
+We have not declared any dividends and we do not plan to declare any dividends in the foreseeable future. 
+ 
+ Recent Sales of Unregistered Securities 
+ 
+ As of July 31, 2017, the Company had 5,000,000 shares of common stock issued and outstanding. 
+ 
+ On November 28, 2017 and on March 14, 2018, the Company issued a total of 649,999 shares of common stock to one independent investor and two shareholders for cash consideration totally of 19,500. The purchase price for the common stocks was 0.03 per common share. 
+ 
+ On July 24, 2018, the Company issued a total of 455,000 shares of common stock to one independent investor and two shareholders for cash consideration totally of 13,650. The purchase price for the common stocks was 0.03 per common share. 
+ 
+ Purchases of Equity Securities by the Issuer and Affiliated Purchasers 
+ 
+ We did not purchase any of our shares of common stock or other securities during our fiscal year ended July 31, 2019. 
+ -17- 
+
+Securities Authorized for Issuance Under Equity Compensation Plans 
+ 
+ We do not have any equity compensation plans. 
+ 
+ ITEM 6. SELECTED FINANCIAL DATA. 
+ 
+ As a small reporting company , we are not required to provide the information required by this item. 
+ 
+ ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+ 
+ CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ The information contained in this annual report, including in the documents incorporated by reference into this annual report, includes some statements that are not purely historical and that are forward-looking statements. Such forward-looking statements include, but are not limited to, statements regarding our Company and management s expectations, hopes, beliefs, intentions or strategies regarding the future, including our financial condition, results of operations, and financial performance. In addition, any statements that refer to projections, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. The words anticipates, believes, continue, could, estimates, expects, intends, may, might, plans, possible, potential, predicts, projects, seeks, should, will, would and similar expressions, or the negatives of such terms, may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. 
+ 
+ The forward-looking statements contained in this annual report are based on current expectations and beliefs concerning future developments and the potential effects on the parties and the transaction. There can be no assurance that future developments actually affecting us will be those anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond the parties control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. 
+ 
+ Results of Operations 
+ 
+ We have generated 223,910 in revenues since our inception on July 8, 2014. Our cost of goods sold was 163,257 resulting in a gross profit of 60,653. During the period from inception to July 31, 2019, our operating expenses were comprised of selling, general and administrative expenses of 569,297. The loss of disposal of subsidiary of 5,092 and the provision for income tax benefits was 1,478, resulting in a net loss of 512,258. Our selling, general and administrative expenses consisted of mainly professional and consulting fees. 
+ -18- 
+
+During the year ended July 31, 2019, we generated Nil in revenues with cost of goods sold being Nil, resulting in a gross profit of Nil. Our operating expenses for the same period were comprised of selling, general and administrative expenses of 370,900. The loss on disposal of subsidiary was 5,092, resulting in a net loss of 375,992. Our total assets at July 31, 2019 were 553, which was all in cash. 
+ 
+ During the Comparable year ended July 31, 2018, we generated Nil in revenues with cost of goods sold being Nil, resulting in a gross profit of Nil. Our operating expenses for the same period were comprised of selling, general and administrative expenses of 94,817, resulting in a net loss of 94,817. Our total assets at July 31, 2018 were 33,457, which was 17,729 in cash, 4,556 in receivable and 11,172 in property and office equipment (net). 
+ 
+ We currently anticipate that our legal and accounting fees over the next 12 months for being a reporting company with the SEC will be approximately 30,000. 
+ 
+ As at July 31, 2019 the Company had 61,049,990 shares of common stock issued and outstanding after the 10:1 forward split of its common stock in July 2019, and as at July 31, 2018 the Company had 6,104,999 shares of common stock outstanding. 
+ 
+ As at July 31, 2019 and 2018, the amounts due to director and shareholders for expenses that have been paid on behalf of the company were total of 52,642 and 58,038, respectively. The loan is interest free and payable on demand. 
+ 
+ Plan of Operation for the next 12 months 
+ 
+ Because we were not able to raise sufficient capital to execute our full business plan, we are now engaged in discussions with third parties regarding alternative directions for the Company that could enhance shareholder value. As of the date of filing this Report on Form 10K, we have not entered into any definitive agreement to change our direction. The business plan of our company below assumes that we will continue with our business as originally planned. However, we are in discussions that could lead to another direction for the Company. 
+ 
+ Even if we are able to generate some sales revenue at the end of the twelve months period, there is no guarantee that we will be able to generate sufficient revenue to cover our expenditures. If we are unable to generate a significant amount of revenue, then it would materially affect our financial condition. 
+ 
+ Based on our current operating plan, we are not able to guarantee of generating any revenue from selling our suppliers environmental systems and products in the FY 2019. We may need to obtain additional financing to operate our business for the next twelve months. Additional financing, whether through public or private equity or debt financing, arrangements with the security holder or other sources to fund operations, may not be available, or if available, may be on terms unacceptable to us. 
+ -19- 
+
+Liquidity and Capital Resources 
+ 
+ As at July 31, 2019 and 2018, we had 553 and 17,729 in cash, and there were outstanding liabilities of 86,894 and 96,216 respectively. Our directors have verbally agreed to continue to lend the company funds for operating expenses in a limited arrangement but has no legal obligation to do so. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors. 
+ 
+ LIMITED OPERATING HISTORY; NEED FOR ADDITIONAL CAPITAL 
+ 
+ There is limited historical financial information about us upon which to base an evaluation of our performance. We have meaningfully commenced business operations based upon the amount of revenue we have been able to generate. We are in start-up stage operations and have generated 223,910 in revenue since inception. We cannot guarantee we will be successful in our business operations. Our business is subject to risks inherent in the establishment of a new business enterprise, including limited capital resources and possible cost overruns due to price and cost increases in services and products. 
+ 
+ We have no assurance that future financing will be available to us on acceptable terms. If financing is not available on satisfactory terms, we may be unable to continue, develop or expand our operations. Equity financing could result in additional dilution to existing shareholders. 
+ -20- 
+
+Summary of significant accounting policies: 
+ 
+ a. Use of Estimates and Assumptions 
+ The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+ b. Fair Value of Financial Instruments 
+ ASC 825, Disclosures about Fair Value of Financial Instruments , requires disclosure of fair value information about financial instruments. ASC 820, Fair Value Measurements defines fair value, establishes a framework for measuring fair value in generally accepted accounting principles, and expands disclosures about fair value measurements. Fair value estimates discussed herein are based upon certain market assumptions and pertinent information available to management as of July 31, 2019. 
+ Fair values were assumed to approximate carrying values of on-balance-sheet financial instruments since they are short term in nature. These financial instruments include cash, accrued expenses and related party loan payable. 
+ c. Earnings per Share 
+ 
+ ASC No. 260, Earnings Per Share , specifies the computation, presentation and disclosure requirements for earnings (loss) per share for entities with publicly held common stock. The Company has adopted the provisions of ASC No. 260. 
+ Basic net loss per share amounts is computed by dividing the net loss by the weighted average number of common shares outstanding. Diluted earnings per share are the same as basic earnings per share due to the lack of dilutive items in the Company. 
+ d. Cash and Equivalents 
+ The Company considers all highly liquid investments purchased with an original maturity of three months or less to be cash equivalents. 
+ e. Income Taxes 
+ Income taxes are provided in accordance with ASC No. 740, Accounting for Income Taxes. A deferred tax asset or liability is recorded for all temporary differences between financial and tax reporting and net operating loss carry forwards. Deferred tax expense (benefit) results from the net change during the year of deferred tax assets and liabilities. 
+ -21- 
+
+Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion of all of the deferred tax assets will be realized. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment. 
+ f. Revenue Recognition 
+ The Company will recognize revenue in accordance with ASC topic 605 Revenue Recognition - when all goods and services have been performed and delivered, the amounts are readily determinable, and collection is reasonably assured. The Company has generated 223,910 in revenue since its inception. 
+
+ g. Cost of Sales 
+ Amounts that will be recorded as cost of sales relate to direct expenses incurred in order to fulfill orders of our customers. Such costs are recorded and allocated as incurred. Our cost of sales will consist primarily of the cost of product and shipping expenses. 
+ h. Advertising 
+ The Company expenses its advertising when incurred. There has been 12,498 in advertising expense since inception. 
+ i. Fixed Assets 
+ Fixed assets are stated at cost, net of accumulated depreciation and accumulated impairment losses, (if any). The Company utilizes straight-line depreciation over the estimated useful life of the asset. 
+ Property 40 years 
+ Office Equipment 7 years 
+ -22- 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+-23- 
+
+-24- 
+
+SUMMIT NETWORKS INC. 
+ CONSOLIDATED BALANCE SHEETS 
+
+ASSETS 
+
+July 31, 
+ July 31, 
+ 
+ 2019 
+ 2018 
+
+Current Assets 
+ 
+ Cash Cash Equivalents 
+ 
+ 553 
+ 
+ 17,729 
+ 
+ Receivable - Rick Jones - Escrow account 
+ - 
+ 
+ 4,556 
+ 
+ Total Current Assets 
+ 553 
+ 
+ 22,285 
+
+Property Office Equipment, net 
+ - 
+ 
+ 11,172 
+ 
+ TOTAL ASSETS 
+ 
+ 553 
+ 
+ 33,457 
+
+LIABILITIES STOCKHOLDERS' EQUITY 
+
+Current Liabilities 
+
+Accounts payable and accrued expenses 
+ 
+ 34,252 
+ 
+ 15,011 
+ 
+ Due to related party 
+ 52,642 
+ 
+ 21,192 
+ 
+ Amount due to shareholders 
+ - 
+ 
+ 36,846 
+ 
+ Loan from other parties 
+ - 
+ 
+ 23,167 
+ 
+ Total Liabilities 
+ 86,894 
+ 
+ 96,216 
+
+Stockholders' Equity 
+
+Common stock, 0.001 par value, 500,000,000 shares 
+
+authorized; 61,049,990 and 6,104,999 shares issued and outstanding 
+
+as of July 31, 2019 and July 31, 2018 
+ 6,105 
+ 
+ 6,105 
+ 
+ Additional Paid in Capital 
+ 71,045 
+ 
+ 67,402 
+ 
+ Contributed Surplus 
+ 348,767 
+ 
+ - 
+ 
+ Income/(loss) accumulated during development stage 
+ (512,258) 
+ 
+ (136,266) 
+ 
+ Total Stockholders' Equity 
+ (86,341) 
+ 
+ (62,759) 
+ 
+ TOTAL LIABILITIES STOCKHOLDERS' EQUITY 
+ 
+ 553 
+ 
+ 33,457 
+
+See accompanying notes to audited financial statements 
+ 
+ -25- 
+
+SUMMIT NETWORKS INC. 
+ CONSOLIDATED STATEMENT OF OPERATIONS 
+
+For the 
+ For the 
+ From 
+ July 8, 2014 
+ 
+ year 
+ ended 
+ year 
+ ended 
+ (Inception) 
+ to 
+ 
+ Jul 31, 
+ Jul 31, 
+ Jul 31, 
+ 
+ 2019 
+ 2018 
+ 2019 
+
+Sales 
+ 
+ - 
+ 
+ - 
+ 
+ 223,910 
+ 
+ Cost of Goods 
+ - 
+ 
+ - 
+ 
+ 163,257 
+ 
+ Gross Profit 
+ - 
+ 
+ - 
+ 
+ 60,653 
+
+Selling, General Administrative Expenses 
+ 370,900 
+ 
+ 94,817 
+ 
+ 569,297 
+
+Income / (loss) from operations 
+ (370,900) 
+ 
+ (94,817) 
+ 
+ (508,644) 
+
+Loss on disposal of subsidiary 
+ (5,092) 
+ 
+ - 
+ 
+ (5,092) 
+ 
+ Gain on debt forgiven 
+ - 
+ 
+ - 
+ 
+ - 
+
+Income before income taxes 
+ (375,992) 
+ 
+ (94,817) 
+ 
+ (513,736) 
+
+Income tax benefit (expense) 
+ - 
+ 
+ - 
+ 
+ 1,478 
+
+Net Income/ (Loss) 
+ 
+ (375,992) 
+ 
+ (94,817) 
+ 
+ (512,258) 
+
+Basic earnings per share 
+ 
+ (0.06) 
+ 
+ (0.02) 
+
+Diluted earnings per share 
+ 
+ (0.06) 
+ 
+ (0.02) 
+
+Weighted average number of 
+
+common shares outstanding 
+ 6,104,499 
+ 
+ 5,360,328 
+
+Diluted Weighted average number of 
+
+common shares outstanding 
+ 6,104,499 
+ 
+ 5,360,328 
+
+See accompanying notes to audited financial statements 
+ -26- 
+
+SUMMIT NETWORKS INC. 
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS DEFICIT 
+ (Audited) 
+
+Additional 
+ 
+ Common Stock 
+ Paid-in 
+ Contributed 
+ Accumulated 
+ 
+ Shares 
+ Amount 
+ Capital 
+ Surplus 
+ Deficit 
+ Total 
+
+Balance, July 31, 2017 
+ 5,000,000 
+ 5,000 
+ 39,000 
+ - 
+ (41,449) 
+ 2,551 
+
+Stock issued for cash on November 28, 2017 
+ 
+ @ 0.03 per share 
+ 250,000 
+ 
+ 250 
+ 
+ 7,250 
+
+-
+ 
+ -
+ 
+ 7,500 
+
+Stock issued for cash on March 15, 2018 
+
+@ 0.03 per share 
+ 399,999 
+ 
+ 400 
+ 
+ 11,600 
+
+-
+ 
+ -
+ 
+ 12,000 
+
+Stock issued for cash on July 24, 2018 
+
+@ 0.03 per share 
+ 455,000 
+ 
+ 455 
+ 
+ 13,195 
+
+-
+ 
+ -
+ 
+ 13,650 
+
+Loss on acquisition of Real Capital Limited 
+
+(3,643) 
+
+-
+ 
+ -
+ 
+ (3,643) 
+
+Net profit (loss), July 31, 2018 
+ -
+ 
+ -
+ 
+ -
+
+-
+ 
+ (94,817) 
+ 
+ (94,817) 
+
+Balance, July 31, 2018 
+ 6,104,999 
+ 
+ 6,105 
+ 
+ 67,402 
+ 
+ - 
+ 
+ (136,266) 
+ 
+ (62,759) 
+
+Net profit (loss), Apr 30, 2019 
+
+(375,992) 
+ 
+ (375,992) 
+
+Disposal of Real Capital Limited 
+
+3,643 
+
+3,643 
+
+Debt forgiven by related parties 
+
+348,767 
+
+348,767 
+
+Balance, July 31, 2019 
+ 6,104,999 
+ 
+ 6,105 
+ 
+ 71,045 
+ 
+ 348,767 
+ 
+ (512,233) 
+ 
+ (86,341) 
+
+See accompanying notes to audited financial statements 
+ -27- 
+
+SUMMIT NETWORKS INC. 
+ CONSOLIDATED STATEMENT OF CASH FLOWS 
+
+For the 
+ For the 
+ From 
+ July 8, 2014 
+ 
+ year 
+ ended 
+ year 
+ ended 
+ (Inception) 
+ to 
+
+Jul 31, 
+ Jul 31, 
+ Jul 31, 
+ 
+ 2019 
+ 2018 
+ 2019 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+ 
+ Net income (loss) 
+ 
+ (375,992) 
+ 
+ (94,817) 
+ 
+ (512,258) 
+ 
+ Adjustments to reconcile net loss to net cash 
+
+provided by (used in) operating activities: 
+
+Debt forgiven by related parties 
+ 
+ 348,767 
+ 
+ - 
+ 
+ 348,767 
+ 
+ Depreciation expense 
+ 
+ - 
+ 
+ 1,596 
+ 
+ 6,578 
+ 
+ Impairment on PPE 
+ 
+ 11,172 
+ 
+ - 
+ 
+ 11,172 
+ 
+ Provision (benefit) for deferred taxes 
+ 
+ - 
+ 
+ - 
+ 
+ (1,478) 
+ 
+ Changes in operating assets and liabilities: 
+
+Receivable - escrow account 
+ 
+ 4,556 
+ 
+ (4,556) 
+ 
+ - 
+ 
+ Other assets 
+ 
+ - 
+ 
+ 1,000 
+ 
+ - 
+ 
+ Accounts payable and accrued expenses 
+ 
+ 22,884 
+ 
+ 15,011 
+ 
+ 50,132 
+ 
+ Net cash provided by (used in) operating activities 
+ 
+ 11,387 
+ 
+ (81,766) 
+ 
+ (97,087) 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Acquisition of Property Equipment 
+ 
+ - 
+ 
+ - 
+ 
+ (17,750) 
+ 
+ Investment in subsidiary - Real Capital 
+ 
+ - 
+ 
+ (3,643) 
+ 
+ (3,643) 
+ 
+ Net cash provided by (used in) investing activities 
+ 
+ - 
+ 
+ (3,643) 
+ 
+ (21,393) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Advance from related party 
+ 
+ (28,563) 
+ 
+ 69,988 
+ 
+ 41,883 
+ 
+ Issuance of common stock 
+ 
+ - 
+ 
+ 33,150 
+ 
+ 77,150 
+ 
+ Net cash provided by (used in) financing activities 
+ 
+ (28,563) 
+ 
+ 103,138 
+ 
+ 119,033 
+
+Net increase (decrease) in cash 
+ 
+ (17,176) 
+ 
+ 17,729 
+ 
+ 553 
+ 
+ Cash at beginning of period 
+ 
+ 17,729 
+ 
+ - 
+ 
+ - 
+ 
+ Cash at end of period 
+ 
+ 553 
+ 
+ 17,729 
+ 
+ 553 
+
+See accompanying notes to audited financial statements 
+ -28- 
+
+SUMMIT NETWORKS INC. 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ For the years ended July 31, 2019 and 2018 
+ 
+ NOTE 1- ORGANIZATION AND DESCRIPTION OF BUSINESS 
+ 
+ Summit Networks Inc. (the Company was incorporated under the laws of the State of Nevada on July 8, 2014. Originally, the Company was formed to engage in the development and operation of a business engaged in the distribution of glass craft products produced in China. 
+ 
+ On April 11, 2019, after selling its wholly subsidiary, Real Capital Limited, the Company acquired MoralArrival Environmental and Blockchain Technology Services Limited MoralArrival ), a corporation incorporated under the laws of the British Virgin Islands. As a result of this transaction, MoralArrival has become a wholly owned subsidiary of the Company. MoralArrival is a recently formed start-up company with nominal assets and no history of operations. MoralArrival is in the business of acting as an international agent for a Chinese environmental company, Hengshui Jingzhen Environmental Technology Company Limited of Hebei, China. 
+ 
+ The Company is in the development stage. Its activities to date have been limited to capital formation, organization, development of its business plan and minimal sales. The Company has commenced limited operations. As such, the Company is subject to all risks inherent to the establishment of a start-up business enterprise. 
+ 
+ NOTE 2 - BASIS OF PRESENTATION 
+ 
+ The accompanying financial statements have been prepared in accordance with generally accepted accounting principles in the United States of America US GAAP ). 
+ 
+ On April 11, 2019, the Company acquired all the shares of MoralArrival in exchange for 300,000 shares of its common stock. As a result of this transaction, MoralArrival has become a wholly owned subsidiary of the Company. 
+ 
+ The accompanying consolidated financial statements includes the accounts of the company, and its wholly owned subsidiary, MoralArrival. All inter-company balances and transactions have been eliminated on consolidation. 
+ 
+ The Company has a July 31, year-end. 
+ -29- 
+
+NOTE 3 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+ a. Use of Estimates and Assumptions 
+ 
+ The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+ 
+ Due to the limited level of operations, the Company has not had to make material assumptions or estimates other than the assumption that the Company is a going concern. 
+ 
+ b. Fair Value of Financial Instruments 
+ 
+ ASC 825, Disclosures about Fair Value of Financial Instruments , requires disclosure of fair value information about financial instruments. ASC 820, Fair Value Measurements defines fair value, establishes a framework for measuring fair value in generally accepted accounting principles, and expands disclosures about fair value measurements. Fair value estimates discussed herein are based upon certain market assumptions and pertinent information available to management as of July 31, 2019. 
+ 
+ Fair values were assumed to approximate carrying values of on-balance-sheet financial instruments since they are short term in nature. These financial instruments include cash and related party loan payable. 
+ 
+ c. Earnings per Share 
+ 
+ ASC No. 260, Earnings Per Share , specifies the computation, presentation and disclosure requirements for earnings (loss) per share for entities with publicly held common stock. The Company has adopted the provisions of ASC No. 260. 
+ 
+ Basic net loss per share amounts is computed by dividing the net loss by the weighted average number of common shares outstanding. Diluted earnings per share are the same as basic earnings per share due to the lack of dilutive items in the Company. 
+ 
+ d. Cash and Equivalents 
+ 
+ The Company considers all highly liquid investments purchased with an original maturity of three months or less to be cash equivalents. 
+ -30- 
+
+e. Income Taxes 
+ 
+ Income taxes are provided in accordance with ASC No. 740, Accounting for Income Taxes. A deferred tax asset or liability is recorded for all temporary differences between financial and tax reporting and net operating loss carry forwards. Deferred tax expense (benefit) results from the net change during the year of deferred tax assets and liabilities. 
+ 
+ Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion of all of the deferred tax assets will be realized. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment. 
+ 
+ f. Revenue Recognition 
+ 
+ The Company will recognize revenue in accordance with ASC topic 605 Revenue Recognition - when all goods and services have been performed and delivered, the amounts are readily determinable, and collection is reasonably assured. The Company has generated 223,910 in revenue since its inception. 
+ 
+ g. Cost of Sales 
+ 
+ Amounts that will be recorded as cost of sales relate to direct expenses incurred in order to fulfill orders of our customers. Such costs are recorded and allocated as incurred. Our cost of sales will consist primarily of the cost of product and shipping expenses. 
+ 
+ h. Advertising 
+ 
+ The Company expenses its advertising when incurred. There has been 12,498 in advertising expense since inception. 
+ 
+ i. Fixed Assets 
+ 
+ Fixed assets are stated at cost, net of accumulated depreciation and accumulated impairment losses, (if any). The Company utilizes straight-line depreciation over the estimated useful life of the asset. 
+ 
+ Property 40 years 
+ Office Equipment 7 years 
+ -31- 
+
+j. Recently Issued Accounting Guidance 
+ 
+ The Company has evaluated all the recent accounting pronouncements through the date the financial statements were issued and filed with the Securities and Exchange Commission and believe that none of them will have a material effect on the company s financial statements. 
+ 
+ NOTE 4 - GOING CONCERN 
+ 
+ The accompanying financial statements and notes have been prepared assuming that the Company will continue as a going concern. 
+ 
+ The Company had limited operations during the period from July 8, 2014 (date of inception) to July 31, 2019 resulting in accumulated deficit of 512,258. There is no guarantee that Company will continue to generate revenues. 
+ 
+ At July 31, 2019, the Company had 553 in cash and there were outstanding liabilities of 86,894. This condition raises substantial doubt about the Company s ability to continue as a going concern. Management does not believe that the company s current cash position is sufficient to cover the expenses they will incur during the next twelve months. 
+ 
+ NOTE 5 - DISPOSAL OF SUBSIDIARY 
+ 
+ On March 31, 2019 the Company entered into a Share Purchase Agreement with Hang Dennis Cheung, wherein the Company sold 100 ordinary shares of its wholly owned subsidiary, Real Capital Limited Real Capital ), for a nominal consideration of One US Dollar (US 1.00). The 100 ordinary shares represent all of the issued and outstanding shares of Real Capital. Real Capital has had no sales revenue for the past three years and a net assets value of US 19,685 as of the closing date of the Share Purchase Agreement.
+ 
+ The closing of the Share Purchase Agreement occurred on April 10, 2019. This transaction is not considered a significant transaction as that term is defined in the Exchange Act. 
+ 
+ -32- 
+
+Carrying amount of net assets of Real Capital: 
+
+Cash and cash equivalents 
+ 1,450 
+ 
+ Loan to shareholder 
+ 18,235 
+ 
+ Net Assets 
+ 19,685 
+
+Loss on disposal: 
+
+Consideration Received 
+ 1 
+ 
+ Net Asset of Real Capital 
+ (19,685) 
+ 
+ Loan from Real Capital 
+ 18,235 
+ 
+ Loss recognized in APIC 
+ (3,643) 
+ 
+ Loss on disposal 
+ (5,092) 
+
+NOTE 6- BUSINESS COMBINATION 
+ 
+ On April 9, 2019 Summit Networks, Inc. (the Company entered into a Share Exchange Agreement with MoralArrival Environmental and Blockchain Technology Services Limited MoralArrival ), a British Virgin Islands company and the shareholder of MoralArrival. Under the terms of that Share Exchange Agreement, the Company agreed to exchange 300,000 shares of its common stock for all the outstanding shares of common stock of MoralArrival. As a result of this transaction, MoralArrival will become a wholly owned subsidiary of the Company. MoralArrival is a recently formed startup company with nominal assets and no history of operations. This transaction is not considered a significant transaction as that term is defined in the Exchange Act. 
+ 
+ NOTE 7- P ROPERTY AND EQUIPMENT 
+ 
+ During the period ended January 31, 2019, the Company has made impairment of 11,172 for the property consisting of an office and shop located in Latvia and office equipment thereof due to no revenue being generated from the operation. 
+ 
+ -33- 
+
+NOTE 8 - RELATED PARTY TRANSACTIONS 
+ 
+ The director of the Company, Mr. Chi Ming Tso, may, in the future, become involved in other business opportunities as they become available, he may face a conflict in selecting between the Company and his other business opportunities. The Company has not formulated a policy for the resolution of such conflicts. 
+ 
+ As of July 31, 2019, amount due to related parties was 52,642, which were unsecured, non-interest bearing with no specific repayment terms. 
+ 
+ During the year ended July 31, 2019, the Company recognized debt forgiveness of 348,767 from related parties, which was recorded as contributed surplus. 
+ 
+ During the year ended July 31, 2019, and during the period from July 8, 2014 (date of inception), payroll expense of nil and 81,000 were charged with respect to directors fee respectively. Also, our CEO, Chi Ming Tso who, through Hass Group Inc., have been paid 19,230 3,846 per month) for his consulting services. 
+ 
+ NOTE 9 - STOCKHOLDERS EQUITY 
+ 
+ Transactions, other than employees stock issuance, are in accordance with ASC No. 505. Thus issuances shall be accounted for based on the fair value of the consideration received. Transactions with employees stock issuance are in accordance with ASC No. 718. These issuances shall be accounted for based on the fair value of the consideration received or the fair value of the equity instruments issued, or whichever is more readily determinable. 
+ 
+ As of August 1, 2017, the stockholders equity section of the Company contains Common stock, 0.001 par value: 75,000,000 shares authorized; 5,000,000 shares issued and outstanding. 
+ 
+ On November 28, 2017 and on March 15, 2018, the Company issued a total of 649,999 shares of common stock to one independent investor and two shareholders for cash consideration totally of 19,500. The purchase price for the common stocks was 0.03 per common share. 
+ 
+ On July 24, 2018, the Company issued a total of 455,000 shares of common stock to one independent investor and two shareholders for cash consideration totally of 13,650. The purchase price for the common stocks was 0.03 per common share. 
+ 
+ As of July 31, 2019, the Company had 61,0499,990 shares of common stock issued and outstanding. 
+ 
+ -34- 
+
+NOTE 10- INCOME TAXES 
+ 
+ We use the asset and liability method of accounting for income taxes in accordance with ASC Topic 740, Income Taxes. Under this method, income tax expense is recognized for the amount of: (i) taxes payable or refundable for the current year and (ii) deferred tax consequences of temporary differences resulting from matters that have been recognized in an entity s financial statements or tax returns. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the results of operations in the period that includes the enactment date. A valuation allowance is provided to reduce the deferred tax assets reported if based on the weight of the available positive and negative evidence, it is more likely than not some portion or all of the deferred tax assets will not be realized. 
+
+ASC Topic 740.10.30 clarifies the accounting for uncertainty in income taxes recognized in an enterprise s financial statements and prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. ASC Topic 740.10.40 provides guidance on de-recognition, classification, interest and penalties, accounting in interim periods, disclosure, and transition. We have no material uncertain tax positions for any of the reporting periods presented. 
+ 
+ There was no income tax expense for the years ended July 31, 2019 and 2018. The rate was as follow: 
+
+Federal 
+ 34 
+ 
+ State 
+ 0 
+
+The significant components of deferred tax assets and liabilities are as follows: 
+
+From Inception (July 08, 2014) To July 31, 2019 
+
+July 31, 
+ 
+ July 31, 
+
+2019 
+ 
+ 2018 
+
+Deferred tax assets 
+
+Net operating losses 
+ 
+ (375,992) 
+ 
+ (94,817) 
+ 
+ (163,466) 
+
+Deferred tax liability 
+
+Net deferred tax assets 
+ 
+ 127,837 
+ 
+ 32,238 
+ 
+ 55,578 
+ 
+ Less valuation allowance 
+ 
+ (127,837) 
+ 
+ (32,238) 
+ 
+ (55,578) 
+ 
+ Deferred tax asset - net valuation allowance 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+-35- 
+
+NOTE 11- WARRANTS AND OPTIONS 
+ 
+ There are no warrants or options outstanding to acquire any additional shares of common. 
+ 
+ NOTE 12- COMMITMENTS AND CONTINGENCIES 
+ 
+ The Company has no commitments and contingencies liabilities to be disclosed. 
+ 
+ NOTE 13- LEGAL MATTERS 
+ 
+ The Company has no known legal issues pending. 
+ 
+ NOTE 14-SUBSEQUENT EVENTS 
+ 
+ The Company has evaluated events subsequent through the date these financial statements have been issued to assess the need for potential recognition or disclosure in this report. Such events were evaluated through the date these financial statements were available to be issued. Based upon this evaluation, it was determined that no subsequent events occurred that require recognition or disclosure in the financial statements. 
+ 
+ -36- 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+ The Company s Board of Directors engaged Zia Masood Kiani and Co to serve as the Company s independent registered public accounting firm effective March 13, 2017 and continue the engagement of the audit for the year ended July 31, 2019. 
+ 
+ During the Company s fiscal years ended July 31, 2016 and 2015, and the subsequent interim period from August 1, 2016 to the date of this report, the Company did not consult with Zia Masood Kiani and Co regarding any of the matters set forth in Items 304(a)(2)(i) and (ii) of Regulation S-K. 
+ 
+ ITEM 9A. CONTROLS AND PROCEDURES. 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ As of the end of the period covered by this report, the Company carried out, under the supervision and with the participation of the Company s management, including its Chief Executive Officer and Chief Financial Officer, an evaluation of the effectiveness of the design and operation of the Company s disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) in ensuring that information required to be disclosed by the Company in its reports is recorded, processed, summarized and reported within the required time periods. In carrying out that evaluation, management identified a material weakness (as defined in Public Company Accounting Oversight Board Standard No. 2) in our internal control over financial reporting regarding a lack of adequate segregation of duties. Accordingly, based on their evaluation of our disclosure controls and procedures as of July 31, 2019, the Company s Chief Executive Officer and its Chief Financial Officer have concluded that, as of that date, the Company s controls and procedures were not effective for the purposes described above. 
+ 
+ There was no change in the Company s internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934) during the year ended July 31, 2019 that has materially affected or is reasonably likely to materially affect the Company s internal control over financial reporting. 
+ 
+ Management s Report on Internal Control over Financial Reporting 
+ 
+ Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) under the Securities Exchange Act of 1934. We have assessed the effectiveness of those internal controls as of September 30, 2012, using the Committee of Sponsoring Organizations of the Treadway Commission COSO Internal Control Integrated Framework as a basis for our assessment. 
+ -37- 
+
+Because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies and procedures may deteriorate. All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. 
+ 
+ A material weakness in internal controls is a deficiency in internal control, or combination of control deficiencies, that adversely affects the Company s ability to initiate, authorize, record, process, or report external financial data reliably in accordance with accounting principles generally accepted in the United States of America such that there is more than a remote likelihood that a material misstatement of the Company s annual or interim financial statements that is more than inconsequential will not be prevented or detected. In the course of making our assessment of the effectiveness of internal controls over financial reporting, we identified a material weakness in our internal control over financial reporting. This material weakness consisted of inadequate staffing and supervision within the bookkeeping and accounting operations of our company. The relatively small number of employees who have bookkeeping and accounting functions prevents us from segregating duties within our internal control system. The inadequate segregation of duties is a weakness because it could lead to the untimely identification and resolution of accounting and disclosure matters or could lead to a failure to perform timely and effective reviews. 
+ 
+ As we are not aware of any instance in which the company failed to identify or resolve a disclosure matter or failed to perform a timely and effective review, we determined that the addition of personnel to our bookkeeping and accounting operations is not an efficient use of our resources at this time and not in the interest of shareholders. 
+ 
+ Because of the above condition, the Company s internal controls over financial reporting were not effective as of July 31, 2019. 
+ 
+ This annual report does not include an attestation report of the Company s registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by the Company s registered public accounting firm pursuant to the rules of the Securities and Exchange Commission that permit the Company to provide only management s report in this annual report. 
+ 
+ ITEM 9B. OTHER INFORMATION. 
+ 
+ None. 
+ -38- 
+
+PART III 
+ 
+ ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 
+ The name, age and title of our executive officers and directors are as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Positions with Company 
+ Served as Director since 
+ 
+ Chi Ming Tso 
+ 
+ 62 
+ 
+ Chief Executive Officer and Director 
+ May, 2019 
+ 
+ Chao Long Huang 
+ 67 
+ Chief Operations Officer 
+ May, 2019 
+ 
+ Fat Kwong Chan 
+ 57 
+ Treasurer and Secretary 
+ May, 2019 
+ 
+ Fengming Su 
+ 56 
+ Director 
+ May, 2019 
+ 
+ Shuhua Liu 
+ 48 
+ Director 
+ June, 2019 
+ 
+ Yaya Zhang 
+ 31 
+ Director 
+ February, 2019 
+ 
+ Xiang Yang Chang 
+ 39 
+ Director 
+ April, 2019 
+
+New Appointments to the Board of Directors 
+ 
+ On or about February 11, 2019, as a result of a private transaction, the control block of voting stock of the Company, represented by 4,981,600 shares of common stock, representing an ownership interest of approximately 81.5 has been transferred from a number of existing shareholders to Hass Group, Inc. and Chi Ming Tso. Subsequently, in connection with this transfer, the Board of Directors has decided to reconstitute the Board of Directors and Executive Officers. 
+ 
+ Chi Ming Tso 
+ 
+ Since 2012 Mr. Tso has been the President and director of Hass Group Inc., a consulting company located in Hong Kong. He is a professional engineer and an entrepreneur. Mr. Tso graduated from the Empresarial University of Costa Rica in Geotechnical Engineering in 2000. Since graduation, he has worked for a number of companies and held various senior technical and management positions. Since 2007, Mr. Tso had been the Marketing Director for Warwick Enterprise Ltd., a company located in Hong Kong. In 2012, he founded Hass Group Inc. and has served as its President ever since. Hass Group is a private consulting company located in Hong Kong. With Hass Group Inc., Tso has assisted in the establishment of a number of companies and assisted them completing a number of finances, mergers and acquisitions. 
+ -39- 
+
+Fengming Su 
+ Ms. Su graduated from high school in 1992 in Dai Yao, Jiangsu, China. Upon graduation, Ms. Su was self-employed in clothing business from 1992 to 2011. From 2011 to 2013, she worked as sales manager for Shanghai Yuan Yuan Air-conditioning Co. Ltd. Since 2013, she has held the position as a Director Assistant for China Industry Investment International Co. Ltd., an investment company located in Shanghai, China. 
+ 
+ Shuhua Liu 
+ 
+ Ms. Liu is a senior economist and international certified public accountant. She obtained a Bachelor s Degree in Administrative Management from National Open University of Beijing in 2016 and an MBA from Business School Netherlands of Tsinghua University of Beijing in 2017. With rich industrial enterprise and financial management experience, she has been working for Hebei Jingxin Group of Hebei Province in China since 1999, successively serving as Chief Financial Officer from 1999 to 2010, as Executive Deputy General Manager from 2010 to 2015 and as President from 2015 to present. 
+ 
+ Yaya Zhang 
+ 
+ Ms. Zhang was first elected to the Company's Board of Directors on February 13, 2019. From September 2006 to July 2010, she studied at Yanshan University and obtained a major in electronic information. From September 2010 to April 2013, she studied at the 54 th Research Institute of China Electronics Technology Corporation located in Hebei, China and there she majored in communication and information systems, and obtained her master s degree in engineering. From April 2013 to April 2016, she worked in the 54 th Research Institute of China Electronics Technology Corporation where she researched special-use integrated circuits and application software. After 2016, Ms. Zhang was in charge of technology research and development, and later she served as the manager of the technology department in Shanghai Fujiang Information Technology Co., Ltd. Ms. Yaya became the Chief Financial Officer of the same company in December 2017, and in 2018, she became a director of Hengshui Jingzhen Environment Protection Technology Co., Ltd., also located in Shanghai, China. 
+ 
+ Xiang Yang Chang 
+ 
+ From the year 2000 to 2003, Mr. Chang attended Party School of Hebei Provincial Party Committee located in Hebei, China where he received a major in economic management. From 1998 to 2004, he worked in the Material Bureau of Taocheng District, Hengshui City, Hebei Province, China. There he served in the financial management of government material affairs, and once served as financial unit leader. In February 2004, he was transferred to a senior position in financial management of Hebei Jingxin Group, and successively served as manager of the capital department and Chief Financial Officer. From 2004 to 2018, he was also employed in the preparatory establishment and management of the preliminary construction of Hengshui Jingzhen Environmental Protection Technology Company. In 2018, he held the position of Assistant to the Chairman of Hebei Jingxin Group and acted as the General Manager of Hengshui Jingxhen Environmental Protection Co., Ltd., located in Hebei, China. 
+ 
+ -40- 
+
+Term of Office 
+ 
+ All Directors hold their office until the next annual meeting of shareholders or until their successors are duly elected pursuant to NRS 78.320, and qualified. Any vacancy occurring in the Board of Directors may be filled by the shareholders, or the Board of Directors. A Director elected to fill a vacancy is elected for the unexpired term of his predecessor in office. Any Directorship filled by reason of an increase in the number of Directors shall expire at the next shareholders meeting in which Directors are elected, unless the vacancy is filled by the shareholders, in which case the term shall end on the later of (i) the next meeting of the shareholders or (ii) the term designated for the Director at the time of creation of the position being filled. 
+ 
+ Committees of the Board of Directors 
+ 
+ We do not presently have a separately constituted audit committee, compensation committee, nominating committee, executive committee or any other committees of our Board of Directors. Nor do we have an audit committee financial expert. As such, our entire Board of Directors acts as our audit committee and handles matters related to compensation and nominations of directors. 
+ 
+ Potential Conflicts of Interest 
+ 
+ Since we do not have an audit or compensation committee comprised of independent directors, the functions that would have been performed by such committees are performed by our directors, both of whom also serve as officers of the Company. Thus, there is an inherent conflict of interest. 
+ 
+ Directors Independence 
+ 
+ We are not subject to listing requirements of any national securities exchange or national securities association and, as a result, we are not at this time required to have our board comprised of a majority of independent directors. Our determination of independence of directors is made using the definition of independent director contained in Rule 5000(a)(19) of the Marketplace Rules of the NASDAQ Stock Market NASDAQ ), even though such definitions do not currently apply to us because we are not listed on NASDAQ. We have determined that our directors are not independent within the meaning of such rules. 
+ 
+ -41- 
+
+Significant Employees 
+ 
+ As of July 31, 2019, we have no full-time employee in our Hong Kong office. 
+ 
+ Family Relationships 
+ 
+ There are no family relationships between any of our directors and executive officers. There have been no events under any bankruptcy act, no criminal proceedings and no judgments, orders or decrees material to the evaluation of the ability and integrity of any director or executive officer of the Company during the past five years. 
+ 
+ Involvement in Certain Legal Proceedings 
+ 
+ No director, person nominated to become a director, executive officer, promoter or control person of our company has, during the last five years: (i) been convicted in or is currently subject to a pending a criminal proceeding (excluding traffic violations and other minor offenses); (ii) been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to any federal or state securities or banking or commodities laws including, without limitation, in any way limiting involvement in any business activity, or finding any violation with respect to such law, nor (iii) any bankruptcy petition been filed by or against the business of which such person was an executive officer or a general partner, whether at the time of the bankruptcy or for the two years prior thereto. 
+ 
+ Stockholder Communications with the Board of Directors 
+ 
+ We have not implemented a formal policy or procedure by which our stockholders can communicate directly with our Board of Directors. Nevertheless, every effort will be made to ensure that the views of stockholders are heard by the Board of Directors, and that appropriate responses are provided to stockholders in a timely manner. During the upcoming year, our Board will continue to monitor whether it would be appropriate to adopt such a process. 
+ 
+ Code of Ethics 
+ 
+ We have not adopted a code of ethics that applies to our officer, director and employee. When we do adopt a code of ethics, we will disclose it in a Current Report on Form 8-K. 
+ 
+ -42- 
+
+ITEM 11. EXECUTIVE COMPENSATION. 
+ 
+ The following tables set forth certain information about compensation paid, earned or accrued for services by our Chief Executive Officer, Chief Financial Officers, Treasurer and Secretary (collectively, the Named Executive Officer for the fiscal years ending July 31, 2018 until July 31, 2019: 
+ Summary Compensation Table 
+
+Name and 
+ Principal 
+ Position 
+ 
+ Year 
+ 
+ Salary 
+ ) 
+
+Bonus 
+ ) 
+
+Stock 
+ Awards 
+ ) 
+
+Option 
+ Awards 
+ ) 
+
+Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+
+Nonqualified 
+ Deferred 
+ Compensation 
+ ) 
+
+All Other 
+ Compensation 
+ ) 
+
+Total 
+ ) 
+
+Chi Ming Tso 
+ 
+ 2019 
+ 
+ 19,230 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ 19,230 
+
+President CEO 
+ 2018 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+
+Chao Long Huang 
+ 2019 
+ 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ 
+ CFO 
+ 2018 
+ 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+
+Fat Kwong Chan 
+ 2019 
+ 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ 
+ Treasurer Secretary 
+ 2018 
+ 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+
+Riggs Cheung 
+ 2019 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ 
+ Former CEO CFO 
+ 2018 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+
+Employment Agreements, Termination of Employment, Change-In-Control Arrangements 
+ 
+ There is currently no employment or other contract or arrangement with our officers except for our CEO, Chi Ming Tso who, through Hass Group Inc., is paid 3,846 per month for his consulting services. There are no compensation plans or arrangements, including payments to be made by us, with respect to our officers that would result from his resignation, retirement or other termination from us. There are no arrangements for our officers that would result in a change-in-control. 
+ 
+ -43- 
+
+Stock Option Grants 
+ 
+ We do not currently have a stock option plan nor have any long-term incentive plans that provide compensation intended to serve as an incentive for performance. No individual grants of stock options or other equity incentive awards have been made to our officer or director since our inception; accordingly, none were outstanding at July 31, 2019. 
+ 
+ There are no annuity, pension or retirement benefits proposed to be paid to the officer or director or employees in the event of retirement at normal retirement date pursuant to any presently existing plan provided or contributed to by the company. 
+ 
+ Director Compensation 
+ 
+ The following table sets forth director compensation for the fiscal year ending July 31, 2019: 
+
+Name 
+ 
+ Fees 
+ Earned 
+ or Paid 
+ in Cash 
+ ) 
+
+Stock 
+ Awards 
+ ) 
+
+Option 
+ Awards 
+ ) 
+
+Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+
+Nonqualified 
+ Deferred 
+ Compensation 
+ Earnings 
+ ) 
+
+All Other 
+ Compensation 
+ ) 
+
+Total 
+ ) 
+
+Chi Ming Tso 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+ 
+ Fengming Su 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+ 
+ Shuhua Liu 
+ -0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+ 
+ Yaya Zhang 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+ 
+ Xiang Yang Chang 
+ -0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+We have not compensated our directors for their service on our Board of Directors since our inception. There are no arrangements pursuant to which our directors will be compensated in the future for any services provided as director.
+ 
+ -44- 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+ 
+ The following table sets forth certain information regarding the beneficial ownership of our common stock as of July 31, 2019, by (i) each person who is known by us to own beneficially more than 5 of our outstanding common stock; (ii) each of our officers and directors; and (iii) all our directors and officers as a group. 
+
+Title of Class 
+ 
+ Name and Address of 
+ Beneficial Owner 
+ 
+ Amount and Nature of 
+ Beneficial Ownership 
+ 
+ Percentage 
+
+Common Stock 
+ Hass Group Inc. 
+ 3A, Kingswell Commercial Tower, 171-173 Lockhard Road, Wanchai, Hong Kong 
+
+47,064,000 
+
+77.09 
+
+Common Stock 
+ Chi Ming Tso 
+ 11G, King Food Court, 173 Tin Hau Temple Road, North Point, Hong Kong 
+
+274,800 
+
+4.50 
+
+Common Stock 
+ Chao Long Huang 
+ Rm 16A, Bldg. 3, 158 Chang Chun Road, Hongye Garden, Shanghai, China 
+
+297,933 
+
+4.88 
+
+Common Stock 
+ Fat Kwong Chan 
+ Lot No. 1J, G/F, Kan Tau Tsuen, Fanling, NT, Hong Kong 
+
+268,466 
+
+4.40 
+
+Common Stock 
+ Fengming Su 
+ Room 903, No. 7, Lane 20, Boshan East Road, Pudong New Area, Shanghai, China 
+
+263,600 
+
+4.32 
+
+All officers and directors as a Group (5 persons) 
+
+5,811,199 
+ 95.19 
+
+-45- 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+ 
+ As of July 31, 2019, amount due to a director and a company related to the director amounting to 52,642. The amounts were interest free and repayment on demand. 
+ 
+ We have not entered into any other transaction, nor are there any proposed transactions, in which our directors and officers, or significant stockholders, or any member of the immediate family of any of the foregoing, had or are to have a direct or indirect material interest. 
+ 
+ ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+ 
+ During the year ended July 31, 2019, the total fees billed for audit-related services was 1,650 for tax services was 0 and for all other services was 0. 
+ 
+ During the year ended July 31, 2018, the total fees billed for audit-related services was 3,150, for tax services was 0 and for all other services was 0. 
+
+PART IV 
+ ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+ 
+ The following exhibits are included with this Report: 
+
+Exhibit 
+ Number 
+ 
+ Description 
+ 
+ 31.1 
+ Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+
+Certification of Chief Financial Officer pursuant Section 906 Certifications under Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 
+
+Certification of Chief Executive Officer pursuant Section 906 Certifications under Sarbanes-Oxley Act of 2002 
+
+Filed herewith. 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ SUMMIT NETWORKS INC 
+
+By 
+ /s/ Chi Ming Tso 
+
+Chi Ming Tso 
+
+Chief Executive Officer 
+
+Date: 
+ December 9, 2019 
+
+-46- 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ I, Chao Long Huang, certify that: 
+ 
+ 1. 
+ I have reviewed this report on Form 10-K. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 9, 2019 
+ 
+ /s/ Chao Long Huang 
+ Chao Long Huang 
+Chief Financial Officer 
+
+-47- 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ I, Chi Ming Tso, certify that: 
+ 
+ 1. 
+ I have reviewed this report on Form 10-K. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 9, 2019 
+ 
+ /s/ Chi Ming Tso 
+ Chi Ming Tso 
+Chief Executive Officer 
+ -48- 
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of Summit Networks Inc (the Company on Form 10-K for the year ending July 31, 2019 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Chao Long Huang, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+ IN WITNESS WHEREOF, the undersigned has executed this certification as of the 9 th day of December, 2019. 
+ 
+ /s/ Chao Long Huang 
+ Chao Long Huang 
+Chief Financial Officer 
+
+-49- 
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Annual Report of Summit Networks Inc (the Company on Form 10-K for the year ending July 31, 2018 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Riggs Cheung, Chief Executive Officer and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+ IN WITNESS WHEREOF, the undersigned has executed this certification as of the 9 th day of December, 2019. 
+ 
+ /s/ Chi Ming Tso 
+ Chi Ming Tso 
+Chief Executive Officer 
+
+-50- 
+
+<EX-31.1>
+ 2
+ ex311.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ I, Chao Long Huang, certify that: 
+ 
+ 1. 
+ I have reviewed this report on Form 10-K. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 9, 2019 
+ 
+ /s/ Chao Long Huang 
+ Chao Long Huang 
+Chief Financial Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ I, Chi Ming Tso, certify that: 
+ 
+ 1. 
+ I have reviewed this report on Form 10-K. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 9, 2019 
+ 
+ /s/ Chi Ming Tso 
+ Chi Ming Tso 
+Chief Executive Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of Summit Networks Inc (the Company on Form 10-K for the year ending July 31, 2019 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Chao Long Huang, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+ IN WITNESS WHEREOF, the undersigned has executed this certification as of the 9 th day of December, 2019. 
+ 
+ /s/ Chao Long Huang 
+ Chao Long Huang 
+Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex322.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Annual Report of Summit Networks Inc (the Company on Form 10-K for the year ending July 31, 2018 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Riggs Cheung, Chief Executive Officer and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+ IN WITNESS WHEREOF, the undersigned has executed this certification as of the 9 th day of December, 2019. 
+ 
+ /s/ Chi Ming Tso 
+ Chi Ming Tso 
+Chief Executive Officer
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ sntw-20190731.xml
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ sntw-20190731.xsd
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ sntw-20190731_cal.xml
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ sntw-20190731_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ sntw-20190731_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ sntw-20190731_pre.xml
+
+</EX-101.PRE>
+

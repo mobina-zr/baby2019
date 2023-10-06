@@ -1,0 +1,4187 @@
+<Header>
+<FileStats>
+    <FileName>20191209_10-K_edgar_data_1569568_0001493152-19-018899.txt</FileName>
+    <GrossFileSize>3437555</GrossFileSize>
+    <NetFileSize>156916</NetFileSize>
+    <NonText_DocumentType_Chars>206871</NonText_DocumentType_Chars>
+    <HTML_Chars>1222636</HTML_Chars>
+    <XBRL_Chars>1036581</XBRL_Chars>
+    <XML_Chars>727030</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-19-018899.hdr.sgml : 20191209
+<ACCEPTANCE-DATETIME>20191209152648
+ACCESSION NUMBER:		0001493152-19-018899
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		52
+CONFORMED PERIOD OF REPORT:	20190731
+FILED AS OF DATE:		20191209
+DATE AS OF CHANGE:		20191209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIGFOOT PROJECT INVESTMENTS INC
+		CENTRAL INDEX KEY:			0001569568
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MOTION PICTURE & VIDEO TAPE DISTRIBUTION [7822]
+		IRS NUMBER:				453942184
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36877
+		FILM NUMBER:		191275129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		570 EL CAMINO REAL NR-150
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+		BUSINESS PHONE:		858-216-6554
+
+	MAIL ADDRESS:	
+		STREET 1:		570 EL CAMINO REAL NR-150
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+
+</SEC-Header>
+</Header>
+
+ 0001493152-19-018899.txt : 20191209
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+Form
+10-K 
+
+[X]
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended July 31, 2019 
+
+[ ]
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+file number: 001-36877 
+
+Bigfoot
+Project Investments Inc. 
+
+ (Exact
+name of registrant as specified in its charter) 
+
+Nevada 
+ 
+ 45-3942184 
+ 
+ (State
+ or other jurisdiction of 
+ incorporation
+ or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+570
+ El Camino Real NR-150, Redwood City, CA 
+ 
+ 94063 
+ 
+ (Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number: (415) 518-8494 
+
+Securities
+registered under Section 12(b) of the Act: None 
+
+Securities
+registered under Section 12(g) of the Act: Common Stock, 0.001 par value 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes
+[ ] No [X] 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+[ ] No [X] 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [ ] 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files). Yes [X] No [ ] 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405) is not contained herein,
+and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ ] 
+
+Indicate
+by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer [ ] 
+ 
+ Accelerated
+ filer [ ] 
+ 
+ Smaller
+ reporting company [X] 
+ 
+ Non-accelerated
+ filer [X] 
+
+Emerging
+ growth company [ ] 
+
+If
+an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ] 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes [ ] No [X] 
+
+The
+aggregate market value of the voting stock held by non-affiliates of the registrant based on the closing sales price, or the average
+bid and asked price on such stock, as of April 30, 2019 the last business day of the registrant s most recently completed
+second quarter, was 150,054. Shares of the registrant s common stock held by each executive officer and director and by
+each entity or person that, to the registrant s knowledge, owned 10 or more of registrant s outstanding common stock
+as of April 30, 2019 have been excluded in that such persons may be deemed to be affiliates of the registrant. This determination
+of affiliate status is not necessarily a conclusive determination for other purposes. 
+
+The
+number of shares of Common Stock, 0.001 par value, outstanding on December 3, 2019 was 9,125,112,943 shares. 
+
+Bigfoot
+Project Investments Inc. 
+
+ FOR
+THE FISCAL YEAR ENDED 
+
+ JULY
+31, 2019 
+
+Index
+to Report 
+
+ on
+Form 10-K 
+
+Page 
+ 
+ PART I 
+
+Item
+ 1. 
+ Business 
+ 4 
+ 
+ Item
+ 1A. 
+ Risk Factors 
+ 6 
+ 
+ Item
+ 1B. 
+ Unresolved Staff Comments 
+ 12 
+ 
+ Item
+ 2. 
+ Properties 
+ 12 
+ 
+ Item
+ 3. 
+ Legal Proceedings 
+ 13 
+
+PART II 
+
+Item
+ 4. 
+ Mine Safely Disclosures 
+ 13 
+ 
+ Item
+ 5. 
+ Market for Registrant s Common Equity and Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 13 
+ 
+ Item
+ 6. 
+ Selected Financial Data 
+ 13 
+ 
+ Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 14 
+ 
+ Item
+ 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 16 
+ 
+ Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 16 
+ 
+ Item
+ 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 16 
+ 
+ Item
+ 9A (T) 
+ Control and Procedures 
+ 16 
+ 
+ Item
+ 9B. 
+ Other Information 
+ 17 
+
+PART III 
+
+Item
+ 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 17 
+ 
+ Item
+ 11. 
+ Executive Compensation 
+ 20 
+ 
+ Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 21 
+ 
+ Item
+ 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 21 
+ 
+ Item
+ 14. 
+ Principal Accounting Fees and Services 
+ 21 
+
+PART IV 
+
+Item
+ 15. 
+ Exhibits, Financial Statement Schedules 
+ 22 
+
+2 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+This
+Annual Report on Form 10-K contains forward-looking statements and involves risks and uncertainties that could materially affect
+expected results of operations, liquidity, cash flows, and business prospects. These statements include, among other things, statements
+regarding: 
+
+our
+ ability to diversify our operations; 
+
+our
+ ability to implement our business plan; 
+
+our
+ ability to attract key personnel; 
+
+our
+ ability to operate profitably; 
+
+our
+ ability to efficiently and effectively finance our operations, and/or purchase orders; 
+
+inability
+ to achieve future sales levels or other operating results; 
+
+inability
+ to raise additional financing for working capital; 
+
+inability
+ to efficiently manage our operations; 
+
+the
+ inability of management to effectively implement our strategies and business plans; 
+
+the
+ unavailability of funds for capital expenditures and/or general working capital; 
+
+the
+ fact that our accounting policies and methods are fundamental to how we report our financial condition and results of operations,
+ and they may require management to make estimates about matters that are inherently uncertain; 
+
+deterioration
+ in general or regional economic conditions; 
+
+changes
+ in U.S. GAAP or in the legal, regulatory and legislative environments in the markets in which we operate; 
+
+adverse
+ state or federal legislation or regulation that increases the costs of compliance, or adverse findings by a regulator with
+ respect to existing operations; 
+
+as
+well as other statements regarding our future operations, financial condition and prospects, and business strategies. These forward-looking
+statements are subject to certain risks and uncertainties that could cause our actual results to differ materially from those
+reflected in the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited
+to, those discussed in this Annual Report on Form 10-K, and in particular, the risks discussed under the heading Risk Factors 
+in Part I, Item 1A and those discussed in other documents we file with the Securities and Exchange Commission. We undertake no
+obligation to revise or publicly release the results of any revision to these forward-looking statements. Given these risks and
+uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. 
+
+Throughout
+this Annual Report references to we , our , us , the Company , and similar
+terms refer to Bigfoot Project Investments Inc. 
+
+3 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+We
+are an enterprise organized for the purpose of searching for, documenting and collecting evidence of the existence of the creature
+known as Bigfoot or Sasquatch, according to North American folklore, and, in direct connection with this purpose we develop and
+produce and distribute fictional and documentary films about the creature and our searches. 
+
+In
+addition to our films, available on DVD we have added T-shirts and other branded products such as decals, coffee
+mugs, skull caps, and ball caps to our inventory. We have developed artwork which wraps around the travel trailer we use for search
+expeditions, further increasing the extent to which our Company and logo can be recognized. 
+
+Bigfoot
+Project Investments Inc. was incorporated under the laws of the State of Nevada on November 30, 2011. Pursuant to a purchase agreement,
+effective January 13, 2013, Bigfoot Project Investments Inc. acquired all the assets of Searching for Bigfoot Inc., a Nevada corporation,
+for four million four hundred thousand (4,400,000) shares of common stock and a promissory note was issued to the two majority
+shareholders of Searching for Bigfoot Inc. in the aggregate amount of 484,039. Searching for Bigfoot Inc. was formed for the
+purpose of researching the existence of Bigfoot, which has financed research and expeditions throughout the United States and
+Canada. 
+
+Formed
+as a simple organization with the intent of raising funds to produce a movie for distribution, Searching for Bigfoot Inc. 
+evolved such that it built significant value in video/film footage, materials, artifacts, and relationships with organizations
+interested in Bigfoot s existence around the country. In January 2019, the Company reinstated the subsidiary known as Searching
+for Bigfoot, Inc. as an operating subsidiary of Bigfoot Project Investments Inc. 
+
+When
+a decision was made to pursue the opportunity to produce and distribute films as an ongoing business venture, a management team
+was brought together to form an entertainment investment corporation that would aim to capitalize on both current and future investment
+projects related to Bigfoot. We intend to create entertainment properties surrounding the mythology and research of Bigfoot, as
+well as potentially finding Bigfoot. 
+
+We
+intend to become an entertainment investment company, where our competitive advantage is our developed knowledge base and the
+advanced level of maturity of our projects. We intend to capitalize on our current inventory of projects; allowing our company
+to continue creation of media properties and the establishment of physical locations, partnerships and alliances with organizations
+to augment investment markets to create revenue as a stand-alone enterprise. 
+
+4 
+
+The
+inventory of the Company s projects currently consists of nine films which are being marketed to both DVD and Video On Demand
+(VOD) through domestic and international distribution markets. Additionally, preliminary investment plans are being negotiated
+for a 3D Movie with a movie production company. Foreign distribution markets have recently become available and our contracted
+marketing company, The Bosko Group, is in the process of negotiating contracts for all nine DVD films, which include the movies
+being subtitled and dubbed in foreign languages throughout Europe, Asia and South America. Currently, we are represented by our
+contracted marketing distributor, The Bosko Group, in which they represent and sell the rights for the Bigfoot Project Investments
+Inc. nine DVD Movies. 
+
+Bigfoot
+Project Investments Inc. entered into two separate agreements with its distributor The Bosko Group in May 2017. One agreement
+is for the re-release of seven of the Company s documentaries with new introductions and commentaries. The other agreement
+is for the production of five new feature length films depicting the Dark and Violent world of Bigfoot. The first
+in the series Brutal Bigfoot was released August 29 th , 2018 and has received mixed reviews on the Amazon.com
+distributor site. 
+
+We
+plan to continue to amass artifacts (footprint castings, skeletal, hair, skin, blood and other creature remains), and media products
+such as DVD videos, photographs, audio and Written documents, televised, and movie media events from our continued Bigfoot expeditions
+throughout the United States and Canada. We will use the artifacts we currently have and the artifacts we intend to acquire. The
+collection of artifacts is used as scientific evidence to substantiate the existence of this creature known as Bigfoot 
+as a species through proper DNA testing and scientific examination. The artifacts are provided to the scientific community as
+evidence in documentation of this creature as a new species. This documentation is used in media projects (television, DVD movies,
+publications etc.) for marketing and management believes the artifacts have substantial value. Media products such as DVD videos,
+photographs, audio and written documents, televised, and movie media events from our continued Bigfoot expeditions provide the
+basis for our media projects, which are marketed and provide revenue. Additionally, we will negotiate and purchase intellectual
+and physical properties relating to the creature as opportunities become available that will continue to feed the development
+of additional projects. 
+
+Bigfoot
+Project Investments Inc. bears a high degree of risk, lacking maturity and not having a background or reference point to evaluate
+or compare company performance to the investor. Each of the projects we market will be carefully reviewed for its projected market
+value by the Company s Board of Directors. These Projects will be based on agreements with property owners of other organizations.
+Personnel in each project area will share in the responsibility running our company s operations. 
+
+Change of Control 
+
+On November 13, 2019, the majority shareholder
+and CEO of the Company signed a Definitive Share Purchase Agreement Agreement in which Tom Biscardi sold 100 
+of the issued and outstanding Preferred Series A stock to Joseph Cellura and 51 of the issued and outstanding shares of common
+stock to Lord Global Corporation. The Agreement outlines specific legal agreements that will be executed in addition to the exchange
+of stock. The specified legal agreements are currently in negotiations and will be executed as the terms are finalized. The current
+Board of Directors will resign and be replaced during this process. 
+
+Employees 
+
+Currently,
+we have no full-time employees other than our officers and directors. The directors are elected on an annual basis. The Company
+does not compensate the officers or directors for their service. We anticipate that we will be unable to hire any employees in
+the next twelve months, unless we begin to generate significant revenues. Meanwhile, we intend to utilize outsourcing quality
+personnel in conjunction with the talents of our current officers and directors. 
+
+Available
+Information 
+
+We
+are subject to the informational requirements of the Securities Exchange Act of 1934, as amended. All of our reports are able
+to be reviewed through the SEC s Electronic Data Gathering Analysis and Retrieval System (EDGAR) which is publicly available
+through the SEC s website (http://www.sec.gov). 
+
+We
+furnish through our website links to all filings with the SEC including but not limited to annual reports containing financial
+statements audited by our independent certified public accountants and quarterly reports containing reviewed unaudited interim
+financial statements for the first three-quarters of each fiscal year. You may contact the Securities and Exchange Commission
+at (800) SEC-0330 or you may read and copy any reports, statements or other information that we file with the Securities and Exchange
+Commission at the Securities and Exchange Commission s public reference room at the following location: 
+
+Public
+Reference Room 
+
+ 100
+F. Street N.W. 
+
+ Washington,
+D.C. 2054900405 
+
+ Telephone:
+(800) SEC-0330 
+
+5 
+
+ITEM
+1A. RISK FACTORS 
+
+We
+are at an early operational stage and our success is subject to the substantial risks inherent in the establishment of a new business
+venture. 
+
+The
+implementation of our business strategy is in an early stage. Our business and operations should be considered to be in an early
+stage and subject to all of the risks inherent in the establishment of a new business venture. Accordingly, our intended business
+and operations may not prove to be successful in the near future, if at all. Any future success that we might enjoy will depend
+upon many factors, several of which may be beyond our control, or which cannot be predicted at this time, and which could have
+a material adverse effect upon our financial condition, business prospects and operations and the value of an investment in our
+company. 
+
+We
+may have difficulty raising additional capital, which could deprive us of necessary resources. 
+
+We
+expect to continue to devote significant capital resources to developing new inventory in the form of film footage and maintaining
+our existing inventory. In order to support the initiatives envisioned in our business plan, we will need to raise additional
+funds through public or private debt or equity financing, collaborative relationships or other arrangements. Our ability to raise
+additional financing depends on many factors beyond our control, including the state of capital markets and the market price of
+our common stock. Because our common stock is not listed on a major stock market, many investors may not be willing or allowed
+to purchase it or may demand steep discounts. Sufficient additional financing may not be available to us or may be available only
+on terms that would result in further dilution to the current owners of our common stock. 
+
+There
+are substantial doubts about our ability to continue as a going concern and if we are unable to continue our business, our shares
+may have little or no value. 
+
+The
+Company s ability to become a profitable operating company is dependent upon its ability to generate revenues adequate to
+support our cost structure. This has raised substantial doubts about our ability to continue as a going concern. We plan to attempt
+to raise additional equity capital by selling shares through one or more private placement or public offerings. However, the doubts
+raised, relating to our ability to continue as a going concern, may make our shares an unattractive investment for potential investors.
+These factors, among others, may make it difficult to raise any additional capital. 
+
+Failure
+to effectively manage our growth could place strains on our managerial, operational and financial resources and could adversely
+affect our business and operating results. 
+
+Our
+growth has placed, and is expected to continue to place, a strain on our managerial, operational and financial resources. Further,
+if our business grows, we will be required to manage multiple relationships. Any further growth by us, or an increase in the number
+of our strategic relationships will increase this strain on our managerial, operational and financial resources. This strain may
+inhibit our ability to achieve the rapid execution necessary to implement our business plan and could have a material adverse
+effect upon our financial condition, business prospects, operations and the value of an investment in our company. 
+
+Risks
+Relating to Our Business 
+
+Related
+Party Transaction Risk 
+
+In
+January 2013, Bigfoot Project Investments, Inc. executed a promissory note in the amount of 484,039 as part of the asset transfer
+agreement for the transfer of all assets held by Searching for Bigfoot, Inc. During 2013, the Company increased the balance of
+the promissory note by 489 to add an asset that was not included in the original transfer. The terms of the note are that the
+unpaid principal and the accrued interest are payable in full on January 31, 2020. Bigfoot Project Investments Inc. disbursed
+ 36,476 as payment on the principal and 0 in interest during the year ended July 31, 2019. The principal balance of the note
+as of July 31, 2019 was 435,894. The holders of the note have agreed to allow the Company additional time to develop revenue
+producing projects which will allow the Company to pay this debt. 
+
+In
+January 2013, Bigfoot Project Investments, Inc. acquired all the assets of Searching for Bigfoot, Inc. Since the majority shareholder
+of Searching for Bigfoot, Inc. is also the majority shareholder in Bigfoot Project Investments, Inc. the asset acquisition was
+treated as a related party transaction and was not considered an arm s length transaction under Generally Accepted Accounting
+Principles. 
+
+6 
+
+The
+assets acquired were transferred over at the existing book value listed on the balance sheet of Searching for Bigfoot Inc. at
+the time of transfer. The transfer agreement called for the issuance of 4,400,000 shares of common stock which were valued at
+ .10 per share and the issuance of a promissory note in the amount of 484,029. The Company recorded a deemed distribution related
+to this transaction in the amount of 924,029. 
+
+As
+part of the asset transfer agreement Bigfoot Project Investments, Inc. received the following assets: 
+
+footprint
+ cast of Bigfoot tracks 73 original casts 
+
+photographs
+ of Dead Creature from Strickler, Arkansas 1994 Dead Creature Incident 
+
+109-inch
+ Skeleton 
+
+various
+ Media Artifacts Video TV News Media 52 news stories 
+
+contract
+ to sell Dinosaur fossil most recent estimate by Paleontologist 1.2 million dollars 
+
+rubber
+ suit from 2008 hoax 
+
+various
+ DNA samples Hair, and nails 
+
+license
+ to use 6 dinosaur displays 
+
+exclusive
+ rights to the Bigfoot Website 
+
+Bigfoot
+ Live Radio Show 
+
+Bigfoot
+ Live Radio Show Website 
+
+360
+ hours of raw footage from expeditions for movie development 
+
+various
+ DVD Movies and Documentary film projects 
+
+exclusive
+ rights to all current contracts negotiated under Searching For Bigfoot Inc. including an advertising/marketing contract with
+ The Bosko Group which is included in the exhibits. 
+
+The
+note is held by two of the shareholders of the Company. C. Thomas Biscardi who owns 5.06 of the issued stock and Dennis J. Kazubowski
+who owns .0031 of the issued stock. The Company currently does not have the means to satisfy this note by the due date, however,
+Management has renegotiated the due date of the contract, and the Company is confident that it will be able to satisfy the terms
+of the note by the renegotiated due date. 
+
+We
+lack an operating history and have losses that we expect to continue into the future. There is no assurance our future operations
+will result in profitable revenues. If we cannot generate sufficient revenues to operate profitably, we will cease operations
+and you will lose your investment . 
+
+We
+were incorporated on November 30, 2011 and we have only generated minimal revenues. We have minimal operating history upon which
+an evaluation of our future success or failure can be made. Our accumulated deficit through July 31, 2019 is 10,835,994. 
+
+Our
+operating results will depend on our ability to sell our products. Any capacity restraints or systems failures could harm our
+business, results of operations and financial condition. 
+
+Because
+we will be limiting our marketing activities, we may not be able to attract enough customers to operate profitably. If we cannot
+operate profitably, we may have to suspend or cease operations. 
+
+Our
+ability to achieve and maintain profitability and positive cash flow is dependent upon: 
+
+our
+ ability to develop and continually update our products for sale; 
+
+our
+ ability to procure and maintain commercially reasonable terms relationships with third parties to develop and maintain our
+ productions, network and transaction processing systems; 
+
+our
+ ability to identify and pursue mediums through which we will be able to market our products; 
+
+our
+ ability to attract customers to purchase our productions; 
+
+improve
+ our ability to generate revenues; and 
+
+our
+ ability to manage growth by managing administrative overhead. 
+
+Based
+upon current plans, we expect to incur operating losses in future periods because we will be incurring expenses and generating
+minimal revenues. We cannot guarantee that we will be successful in generating additional revenues in the future. Failure to generate
+additional revenues may cause you to lose your investment. 
+
+7 
+
+We
+may be unable to protect the intellectual property rights that we have. 
+
+Majority
+shareholder and Director Carmine T. Biscardi and William F. Marlette, Director, developed the concepts behind our business plan.
+They have assigned any rights that they may have had in that line to us. We own copyrights on DVD Movies Bigfoot Lives and Anatomy
+of a Bigfoot Hoax. Copyrights are pending for DVD Movies Legend of Bigfoot, In the Shadow of Bigfoot, Bigfoot Alive in 82, Bigfoot
+Lives-2, Bigfoot Lives-3, Hoax of the Century, Pursuit (The Search for Bigfoot) and Brutal Bigfoot. 
+
+We
+intend to rely on a combination of copyright, trademark and trade secret protection and non-disclosure agreements with employees,
+officers and third-party service providers to establish and protect the intellectual property rights that we have in the material
+we develop. There can be no assurance that our competitors will not independently develop products that are substantially equivalent
+of superior to ours. There also can be no assurance that the measures we adopt to protect our intellectual property rights will
+be adequate to do so. The ability of our competitors to develop products or other intellectual property rights equivalent or superior
+to ours or our ability to enforce our intellectual property rights could have a material effect on our results of operation. 
+
+Though
+we do not believe that our business concepts will infringe on the intellectual property rights of third parties in any material
+respect, there can be no assurance that third parties will not claim infringement by us with respect to them. Any such claim,
+with or without merit, could be time-consuming, result in costly litigation, cause product shipment delays or require us to enter
+into royalty or licensing agreements. Such Royalty or licensing agreements, if required, may not be available on terms acceptable
+to us or at all, which could have a material adverse effect on our business, results of operations and financial condition. 
+
+Changing
+consumer preferences will require periodic revising. 
+
+As
+a result of changing consumer preferences, there can be no assurance that any of our motion pictures and DVD s concepts
+will continue to be popular for a period of time. Our success will be dependent upon our ability to develop new and improved programs.
+Our failure to sustain market acceptance and to produce acceptable margins could have a material adverse effect on our financial
+condition and results of operations. 
+
+We
+face intense competition and our inability to successfully compete with our competitors will have a material adverse effect on
+our results of operation. 
+
+The
+Entertainment industry is highly competitive. Many of our competitors have longer operating histories, greater brand recognition,
+broader product lines and greater financial resources and advertising budgets than we do. Many of our competitors offer similar
+products or alternatives to our services. There can be no assurance that we will be available to support our operation or allow
+us to seek expansion. There can be no assurance that we will be able to compete effectively in this marketplace. 
+
+8 
+
+We
+may be required to protect our intellectual property at great cost, expense and time of management which may detract from the
+successful operation of the Company. 
+
+Intellectual
+property claims against us can be costly and could impair our business. Other parties may assert infringement or unfair competition
+claims against us. We cannot predict whether third parties will assert claims of infringement against us, or whether any future
+assertions or prosecutions will harm our business. If we are forced to defend against any such claims, whether they are with or
+without merit or are determined in our favor, then we may face costly litigation, diversion of technical and management personnel,
+or product shipment delays. As a result of such a dispute, we may have to develop non-infringing technology or enter into royalty
+or licensing agreements. Such royalty or licensing agreements, if required, may be unavailable on terms acceptable to us, or at
+all. If there is a successful claim of product infringement against us and we are unable to develop non-infringing technology
+or license the infringed or similar technology on a timely basis it could impair our business. 
+
+We
+may need to obtain additional licenses or other proprietary rights from other parties. 
+
+To
+facilitate development and commercialization of our movies, we may need to obtain additional licenses or other proprietary rights
+from other parties. Obtaining and maintaining these licenses, which may not be available, may require the payment of up-front
+fees and royalties. In addition, if we are unable to obtain these types of licenses, our product development and commercialization
+efforts may be delayed or precluded. 
+
+If
+we do not attract customers on cost-effective terms, we will not make a profit, which ultimately will result in a cessation of
+operations. 
+
+Our
+success depends on our ability to attract customers on cost-effective terms. Our strategy to attract customers via our advertising,
+which has not been formalized or implemented, includes viral marketing, the practice of generating buzz among Internet
+users in our products through the developing and maintaining web logs or blogs , online journals that are updated
+frequently and available to the public, postings on online communities such as Yahoo!(R) Groups, and other methods of getting
+internet users to refer others to our services by e-mail or word of mouth; search engine optimization, marketing via search engines
+by purchasing sponsored placement in search results; and entering into affiliate marketing relationships with providers to increase
+our access to customers. We expect to rely on direct marketing as the primary source of customers. Our marketing strategy may
+not be enough to attract sufficient traffic to develop a consistent customer base. This lack of response would cause us to pursue
+different avenues of marketing and promotional venues. If we are unsuccessful in attracting a sufficient amount of traffic, our
+ability to get customers and our financial condition will be harmed. 
+
+To
+date we do not have an established customer list. We cannot guarantee that we will ever have an established customer list. Even
+if we obtain customers, there is no guarantee that we will generate a profit. If we cannot generate a profit, we will have to
+suspend or cease operations. 
+
+We
+will be dependent on third parties to develop and maintain our original plan (based on concepts developed by us and fulfill a
+number of customer service and other retail functions). If such parties are unwilling or unable to continue providing these services,
+our business could be severely harmed. 
+
+We
+will rely on third parties to develop and maintain some of our new concepts (based on concepts developed by us). To date we have
+not entered into any formal relationship with any third parties to provide these services. Our success will depend on our ability
+to build and maintain relationships with such third-party- service providers on commercially reasonable terms. If we are unable
+to build and maintain such relationships on commercially reasonable terms, we will have to suspend or cease operations. Even if
+we are able to build and maintain such relationships, if these parties are unable to deliver products on a timely basis, our customers
+could become dissatisfied and decline to make future purchases. If our customers become dissatisfied with the services provided
+by these third parties, our reputation and our company could suffer. 
+
+We
+lack an operating history and have losses that we expect to continue into the future. There is no assurance our future operations
+will result in profitable revenues. If we cannot generate sufficient revenues to operate profitably, we will cease operations
+and you will lose your investment. 
+
+We
+require minimum funding of approximately 150,000 to conduct our proposed operations for a period of one year. This includes the
+cost of registration as well as normal operating costs. If we are not able to raise this amount, or if we experience a shortage
+of funds prior to funding we may utilize funds from our officers and directors who have informally agreed to advance funds to
+allow us to pay for professional fees, including fees payable in connection with the filing of a registration statement and operation
+expenses. However, they have no formal commitment, arrangement or legal obligation to advance or loan funds to the Company. After
+one year we may need additional financing. 
+
+The
+requirements of being a U.S. public company may strain our resources and divert management s attention. 
+
+As
+a U.S. public company, we are subject to the reporting requirements of the Securities Exchange Act of 1934, as amended Exchange
+Act ), the Sarbanes-Oxley Act, the Dodd-Frank Act, and other applicable securities rules and regulations. Compliance with
+these rules and regulations will increase our legal and financial compliance costs, make some activities more difficult, time-consuming,
+or costly, and increase demand on our systems and resources. The Exchange Act requires, among other things, that we file annual
+and current reports with respect to our business and operating results. 
+
+There
+are significant corporate governance and executive compensation-related provisions in the Dodd-Frank Act that expressly authorized
+or required the SEC to adopt additional rules in these areas, such as advisory shareholder vote to approve of our executives 
+compensation plan (or Say on Pay), proxy access, and an advisory shareholder vote on how often we should include a Say on Pay
+proposal in our proxy material for future annual shareholder meetings or any special shareholder meetings for which we must include
+executive compensation information in the proxy statement for that meeting. Our efforts to comply with these requirements are
+likely to result in an increase in expenses which is difficult to quantify at this time. 
+
+As
+a result of disclosure in filings required of a public company, our business and financial condition will become more visible,
+which we believe may result in threatened or actual litigation, including by competitors, and other third parties. If such claims
+are successful, our business and operating results could be harmed, and even if the claims do not result in litigation or are
+resolved in our favor, these claims, and the time and resources necessary to resolve them, could divert resources of our management
+and harm our business and operating results. 
+
+Going
+forward, the Company has ongoing SEC compliance and reporting obligations, estimated as approximately 150,000 annually. Such
+ongoing obligations will require the Company to expend additional amounts on compliance, legal and auditing costs. In order for
+us to remain in compliance, we will require future revenues to cover the cost of these filings, which could comprise a substantial
+portion of our available cash resources. If we are unable to generate sufficient revenues to remain in compliance, it may be difficult
+for shareholders to resell any shares they may purchase, if at all. 
+
+9 
+
+We
+may depend on outside parties for professional services related to reports under the Securities Exchange Act of 1934. 
+
+Because
+our current officers and directors have limited prior experience in financial accounting and preparation of reports under the
+Securities Exchange Act of 1934, we may have to hire additional experienced personnel to assist us with the preparation thereof.
+If we need the additional experienced personnel and we do not hire them, we could fail in our plan of operations and have to suspend
+or cease operations entirely and shareholders could lose their investment. 
+
+In
+the future, there may not be effective disclosure and accounting controls to comply with applicable laws and regulations which
+could result in fines, penalties and assessments against us. 
+
+Our
+Officers and Directors are responsible for our managerial and organizational structure which will include preparation of disclosure
+and accounting controls under the Sarbanes Oxley Act of 2002. When these controls are implemented, they will be responsible for
+the administration of the controls. Should they not have sufficient experience, they may be incapable of creating and implementing
+the controls which may cause us to be subject to sanctions and fines by the Securities and Exchange Commission. 
+
+We
+are completely dependent on officers and directors to guide our initial operations, initiate our plan of operations, and provide
+financial support. If we lose their services, we will have to cease operations. 
+
+Our
+success will depend entirely on the ability and resources of our officers and directors. If we lose their services, we will cease
+operations. Presently, our officers and directors are committed to providing their time and financial resources to us. Our officers
+and directors are not compensated by the Company with the exception of payments to the President for his time in leading the expeditions.
+The President is the only officer that has received any form of compensation since the Company was formed. Our officers and directors
+are either retired or have positions at other companies. 
+
+Our
+Future Success Depends, in Part, on the Performance of Continued Service of Our Officers. 
+
+We
+presently depend to a great extent upon the experience, abilities and continued services of our management team, which consists
+of Mr. Biscardi (our CEO), Ms. Reynolds (our CFO), Mr. TJ Biscardi (our President), and Mr. Marlette (a Director). The loss of
+services of Mr. Biscardi, Ms. Reynolds, or Mr. TJ Biscardi could have a material adverse effect on our business, financial condition
+or results of operations. Failure to maintain our management team could prove disruptive to our daily operations, require a disproportionate
+amount of resources and management attention and could have a material effect on our business, financial condition and results
+of operations. On October 23 rd , 2019, Mr. Marlette passed away. The remaining Board members held an emergency meeting
+and elected Mr. Rocky Slavens to fill the vacated Director position. 
+
+Industry-related
+risk factors: 
+
+The
+short-term nature of contracts in our industry makes revenues difficult to project. 
+
+Many
+standard contracts for entertainment projects are short term. If contracts are not maintained or new contracts are not obtained,
+operations that maintain the structural integrity of the Company will be adversely affected. Additionally, a substantial part
+of our projected revenue will come from future clients. The loss of such contracts from reductions in force or other factors could
+have an adverse effect on the Company s operations. 
+
+Some
+services we require may subject our company to liability for substantial damages not covered by insurance. 
+
+Since
+we intend to position ourselves for premium, high quality projects in an industry that is traditionally price-sensitive, damage
+to our professional reputation, including as the result of a well-publicized breach of contract or incident, could have a material
+adverse effect on our business. 
+
+To
+a large extent, relationships with distributors, clients and customer expectations and perception of the quality of our products
+are in large part determined by regular contact between clients and sales. If a customer is dissatisfied with our products there
+may be more damage in our business than in non-service-related businesses. A well-publicized incident of breach of contract by
+us could result in a negative perception of our company and our services, damage to our reputation, and the loss of current or
+potential customers. This would have an adverse effect on our business, financial condition, and results of operations. 
+
+10 
+
+Acquisitions
+may not be available or economical which may slow the Company s growth. 
+
+Our
+growth strategy includes the evaluation of selective acquisition opportunities which may place significant demands on our resources.
+We may not be successful in identifying suitable acquisition opportunities (concepts, scripts, casts, directors, technicians,
+etc.) and if such opportunities are identified, we may not be able to obtain acceptable financing for the acquisition, reach agreeable
+terms with acquisition candidates, or successfully integrate acquired businesses. 
+
+An
+element of our growth strategy is the acquisition and integration of projects in order to increase our density within certain
+geographic areas, capture market share in the markets in which operations currently exist and improve profitability. We will be
+unable to acquire other projects if we are unable to identify suitable acquisition opportunities, obtain financing on acceptable
+terms, or reach mutually agreeable terms. In addition to the extent that consolidation becomes more prevalent in our industry,
+the prices for suitable project candidates may increase to unacceptable levels thereby limiting our growth ability. 
+
+Our
+growth through selective projects may place significant demands on management and our operational and financial resources. Acquisitions
+involve numerous risks including the diversion of our management s attention from other business concerns, the possibility
+that current operating and financial systems and controls may be inadequate to deal with our growth and the potential loss of
+key employees. 
+
+We
+may also encounter difficulties in integrating any project we may acquire or will have recently acquired, with our existing operations.
+Success in these transactions depends on our ability to be successful with our operational and financial systems, integrate and
+retain the customer base and realize cost reduction synergies. 
+
+Failure
+to integrate or to manage growth could have a material adverse effect on our business. Further, we may be unable to maintain or
+enhance the profitability of any acquired project, consolidate its operations to achieve cost savings, or maintain or renew any
+of its contracts. 
+
+In
+addition, liabilities may exist that we fail or are unable to discover in the course of performing due diligence investigations
+on any project we may acquire or have recently acquired. Also, there may be additional costs relating to acquisitions including
+but not limited to possible purchase price adjustments. Any of our rights to indemnification from sellers to us, even if obtained,
+may not be enforceable, collectible, or sufficient in amount, scope or duration to fully offset the possible liabilities associated
+with the project or property acquired. Any such liabilities, individually or in aggregate, could have a material adverse effect
+on our business. 
+
+If
+we cannot effectively compete with new or existing project providers, the results of our operations and financial condition will
+be severely affected. 
+
+Our
+industry is intensely competitive. Our direct competitors include companies that are national and international in scope and some
+competitors have substantially more personnel, financial, technical and marketing resources than we do, generate greater revenues
+than we do, and have greater name recognition than we do. The recent trends toward consolidation in the industry may lead to further
+competition. In addition, some competitors may be willing to offer similar services at lower prices, accept a lower profit margin,
+or expend more capital to maintain or increase their business. If we are unable to successfully compete with new or experienced
+providers, our business, financial condition, and results of operations will be adversely affected. 
+
+Internet
+regulation may dampen our growth. 
+
+We
+are subject to the same federal, state and local laws as other companies obtaining business from the Internet. Today there are
+relatively few laws specifically directed towards conducting business on the Internet. However, due to the increasing popularity
+and use of the Internet, many laws and regulations relating to the Internet are being debated at the state and federal levels.
+These laws and regulations could cover issues such as user privacy, freedom of expression, pricing, fraud, quality of products
+and services, taxation, advertising, intellectual property rights and information security. Applicability to the Internet of existing
+laws governing issues such as property ownership, copyrights and other intellectual property issues, taxation, libel, obscenity
+and personal privacy could also harm our business. Current and future laws and regulations could harm our business, results of
+operation and financial condition. 
+
+11 
+
+Risks
+related to the Company s common stock 
+
+Future
+sales of our common stock, or the perception that future sales may occur, may cause the market price of our common stock to decline,
+even if our business is doing well. 
+
+Sales
+by our shareholders of a substantial number of shares of our common stock in the public market could occur in the future. These
+sales, or the perception in the market that the holders of a large number of shares of common stock intend to sell shares, could
+reduce the market price of our common stock. 
+
+We
+have not paid dividends in the past and do not expect to pay dividends for the foreseeable future, and any return on investment
+may be limited to potential future appreciation on the value of our common stock. 
+
+We
+currently intend to retain any future earnings to support the development and expansion of our business and do not anticipate
+paying cash dividends in the foreseeable future. Our payment of any future dividends will be at the discretion of our board of
+directors after taking into account various factors, including without limitation, our financial condition, operating results,
+cash needs, growth plans and the terms of any credit agreements that we may be a party to at the time. To the extent we do not
+pay dividends, our stock may be less valuable because a return on investments will only occur if and to the extent our stock price
+appreciates, which may never occur. In addition, investors must rely on sales of their common stock after price appreciation as
+the only way to realize their investments, and if the price of our stock does not appreciate, then there will be no return on
+investment. Investors seeking cash dividends should not purchase our common stock. 
+
+If
+we fail to establish and maintain an effective system of internal control, we may not be able to report our financial results
+accurately or prevent fraud. Any inability to report and file our financial results accurately and timely could harm our reputation
+and adversely impact the trading price of our common stock. 
+
+Effective
+internal control is necessary for us to provide reliable financial reports and prevent fraud. If we cannot provide reliable financial
+reports or prevent fraud, we may not be able to manage our business as effectively as we would if an effective control environment
+existed, and our business and reputation with investors may be harmed. As a result, our small size and any current internal control
+deficiencies may adversely affect our financial condition, results of operations and access to capital. 
+
+Our
+Shares of Common Stock Are Very Thinly Traded, and the Price May Not Reflect Our Value and There Can Be No Assurance That There
+Will Ba an Active Market for Our Shares of Common Stock Either Now or in the Future. 
+
+Our
+shares of common stock are very thinly traded, and the price, if traded, may not reflect our value. There can be no assurance
+that there will be an active market for our shares of common stock either now or in the future. The market liquidity will be dependent
+on the perception of our operating business and any steps that our management might take to increase awareness of our Company
+with investors. There can be no assurance given that there will be any awareness generated. Consequently, investors may not be
+able to liquidate their investments or liquidate it at a price that reflect the value of the business. If a more active market
+should develop. The price may be highly volatile. Because there may be a low price for our shares of common stock, many brokerage
+firms may not be willing to effect transactions in the securities. Even if an investor finds a broker willing to affect a transaction
+in the shares of our common stock, the combination of brokerage commissions, transfer fees, taxes, if any, and any other selling
+costs may exceed the selling price. Further, many lending institutions will not permit the use of such shares of common stock
+as collateral for loans. 
+
+Future
+Issuance of Our Common Stock, Preferred Stock, Options and Warrants Could Dilute the Interests of Existing Shareholders. 
+
+We
+may issue additional shares of our common stock, preferred stock, options and warrants in the future. The issuance of a substantial
+amount of common stock, options and warrants could have the effect of substantially diluting the interests of our current stockholders.
+In addition, the sale of a substantial amount of common stock or preferred stock in the public market, or the exercise of a substantial
+number of warrants and options either in the initial issuance or in a subsequent resale by the target company in an acquisition
+which received such common stock as consideration or by investors who acquired such common stock in a private placement could
+have an adverse effect on the market price of our common stock. 
+
+Our
+common stock is subject to the penny stock rules of the SEC and the trading market in shares of our common stock
+is limited, which makes transactions in our common stock cumbersome and may reduce the value of an investment in our common stock. 
+
+Rule
+15g-9 under the Exchange Act defines penny stock, for the purposes relevant to us, as any equity security that has
+a market price of less than 5.00 per share or with an exercise price of less than 5.00 per share, subject to certain exceptions.
+For any transaction involving a penny stock, unless exempt, the rules require that a broker of dealer approve a person s
+accounts for transactions in penny stocks and the broker or dealer receive from the investor a written agreement to the transaction,
+setting forth the identity and quantity of the penny stock to be purchased. In order to approve a person s account for transactions
+in penny stocks, the broker or dealer must obtain financial information and investment experience objectives of the person and
+make a reasonable determination that the transaction in penny stocks are suitable for that person and the person has sufficient
+knowledge and experience in financial matters to be capable of evaluating the risks of transactions in penny stocks. The broker
+or dealer must also deliver prior to any transaction in a penny stock, as disclosure schedule prescribed by the Commission relating
+to the penny stock market, which in highlight form sets forth the basis on which the broker or dealer made the suitability determination
+and that the broker of dealer received a signed, written agreement from the investor prior to the transaction. Generally, brokers
+may be less willing to execute transaction in securities subject to the penny stock rules. This may make it more
+difficult for investors to dispose of our common stock and cause a decline in the market value of the stock. Disclosure also has
+to be made about the risks of investing in penny stocks in both public offerings and in secondary trading and about the commissions
+payable to both the broker-dealer and the registered representative, current quotations for the securities and the rights and
+remedies available to an investor in cases of fraud in penny stocks transactions. Finally, monthly statements have to be sent
+disclosing recent price information for the penny stock held in the account and information on the limited market in penny stock. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM
+2. PROPERTIES 
+
+We
+currently lease office space at 570 El Camino Real NR-150, Redwood City, CA 94063 as our principal offices. We believe these facilities
+are in good condition, but that we may need to expand our leased space as our business efforts increase. 
+
+12 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+From
+time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business.
+However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time
+to time that may harm our business. We are not presently a party to any material litigation, nor to the knowledge of management
+is any litigation threatened against us, which may materially affect us. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND SMALL BUSINESS ISSUER PURCHASE OF EQUITY SECURITIES 
+
+Market
+Information 
+
+Our
+common stock is traded on the OTC Pink. Factors we discuss in this report, including the many risks associated with an investment
+in our securities, may have a significant impact on the market price of our common stock. 
+
+The
+following table sets forth, for the periods indicated, the high and low bid prices per share for our common stock as reported
+by OTC Pink quotation service. These bid prices represent prices quoted by broker-dealers on the relevant OTC quotation service.
+The prices reflect inter-dealer quotations, do not include retail mark-ups, markdowns or commissions and do not necessarily reflect
+actual transactions. 
+
+Quarter
+ ended 
+ High 
+ Low 
+
+July 31, 2019 
+ 0.0003 
+ 0.0001 
+ 
+ April 30, 2019 
+ 0.0006 
+ 0.0001 
+ 
+ January 31, 2019 
+ 0.0007 
+ 0.0002 
+ 
+ October 31, 2018 
+ 0.0006 
+ 0.0003 
+ 
+ July 31, 2018 
+ 0.0016 
+ 0.0001 
+ 
+ April 30, 2018 
+ 0.0007 
+ 0.0001 
+ 
+ January 31, 2018 
+ 0.0044 
+ 0.0005 
+ 
+ October 31, 2017 
+ 0.20 
+ 0.002 
+
+The
+ability of individual stockholders to trade their shares in a particular state may be subject to various rules and regulations
+of that state. A number of states require that an issuer s securities be registered in their state or appropriately exempted
+from registration before the securities are permitted to trade in that state. Presently, we have no plans to register our securities
+in any particular state. 
+
+Holders
+of Common Stock 
+
+As
+of July 31, 2019, we had 157 stockholders of record of the 4,433,279,043 shares outstanding. 
+
+Dividends 
+
+The
+payment of dividends is subject to the discretion of our Board of Directors and will depend, among other things, upon our earnings,
+our capital requirements, our financial condition, and other relevant factors. We have not paid or declared any dividends upon
+our common stock since our inception and, by reason of our present financial status and our contemplated financial requirements;
+do not anticipate paying any dividends upon our common stock in the foreseeable future. 
+
+We
+have never declared or paid any cash dividends. We currently do not intend to pay cash dividends in the foreseeable future on
+the shares of common stock. We intend to reinvest any earnings in the development and expansion of our business. Any cash dividends
+in the future to common stockholders will be payable when, as and if declared by our Board of Directors, based upon the Board s
+assessment of: 
+
+our
+ financial condition; 
+
+earnings; 
+
+need
+ for funds; 
+
+capital
+ requirements; 
+
+prior
+ claims of preferred stock to the extent issued and outstanding; and 
+
+other
+ factors, including any applicable laws. 
+
+Therefore,
+there can be no assurance that any dividends on the common stock will ever be paid. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+An
+equity incentive plan was adopted by the Board and approved by the Company s shareholders in December 2017. The 2018 Equity
+Incentive Plan, was effective as of January 1, 2018. We have reserved 100,000,000 shares of our common stock for issuance under
+our 2018 Equity Incentive Plan. The primary objectives of the 2018 Stock Incentive Plan are to attract and retain selected key
+employees, consultants, and directors; encourage commitment and motivate excellent performance; align personal interests with
+those of our shareholders; and enable them to share in the long-term growth and success of the Company. Unless it is terminated
+earlier by our Board of Directors. The 2018 Equity Incentive Plan will terminate ten years from the date it was adopted. The 2018
+Equity Incentive Plan is administered by our Board of Directors. To date, no shares or options have been issued pursuant to such
+Plan. 
+
+Recent
+Sales of Unregistered Securities 
+
+We
+have no recent sales of unregistered securities. 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+Not
+applicable. 
+
+13 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Except
+for the historical information, the following discussion contains forward-looking statements that are subject to risks and uncertainties.
+We caution you not to put undue reliance on any forward-looking statements, which speak only as of the date of this report. Our
+actual results or actions may differ materially from these forward-looking statements for many reasons, including the risks described
+in Risk Factors and elsewhere in this annual report. Our discussion and analysis of our financial condition and
+results of operations should be read in conjunction with the financial statements and related notes and with the understanding
+that our actual future results may be materially different from what we currently expect. 
+
+OVERVIEW
+AND OUTLOOK 
+
+In
+January 2013, Bigfoot Project Investments Inc. acquired all the assets of Searching for Bigfoot Inc. Since the majority shareholder
+of Searching for Bigfoot Inc. is also the majority shareholder in Bigfoot Project Investments Inc. the asset acquisition was treated
+as a related party transaction and was not considered an arm s length transaction under Generally Accepted Accounting Principles. 
+
+The
+transfer agreement called for the issuance of 4,400,000 shares of common stock which were valued at .10 per share and the issuance
+of a promissory note in the amount of 484,029. The Company recorded a deemed distribution related to this transaction in the
+amount of 924,029. In August 2013, the Company increased the promissory note by 489 to add an asset that was not included in
+the original transfer. 
+
+As
+part of the asset transfer agreement Bigfoot Project Investments, Inc. received the following assets: 
+
+footprint
+ cast of Bigfoot tracks 73 original casts 
+
+photographs
+ of Dead Creature from Strickler, Arkansas 1994 Dear Creature Incident 
+
+109-inch
+ Skeleton 
+
+various
+ Media Artifacts Video TV News Media 52 news stories 
+
+contract
+ to sell Dinosaur fossil 
+
+rubber
+ suit from 2008 hoax 
+
+various
+ DNA samples Hair, and nails 
+
+license
+ to use 6 dinosaur displays 
+
+exclusive
+ rights to the Bigfoot Website 
+
+exclusive
+ rights to the Bigfoot Live Radio Show 
+
+exclusive
+ rights to the Bigfoot Live Radio Show Website 
+
+360
+ hours of raw footage from expeditions for movie development 
+
+various
+ DVD Movies and Documentary film projects 
+
+exclusive
+ rights to all current contracts negotiated under Searching For Bigfoot Inc. 
+
+The
+above list is a complete list of the fixed assets for Bigfoot Project Investments, Inc. 
+
+We
+are a company who has, over the past years, developed nine DVD Movies; all of which have been completed for distribution. We have
+established a contract with a Media Marketing Distribution Company (The Bosko Group), who has contracted all of the nine DVD movies
+to their distribution agents. We are a company with only minimal revenues to date: we have minimal assets and have incurred losses
+since inception. 
+
+Bigfoot
+Project Investments Inc. plans to establish itself as the most reliable and dependable source for materials including documentaries,
+physical evidence, and eyewitness accounts for the purpose of documenting the evidence of the existence of Bigfoot. Our major
+source of revenue will be the sale of documentaries and specials that follow our progress. We have found that there is a market
+for these films and have started selling them on a semi-regular basis. In addition to the film sales we plan on having expeditions
+to locations where there have been multiple eyewitness accounts as well as periodic exhibitions of the physical evidence that
+has been accumulated. We plan on focusing our efforts on expeditions to locations that have had multiple eyewitness reports to
+maximize the chances of locating the creature and producing films that will be marketable to the public. 
+
+14 
+
+Going
+Concern 
+
+The
+future of our company is dependent upon its ability to obtain financing and upon future profitable operations. Management has
+plans to seek additional capital through a private placement and public offering of its common stock, if necessary. Our auditors
+have expressed a going concern opinion which raises substantial doubts about the Company s ability to continue as a going
+concern. 
+
+RESULTS
+OF OPERATIONS 
+
+Revenue 
+
+For
+the year ended July 31, 2019 we generated revenue of 888 compared to 2,827 for the year ended July 31, 2018. 
+
+Operating
+Expenses 
+
+Operating
+expenses during year ended July 31, 2019 were 348,297 consisting of general and administrative, expedition expense and professional
+fees. In comparison, operating expenses in the year ended July 31, 2018 were 5,812,500, consisting of general and administrative,
+expedition expense and professional fees. The decrease in total expenses from 2018 to 2019 is primarily attributable to the reduction
+in stock-based compensation and expedition expenses due to decreased research and filming for production contract. 
+
+Liquidity
+and Capital Resources 
+
+As
+of July 31, 2019, we had 485 in cash and did not have any other cash equivalents. The following table provides detailed information
+about our net cash flow for the years ended July 31, 2019 and 2018. To date, we have financed our operations through the issuance
+of stock, borrowings from shareholders and convertible notes from third parties. 
+
+In
+summary, our cash flows were as follows: 
+
+Fiscal
+ Year Ended July
+ 31, 
+
+2019 
+ 2018 
+ 
+ Net
+ cash used in operating activities 
+ (136,737 
+ (123,635 
+ 
+ Net
+ cash used in investing activities 
+ - 
+ (1,085 
+ 
+ Net
+ cash provided by financing activities 
+ 136,635 
+ 124,202 
+ 
+ Net
+ decrease in Cash 
+ (102 
+ (518 
+ 
+ Cash,
+ beginning of year 
+ 587 
+ 1,105 
+ 
+ Cash,
+ end of year 
+ 485 
+ 587 
+
+Operating
+activities 
+
+Net cash used in operating activities was
+ 136,737 for the year ended July 31, 2019, as compared to 123,635 used in operating activities for the same period in 2018. The
+increase in net cash used in operating activities was primarily due to derivative losses. 
+
+Investing
+activities 
+
+Net
+cash used in investing activities was 0 for the year ended July 31, 2019, as compared to 1,085 used in investing activities
+for the same period in 2018. The Company purchased additional equipment needed to fulfill the production contract during the year
+ended July 31, 2018. 
+
+Financing
+activities 
+
+Net
+cash provided in financing activities for the year ended July 31, 2019 was 136,635, as compared to 124,202 provided by financing
+activities for the same period of 2018. The increase was a result of execution of new convertible notes for funding of operations,
+payments on promissory note and payment of advances from shareholders during the year ended July 31, 2019. The Company minimized
+the amount of new third party debt during the year ended July 31, 2018 with increased advances from shareholders. 
+
+Since
+inception, we have financed our cash flow requirements through issuance of common stock, related party loans and convertible debt.
+As we expand our activities, we may, and most likely will, continue to experience net negative cash flows from operations, pending
+receipt of increased revenues. Additionally, we anticipate obtaining additional financing to fund operations through common stock
+offerings, to the extent available, or to obtain additional financing to the extent necessary to augment our working capital.
+In the future we need to generate sufficient revenues from sales in order to eliminate or reduce the need to sell additional stock
+or obtain additional loans. There can be no assurance we will be successful in raising the necessary funds to execute our business
+plan. 
+
+15 
+
+We
+anticipate that we will incur operating losses in the next twelve months. Our lack of operating history makes predictions of future
+operating results difficult to ascertain. Our prospects must be considered in light of the risks, expenses and difficulties frequently
+encountered by companies in their early stage of development, particularly companies in new and rapidly evolving markets. Such
+risks for us include, but are not limited to, an evolving and unpredictable business model and the management of growth. 
+
+To
+address these risks, we must, among other things, obtain a customer base, implement and successfully execute our business and
+marketing strategy, continually develop and upgrade our website, respond to competitive developments, and attract, retain and
+motivate qualified personnel. There can be no assurance that we will be successful in addressing such risks, and the failure to
+do so can have a material adverse effect on our business prospects, financial condition and results of operations. 
+
+Off-balance
+Sheet Arrangements 
+
+The
+Company has no off-balance sheet arrangements and does not anticipate entering into any such arrangements in the foreseeable future. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+This
+item is not applicable as we are currently considered a smaller reporting company. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+See
+Index to Financial Statements and Financial Statement Schedules appearing on page F-1 through F-10 of this Form 10-K. 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+We
+have had no disagreements with our independent auditors on accounting or financial disclosures. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Our
+Principal Executive Officer, Tom Biscardi and Principal Financial Officer, Sara Reynolds, evaluated the effectiveness of our disclosure
+controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) as of the end of the period covered by this Report.
+Based on that evaluation, they have concluded that, as of July 31, 2019, our disclosure controls and procedures are designed at
+a reasonable assurance level and are not effective because of the identification of material weaknesses in our internal control
+over financial reporting which are described below. Internal controls and procedures provide reasonable assurance that information
+we are required to disclose in the reports that we file or submit under the Exchange Act is recorded, processed, summarized, and
+reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated
+to our management, including our principal executive officer and principal financial officer, or persons performing similar functions,
+as appropriate to allow timely decisions regarding required disclosure. 
+
+Management s
+Report on Internal Control Over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control, as is defined in the Securities Exchange
+Act of 1934. These internal controls are designed to provide reasonable assurance that the reported financial information is presented
+fairly, that disclosures are adequate and that the judgments inherent in the preparation of financial statements are reasonable.
+There are inherent limitations in the effectiveness of any system of internal controls, including the possibility of human error
+and overriding of controls. Consequently, an effective internal control system can only provide reasonable, not absolute, assurance
+with respect to reporting financial information. 
+
+Our
+internal control over financial reporting includes policies and procedures that: (i) pertain to maintaining records that in reasonable
+detail accurately and fairly reflect our transactions; (ii) provide reasonable assurance that transactions are recorded as necessary
+for preparation of our financial statements in accordance with generally accepted accounting principles and the receipts and expenditures
+of company assets are made and in accordance with our management and directors authorization; and (iii) provide reasonable assurance
+regarding the prevention or timely detection of unauthorized acquisition, use or disposition of assets that could have a material
+effect on our financial statements. 
+
+16 
+
+Management
+has undertaken an assessment of the effectiveness of our internal control over financial reporting based on the framework and
+criteria established in the Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations
+of the Treadway Commission COSO ). Based upon this evaluation, management concluded that our internal control over
+financial reporting was not effective as of July 31, 2019 due to the following material weaknesses: 
+
+Ineffective
+ controls over period end financial disclosure and reporting process. 
+
+Limited
+ or no segregation of duties. 
+
+Lack
+ of a functioning audit committee. 
+
+Lack
+ of multiple levels of review over the financial reporting process. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over
+financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant
+to the rules of the Securities and Exchange Commission that permit the Company to provide only management s report in this
+annual report. 
+
+Changes
+in Internal Control Over Financial Reporting 
+
+We
+are determining what new procedures and new advisory professionals need to be put in place to assist us with the compliance process
+and ensure that all filings with the SEC are done pursuant to the applicable regulations. However, there were no changes in our
+internal control over financial reporting during the quarter ended July 31, 2019 that materially affected, or are reasonably likely
+to materially affect, our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None. 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Directors
+and Executive Officers 
+
+The
+names of our director and executive officers as of July 31, 2019 and their ages, positions, and biographies are set forth below.
+Our executive officers are appointed by, and serve at the discretion of, our board of directors. 
+
+Executive
+Officers 
+
+Carmine
+T. Biscardi, age 71 
+
+The
+name, address, age, and position of one of our directors is set forth below: 
+
+Name
+ and Address 
+ 
+ Age 
+ 
+ Position 
+ 
+ Carmine
+ T. Biscardi 
+ 
+ 71 
+ 
+ Chief
+ Executive 
+ 
+ 570
+ El Camino Real 
+ Nr-150 
+
+Officer,
+ Director 
+ 
+ Redwood
+ City, CA. 94063 
+
+Mr.
+Biscardi s experience of over 50 years in the research of Bigfoot and his over 20 years as an owner and manager of a marketing
+and consulting firm gives him experience that is beneficial to the Company. 
+
+His
+experience in the planning and leading of expeditions as well as the production of films from such expeditions is invaluable to
+our business. 
+
+17 
+
+WORK
+HISTORY 
+
+Apr
+2006 Present - Searching For Bigfoot Inc. Redwood City, CA.-Director Owner 
+
+Jan
+1989 Present Tom Biscardi Associates Redwood City, CA. - Owner Manager 
+
+Promotions.
+Marketing. Consulting. 
+
+C.
+Thomas Biscardi, III., age 52 
+
+The
+name, address, age, and positions of one of our directors are set forth below: 
+
+Name
+ and Address 
+ 
+ Age 
+ 
+ Position 
+ 
+ C.
+ Thomas Biscardi, Jr. 
+ 
+ 52 
+ 
+ President,
+ Director 
+ 
+ 112
+ Ironwood Road, 
+
+Middlesboro,
+ KY. 40965 
+
+Mr.
+Biscardi s sales and management experience along with Army training as a Ranger makes him an invaluable asset and firm gives
+him experience which will be beneficial to him on the board of directors. His experience and training allow us to plan expeditions
+with the thought that security has already been accounted for. His contributions to the planning of expeditions and the selection
+of personnel for those expeditions allow the other planners to concentrate on their field of expertise and are very beneficial
+to the Company. 
+
+WORK
+HISTORY 
+
+2008-Present
+- Food City, Middlesboro KY. -Assistant Store Manager. 
+
+Son of Carmine T. Biscardi the Company s President, CEO and director. 
+
+William
+F. Marlette, age 74 (deceased October 23, 2019) 
+
+The
+name, address, age, and positions of our Director are set forth below: 
+
+Name
+ and Address 
+ 
+ Age 
+ 
+ Position 
+ 
+ William
+ F. Marlette 
+ 14231
+ Meadowrun St. 
+ 
+ 74
+
+Director
+
+San
+ Diego CA. 92129 
+
+Mr.
+Marlette s business experience including being a government contractor project manager gives him experience which will be
+beneficial to him as a member of the Board of Directors of the corporation. His specific field of experience as a government contractor
+allows him to aid us in the planning and organizing of expeditions. 
+
+WORK
+HISTORY 
+
+Retired
+ July 2011 Present 
+
+Prior
+to July 2011, Government contractor, US Navy. 
+
+Rocky
+Slavens, age 67 
+
+The
+name, address, age, and positions of our Director are set forth below: 
+
+Name
+ and Address 
+ 
+ Age 
+ 
+ Position 
+ 
+ Rocky
+ Slavens 
+ 2488
+ S Deadhorse Mountain Rd 
+ 
+ 67
+
+Director
+
+Fayetteville,
+ AR 72701 
+
+Mr.
+Slavens hunting and tracking experience including over 25 years of hunting Bigfoot. Partial ownership of a pizza restaurant
+in Fayetteville gives him experience which will be beneficial to him as a member of the Board of Directors of the corporation.
+His specific field of experience in management and out in the woods allows him to aid us in the planning and organizing of expeditions. 
+
+WORK
+HISTORY 
+
+Restaurant
+owner 1996 Present 
+
+Bigfoot
+hunter since 1994. 
+
+Sara
+L. Reynolds, age 53 
+
+The
+name, address, age, and positions of our Director are set forth below: 
+
+Name
+ and Address 
+ 
+ Age 
+ 
+ Position 
+ 
+ Sara
+ L. Reynolds 
+ 6222
+ Raytown Trwy 352 
+ 
+ 53
+
+Chief
+ Financial Officer, Secretary, Treasurer, Director 
+ 
+ Raytown,
+ MO 64133 
+
+18 
+
+WORK
+HISTORY 
+
+Owner
+SLR Tax Accounting LLC - 2005 to Present 
+
+Ms.
+Reynolds has over 19 years of experience in accounting, bookkeeping, tax preparation and planning, she has prepared financial
+information and footnotes for several businesses in their effort to be listed with the SEC. This experience will allow us to further
+develop our business plan and provide valuable insight in the SEC filings subsequent to this filing. 
+
+Family
+Relationships 
+
+Carmine
+T. Biscard, Jr. is the eldest son of Carmine T. Biscardi, there are no other family relationships among any of our officers or
+directors. 
+
+Indemnification
+of Directors and Officers 
+
+Our
+Articles of Incorporation and Bylaws both provide for the indemnification of our officers and directors to the fullest extent
+permitted by Nevada law. 
+
+Limitation
+of Liability of Directors 
+
+Pursuant
+to the Nevada General Corporation Law, our Articles of Incorporation exclude personal liability for our Directors for monetary
+damages based upon any violation of their fiduciary duties as Directors, except as to liability for any breach of the duty of
+loyalty, acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law, or any transaction
+from which a Director receives an improper personal benefit. This exclusion of liability does not limit any right which a Director
+may have to be indemnified and does not affect any Director s liability under federal or applicable state securities laws.
+We have agreed to indemnify our directors against expenses, judgments, and amounts paid in settlement in connection with any claim
+against a Director if he acted in good faith and in a manner, he believed to be in our best interests. 
+
+Election
+of Directors and Officers 
+
+Directors
+are elected to serve until the next annual meeting of stockholders and until their successors have been elected and qualified.
+Officers are appointed to serve until the meeting of the Board of Directors following the next annual meeting of stockholders
+and until their successors have been elected and qualified. 
+
+Involvement
+in Certain Legal Proceedings 
+
+No
+Executive Officer or Director of the Corporation has been the subject of any Order, Judgment, or Decree of any Court of competent
+jurisdiction, or any regulatory agency permanently or temporarily enjoining, barring suspending or otherwise limiting him/her
+from acting as an investment advisor, underwriter, broker or dealer in the securities industry, or as an affiliated person, director
+or employee of an investment company, bank, savings and loan association, or insurance company or from engaging in or continuing
+any conduct or practice in connection with any such activity or in connection with the purchase or sale of any securities. 
+
+No
+Executive Officer or Director of the Corporation has been convicted in any criminal proceeding (excluding traffic violations)
+or is the subject of a criminal proceeding which is currently pending. 
+
+No
+Executive Officer or Director of the Corporation is the subject of any pending legal proceedings. 
+
+Audit
+Committee and Financial Expert 
+
+We
+do not have an Audit Committee. Our director performs some of the same functions of an Audit Committee, such as: recommending
+a firm of independent certified public accountants to audit the annual financial statements; reviewing the independent auditor s
+independence, the financial statements and their audit report; and reviewing management s administration of the system of
+internal accounting controls. The Company does not currently have a written audit committee charter or similar document. 
+
+19 
+
+We
+have no financial expert. We believe the cost related to retaining a financial expert at this time is prohibitive. Further, because
+of our start-up operations, we believe the services of a financial expert are not warranted. 
+
+Nominating
+Committee 
+
+We
+do not have a Nominating Committee or Nominating Committee Charter. Our Board of Directors performs some of the functions associated
+with a Nominating Committee. We have elected not to have a Nominating Committee in that we are an initial-stages operating company
+with limited operations and resources. 
+
+Section
+16(a) Beneficial Ownership Reporting Compliance 
+
+Section
+16(a) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), requires our executive officers and
+directors, and persons who beneficially own more than ten percent of an issuer s common stock, which has been registered
+under Section 12 of the Exchange Act, to file initial reports of ownership and reports of changes in ownership with the SEC. Based
+upon a review of the copies of such forms furnished to us and written representations from our executive officers and Directors,
+we believe that as of the date of this filing they were all current in their filings. 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+Summary
+Compensation 
+
+Summary
+Compensation Table 
+
+Option 
+ All
+ Other 
+ Total 
+ 
+ Name
+ and Principal Position 
+ Year 
+ Salary 
+ Bonus 
+ Awards 
+ Compensation 
+ Compensation 
+ 
+ Carmine
+ T. Biscardi 
+ 2019 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ CEO,
+ Director 
+ 2018 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+William
+ F. Marlette 
+ 2019 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Director 
+ 2018 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+C.
+ Thomas Biscardi, III 
+ 2019 
+ 0 
+ 0 
+ 0 
+ 8,500 
+ 8,500 
+ 
+ President,
+ Director 
+ 2018 
+ 0 
+ 0 
+ 0 
+ 8,200 
+ 8,200 
+
+Sara
+ L. Reynolds. 
+ 2019 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ CFO,
+ Secretary, Treasurer, Director 
+ 2018 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+C.
+Thomas Biscardi III was compensated as a subcontractor and issued a 1099 for leading the team during the expeditions. His compensation
+is recorded in expedition expenses. 
+
+Outstanding
+Equity Awards at Fiscal Year End . There were no outstanding equity awards as of July 31, 2019. 
+
+Board
+Committees 
+
+We
+do not currently have any committees of the Board of Directors. Additionally, due to the nature of our intended business, the
+Board of Directors does not foresee a need for any committees in the foreseeable future. 
+
+20 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth, as of July 31, 2019, certain information with respect to the beneficial ownership of shares of our
+common stock by: (i) each person known to us to be the beneficial owner of more than five percent (5 of our outstanding shares
+of common stock, (ii) each director or nominee for director of our Company, (iii) each of the executives, and (iv) our directors
+and executive officers as a group. Unless otherwise indicated, the address of each shareholder is c/o our company at our principal
+office address: 
+
+Name
+ and Address of Beneficial
+ Owner (1)(2)(3) 
+ Shares
+ of Common Stock / Percent of Class 
+
+Carmine
+ T. Biscardi, CEO, Dir. 570 El Camino Real NR-150 
+ 230,920,000 
+ 
+ Redwood
+ City, CA 94063 
+ 5.20 
+
+William
+ F. Marlette, Dir 14231 Meadowrun Street 
+ 15,250,000 
+ 
+ San
+ Diego, CA 92129 
+ 0.34 
+
+Rocky
+ Slavens, Dir 
+
+2488
+ S Deadhorse Mountain Rd 
+ 10,000 
+ 
+ Fayetteville,
+ AR 72701 
+ 0.00 
+
+Sara
+ Reynolds, CFO, Dir 6222 Raytown Trfy 352 
+ 101,503,000 
+ 
+ Raytown,
+ MO 64133 
+ 2.29 
+
+C.
+ Thomas Biscardi, Jr., President, Dir. 112 Ironwood Road 
+ 6,000,000 
+ 
+ Middlesboro,
+ KY 40965 
+ 0.14 
+
+Officers
+ and Directors as a Group 
+ 7.97 
+
+)
+Beneficial ownership is determined in accordance with the rules of the SEC which generally attribute beneficial ownership of securities
+to persons who possess sole or shared voting power and/or investment power with respect to those securities. Unless otherwise
+indicated, voting and investment power are exercised solely by the person named above or shared with members of such person s
+household. This includes any shares such person has the right to acquire within 60 days. 
+
+Percent of class is calculated on the basis of the number of shares outstanding on July 31, 2019 (4,433,279,043). 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Director
+Independence 
+
+We
+currently do not have any independent directors, as the term independent is defined in Section 803A of the NYSE
+Amex LLC Company Guide. Since the OTC Markets does not have rules regarding director independence, the Board makes its determination
+as to director independence based on the definition of independence as defined under the rules of the New York Stock
+Exchange NYSE and American Stock Exchange Amex ). 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+(1)
+AUDIT FEES 
+
+The
+audit fees charged by MaloneBailey, LLP for 2019 were 30,500 and 2018 were 27,000. 
+
+(2)
+AUDIT-RELATED FEES 
+
+The
+audit related fees charged by MaloneBailey, LLP were 0.00 for 2019 and 2018. 
+
+21 
+
+(3)
+TAX FEES 
+
+None. 
+
+(4)
+ALL OTHER FEES 
+
+None. 
+
+(5)
+AUDIT COMMITTEE POLICIES AND PROCEDURES 
+
+We
+do not have an audit committee. 
+
+(6)
+If greater than 50 percent, disclose the percentage of hours expended on the principal accountant s engagement to audit
+the registrant s financial statements for the most recent fiscal year that were attributed to work performed by persons
+other than the principal accountant s full-time, permanent employees. 
+
+Not
+applicable. 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a) 
+
+1.
+The financial statements listed in the Index to Financial Statements at page 30 are filed as part of this report. 
+
+2.
+Financial statement schedules are omitted because they are not applicable or the required information is shown in the financial
+statements or notes thereto. 
+
+3.
+Exhibits included or incorporated herein: See index to Exhibits. 
+
+(b)
+Exhibits 
+
+Incorporated
+ by 
+
+Exhibit 
+ Number 
+ 
+ Exhibit
+ Description 
+ 
+ Filed 
+ herewith 
+ 
+ reference 
+ Form 
+ 
+ Period 
+ ending 
+ 
+ Exhibit 
+ 
+ Filing
+ date 
+
+10.8 
+ 
+ Form of Advisory Agreement by and between the Company and Veyo Partners LLC 
+
+8-K 
+
+10.1 
+ 
+ 12/29/2017 
+ 
+ 10.9 
+ 
+ Restricted Stock Award Rescission Agreement dated as of December 27, 2017 between Bigfoot Project Investments, Inc. and Tom Biscardi 
+
+8-K 
+
+10.1 
+ 
+ 01/02/2018 
+ 
+ 10.10 
+ 
+ Restricted Stock Award Rescission Agreement dated as of December 27, 2017 between Bigfoot Project Investments Inc. and Tommy Biscardi 
+
+8-K 
+
+10.2 
+ 
+ 01/02/2018 
+ 
+ 10.11 
+ 
+ Restricted Stock Award Rescission Agreement dated as of December 27, 2017 between Bigfoot Project Investments Inc. and Sara Reynolds 
+
+8-K 
+
+10.3 
+ 
+ 01/02/2018 
+ 
+ 10.12 
+ 
+ Restricted Stock Award Rescission Agreement dated as of December 27, 2017 between Bigfoot Project Investments Inc. and William Marlette 
+
+8-K 
+
+10.4 
+ 
+ 01/02/2018 
+ 
+ 10.13 
+ 
+ Release of Power Up Lending Group, LTD 
+
+8-K 
+
+10.1 
+ 
+ 07/03/2018 
+ 
+ 10.14 
+ 
+ Notice of Conversion from Power Up Lending Group, LTD 
+
+8-K 
+
+10.2 
+ 
+ 07/03/2018 
+ 
+ 10.15 
+ 
+ Share Reserve Termination by Power Up Lending Group, LTD 
+
+8-K 
+
+10.3 
+ 
+ 07/03/2018 
+ 
+ 10.16 
+ 
+ 2018 Equity Incentive Plan Bigfoot Project Investments Inc. 
+
+DEF
+ 14C 
+
+01/17/2018 
+ 
+ 31.1 
+ 
+ Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act 
+ 
+ X 
+
+31.2 
+ 
+ Certification by the Principal Financial Officer of Registrant pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Rule 13a-14(a) or Rule 15d-14(a)). 
+ 
+ X 
+
+32.1 
+ 
+ Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act 
+ 
+ X 
+
+32.2 
+ 
+ Certification by the Principal Financial Officer pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ X 
+
+22 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused the report to
+be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Bigfoot
+ Project Investments Inc. 
+
+By: 
+ /s/
+ Carmine Tom Biscardi 
+
+Tom
+ Biscardi, CEO 
+
+Date: 
+ December
+ 9, 2019 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf
+of the registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Carmine T. Biscardi 
+ 
+ Chief
+ Executive Officer and Director 
+ 
+ December
+ 9, 2019 
+ 
+ Carmine
+ T. Biscardi 
+ 
+ (Principal
+ Executive Officer) 
+
+/s/
+ Sara Reynolds 
+ 
+ Chief
+ Financial Officer, Secretary, 
+ 
+ December
+ 9, 2019 
+ 
+ Sara
+ Reynolds 
+ 
+ Treasurer
+ and Director 
+
+(Principal
+ Financial Officer) 
+
+/s/
+ Carmine T. Biscardi III 
+ 
+ President
+ and Director 
+ 
+ December
+ 9, 2019 
+ 
+ Carmine
+ T. Biscardi III 
+
+23 
+
+BIGFOOT
+PROJECT INVESTMENTS, INC. 
+
+AUDITED
+CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED JULY 31, 2019 AND 2018 
+
+TABLE
+OF CONTENTS 
+
+Page 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ F-2 
+
+CONSOLIDATED
+ FINANCIAL STATEMENTS 
+
+Consolidated Balance Sheets 
+ F-3 
+
+Consolidated Statements of Operations 
+ F-4 
+
+Consolidated Statements of Changes in Stockholders Deficit 
+ F-5 
+
+Consolidated Statements of Cash Flows 
+ F-6 
+
+Notes to Consolidated Financial Statements 
+ F-7 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders of 
+
+ Bigfoot
+Investments, Inc. 
+
+ Redwood
+City, CA 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Bigfoot Investments, Inc. (the Company as of July 31, 2019 and
+2018, and the related statements of operations, changes in stockholders deficit, and cash flows for the years then
+ended, and the related notes (collectively referred to as the financial statements ). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of the Company as of July 31, 2019 and 2018,
+and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Going
+Concern Matter 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 2 to the financial statements, the Company has suffered recurring losses from operations and has a net capital deficiency
+that raises substantial doubt about its ability to continue as a going concern. Management s plans in regard to these matters
+are also described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this
+uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on
+the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company
+Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error
+or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial
+reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not
+for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting.
+Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to
+error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements.
+We believe that our audits provide a reasonable basis for our opinion. 
+
+/s/
+MaloneBailey, LLP 
+
+ www.malonebailey.com 
+
+ We
+have served as the Company s auditor since 2016. 
+
+ Houston,
+Texas 
+
+ December 9, 2019 
+
+F- 2 
+
+BIGFOOT
+PROJECT INVESTMENTS, INC. 
+
+ Consolidated
+Balance Sheets 
+
+July
+ 31, 2019 
+ July
+ 31, 2018 
+ 
+ ASSETS 
+
+Current
+ Assets 
+
+Cash 
+ 485 
+ 587 
+ 
+ Inventory,
+ net 
+ - 
+ 11,386 
+ 
+ Total
+ current assets 
+ 485 
+ 11,973 
+
+Fixed
+ Assets 
+
+Equipment,
+ net 
+ 1,181 
+ 2,066 
+ 
+ Total
+ Fixed Assets 
+ 1,181 
+ 2,066 
+
+Other
+ Assets 
+
+Website
+ Development 
+ 5,500 
+ 5,500 
+ 
+ Accumulated
+ Amortization 
+ (5,500 
+ (5,500 
+ 
+ Total
+ Other Assets 
+ - 
+ - 
+
+Total
+ Assets 
+ 1,666 
+ 14,039 
+
+LIABILITIES
+ AND STOCKHOLDERS DEFICIT 
+
+Current
+ Liabilities 
+
+Accounts
+ Payable 
+ 292,739 
+ 98,152 
+ 
+ Advances
+ from Shareholders 
+ 75,135 
+ 57,524 
+ 
+ Accrued
+ Interest 
+ 88,640 
+ 54,971 
+ 
+ Convertible
+ Debt (net of unamortized discount) 
+ 97,153 
+ 121,194 
+ 
+ Derivative
+ Liability 
+ 224,809 
+ 351,492 
+ 
+ Note
+ Payable - Related Party 
+ 435,894 
+ 472,370 
+ 
+ Total
+ Current Liabilities 
+ 1,214,370 
+ 1,155,703 
+
+Total
+ Liabilities 
+ 1,214,370 
+ 1,155,703 
+
+Stockholders 
+ deficit 
+
+Preferred
+ stock, 0.001 par value: 500,000,000 shares authorized, 0 and 0 shares issued and outstanding as of July 31, 2019 and
+ July 31, 2018 
+ - 
+ - 
+ 
+ Common
+ stock, 0.001 par value; 19,500,000,000 shares authorized, 4,433,279,043 and 2,159,215,077 issued and outstanding as of July
+ 31, 2019 and 2018, respectively 
+ 4,433,279 
+ 2,159,215 
+ 
+ Additional
+ Paid In Capital 
+ 5,190,011 
+ 7,044,400 
+ 
+ Accumulated
+ deficit 
+ (10,835,994 
+ (10,345,279 
+ 
+ Total
+ Stockholders deficit 
+ (1,212,704 
+ (1,141,664 
+
+Total
+ liabilities Stockholders deficit 
+ 1,666 
+ 14,039 
+
+See
+accompanying notes to consolidated financial statements 
+
+F- 3 
+
+BIGFOOT
+PROJECT INVESTMENTS, INC. 
+
+ Consolidated
+Statements of Operations 
+
+Year
+ Ended 
+ Year
+ Ended 
+
+July
+ 31, 2019 
+ July
+ 31, 2018 
+
+Revenue 
+ 888 
+ 2,827 
+
+Cost
+ of Goods Sold 
+ 11,386 
+ - 
+ 
+ Gross
+ Profit (Loss) 
+ (10,498 
+ 2,827 
+
+Costs
+ and expenses: 
+
+Professional
+ fees 
+ 277,223 
+ 447,681 
+ 
+ General
+ and administrative 
+ 27,541 
+ 5,305,251 
+ 
+ Expedition
+ expense 
+ 43,533 
+ 59,568 
+ 
+ Total
+ costs and expenses 
+ 348,297 
+ 5,812,500 
+
+Net
+ loss from operations 
+ (358,795 
+ (5,809,673 
+
+Other
+ Expense 
+
+Derivative
+ Gain (Loss) 
+ 122,062 
+ (339,533 
+ 
+ Gain
+ (Loss) on Debt Settlement 
+ 15,042 
+ (30,937 
+ 
+ Interest
+ Expense, net 
+ (269,024 
+ (253,140 
+ 
+ Total
+ Other Expense 
+ (131,920 
+ (623,610 
+
+Net
+ loss 
+ (490,715 
+ (6,433,283 
+
+Basic
+ and diluted loss per share 
+ (0.00 
+ (0.01 
+
+Weighted
+ average shares outstanding basic and diluted 
+ 3,295,591,232 
+ 688,162,436 
+
+See
+accompanying notes to consolidated financial statements 
+
+F- 4 
+
+BIGFOOT
+PROJECT INVESTMENTS, INC. 
+
+Consolidated
+Statements of Changes in Stockholders Deficit 
+
+ For
+the Years Ended July 31, 2019 and July 31, 2018 
+
+Common
+ Stock 
+ Additional Paid-in 
+ Accumulated 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Total 
+
+Balance, July 31, 2017 
+ 223,397,000 
+ 223,397 
+ 2,868,825 
+ (3,911,996 
+ (819,774 
+
+Cancellation of Common Stock 
+ (47,080,000 
+ (47,080 
+ 47,080 
+ - 
+ - 
+
+Stock Issued for Services 
+ 261,052,969 
+ 261,053 
+ 5,271,403 
+ - 
+ 5,532,456 
+
+Stock Issued for conversion of debt 
+ 1,549,970,108 
+ 1,549,970 
+ (1,363,347 
+ - 
+ 186,623 
+
+Settlement of derivative liability 
+ - 
+ - 
+ 306,377 
+ - 
+ 306,377 
+
+Stock Issued for settlement of advances
+ from shareholder and accrued interest 
+ 171,875,000 
+ 171,875 
+ (85,938 
+ - 
+ 85,937 
+
+Net (loss) 
+ - 
+ - 
+ - 
+ (6,433,283 
+ (6,433,283 
+
+Balance, July 31, 2018 
+ 2,159,215,077 
+ 2,159,215 
+ 7,044,400 
+ (10,345,279 
+ (1,141,664 
+
+Cancellation of Common Stock 
+ (10,000,000 
+ (10,000 
+ 10,000 
+ - 
+ - 
+
+Stock Issued for Services 
+ 168,449,182 
+ 168,449 
+ (151,604 
+ - 
+ 16,845 
+
+Stock issued for conversion of debt 
+ 2,115,614,784 
+ 2,115,615 
+ (1,918,176 
+ - 
+ 197,439 
+
+Settlement of derivative liability 
+ - 
+ - 
+ 205,391 
+ - 
+ 205,391 
+
+Net (loss) 
+ - 
+ - 
+ - 
+ (490,715 
+ (490,715 
+ 
+ Balance, July 31, 2019 
+ 4,433,279,043 
+ 4,433,279 
+ 5,190,011 
+ (10,835,994 
+ (1,212,704 
+
+See
+accompanying notes to consolidated financial statements 
+
+F- 5 
+
+BIGFOOT
+PROJECT INVESTMENTS, INC. 
+
+ Consolidated
+Statements of Cash Flows 
+
+For
+ The Year
+ Ended 
+ For
+ The Year
+ Ended 
+
+July
+ 31, 2019 
+ July
+ 31, 2018 
+ 
+ Cash flow from operating activities: 
+
+Net
+ loss 
+ (490,715 
+ (6,433,283 
+ 
+ Adjustments to reconcile net loss to
+ net cash used in operating activities: 
+
+Loss on inventory
+ obsolescence 
+ 11,386 
+ - 
+ 
+ Stock based compensation 
+
+16,845 
+ 5,532,456 
+ 
+ Amortization of
+ debt discount 
+ 200,107 
+ 173,405 
+ 
+ Derivative loss
+ (gain) 
+ (122,062 
+ 339,533 
+ 
+ Loss (gain)
+ on debt settlement 
+ (15,042 
+ 30,937 
+ 
+ Bad debt expense 
+ - 
+ 74,500 
+ 
+ Debt penalties 
+ 17,364 
+ 60,232 
+ 
+ Depreciation 
+ 885 
+ - 
+
+Change in operating assets and liabilities: 
+
+Accounts receivable 
+ - 
+ 4,000 
+ 
+ Accounts payable 
+ 194,587 
+ 79,363 
+ 
+ Inventory 
+ - 
+ 1,100 
+ 
+ Accrued
+ expenses 
+ 49,908 
+ 14,122 
+ 
+ Net cash used in operating activities 
+ (136,737 
+ (123,635 
+
+Cash flow from investing activities 
+
+Cash
+ paid for purchase of fixed assets 
+ - 
+ (1,085 
+ 
+ Net cash used in investing activities 
+ - 
+ (1,085 
+
+Cash flow from financing activities 
+
+Proceeds from convertible
+ notes 
+ 155,500 
+ 107,000 
+ 
+ Proceeds for Advances
+ from shareholders 
+ 100,220 
+ 201,412 
+ 
+ Payments on Advances
+ from shareholders 
+ (82,609 
+ (184,210 
+ 
+ Payments
+ on related party note payable 
+ (36,476 
+ - 
+ 
+ Net cash provided by financing activities 
+ 136,635 
+ 124,202 
+
+Net decrease in cash 
+ (102 
+ (518 
+ 
+ Cash at beginning of period 
+ 587 
+ 1,105 
+ 
+ Cash at end of period 
+ 485 
+ 587 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW
+ INFORMATION 
+
+Income taxes paid 
+ - 
+ - 
+ 
+ Interest paid 
+ - 
+ - 
+
+NON-CASH TRANSACTIONS 
+
+Cancellation of
+ common stock 
+ 10,000 
+ 47,080 
+ 
+ Settlement of derivative
+ liability 
+ 205,391 
+ 306,377 
+ 
+ Common stock issued
+ for conversion of debt 
+ 197,439 
+ 186,623 
+ 
+ Discount on convertible
+ note 
+ 200,770 
+ 55,614 
+
+See
+accompanying notes to consolidated financial statements 
+
+F- 6 
+
+BIGFOOT
+PROJECT INVESTMENTS, INC. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ For
+the Years Ended July 31, 2019 and 2018 
+
+NOTE
+1 ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Organization,
+Nature of Business and Trade Name 
+
+Bigfoot
+Project Investments Inc. we , our the Company was incorporated in the State of Nevada
+on November 30, 2011. The Company s administrative office is located at 570 El Camino Real NR-150, Redwood City, CA and
+its fiscal year ended July 31. Since inception, the Company has been engaged in organizational efforts and the pursuit of financing.
+The Company was established as an entertainment investment business. 
+
+The
+Company s mission is to create exciting and interesting proprietary investment projects, entertainment properties surrounding
+the mythology, research, and potential capture of the creature known as Bigfoot. The Company performs research in determining
+the existence of this elusive creature. For the past six years the research team, members of management have performed research
+on various expeditions investigating sightings throughout the United States and Canada. 
+
+The
+Company s competitive advantage is the in-house knowledge and the advanced level of maturity of its various projects developed
+and currently owned by our officers and controlling shareholder. The Company will capitalize on the current projects through contractual
+agreements which allow the Company to continue to create media properties and establish physical locations, partnerships, and
+strategic alliances with other organizations to create revenue as a stand-alone business. 
+
+Basis
+of Presentation 
+
+These
+consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United
+States of America. 
+
+Principles
+of Consolidation 
+
+The
+consolidated financial statements include the accounts of the Company and its wholly-owned or controlled operating subsidiaries.
+All intercompany accounts and transactions have been eliminated. 
+
+Use
+of Estimates 
+
+The
+preparation of consolidated financial statements in accounting principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent
+assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses
+during the reporting period. A change in managements estimates or assumptions could have a material impact on the Company s
+financial condition and results of operations during the period in which such changes occurred. Actual results could differ from
+those estimates. 
+
+Cash
+and Cash Equivalents 
+
+For
+purposes of the consolidated statements of cash flows, the Company considers all highly liquid instruments with maturity of three
+months or less to be cash equivalents. 
+
+Inventory
+Valuation 
+
+We
+value inventory at the lower of cost or net realizable value; cost being determined on a first-in, first-out basis.
+The Company periodically reviews the value of items in inventory and provides write-downs or write-offs of inventory based
+on its assessment of market conditions. Write-downs and write-offs are charged to cost of goods sold. Our policy is to assess
+inventory on an annual basis and based on our assessment current inventory is considered fully impaired as of July 31, 2019, resulting
+in 11,386 loss on inventory obsolescence during the year ended July 31, 2019. 
+
+Website
+Development Cost 
+
+The
+Company adopted Subtopic 350-50 of the FASB Accounting Standards Codification for website development costs. Under Sections 305-50-15
+and 350-50-25, the Company capitalizes costs incurred to develop a website as website development costs. They are amortized on
+a straight-line basis over the estimated useful lives of three (3) years. 
+
+F- 7 
+
+Income
+Tax 
+
+The
+Company accounts for income taxes under ASC 740 Income Taxes . Under the asset and liability method of ASC
+740, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the
+consolidated financial statements carrying amounts of existing assets and liabilities and their respective tax bases. Deferred
+tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those
+temporary differences are expected to be recovered or settled. Under ASC 740, the effect on deferred tax assets and liabilities
+of a change in tax rates is recognized in income in the period the enactment occurs. A valuation allowance is provided for certain
+deferred tax assets if it is more likely than not that the Company will not realize tax assets through future operations. 
+
+Revenue
+Recognition 
+
+The
+Company accounts for revenues according to ASC Topic 606, Revenue from Contracts with Customers which establishes
+principles for reporting information about the nature, amount, timing and uncertainty of revenue and cash flows arising from the
+entity s contracts to provide goods or services to customers. The new standard s core principal is that an entity
+will recognize revenue at an amount that reflects the consideration to which the entity expects to be entitled in exchange for
+transferring good or services to a customer. The principals in the standard are applied in five steps: 
+
+1)
+Identify the contract(s) with a customer; 
+
+2)
+Identify the performance obligations in the contract; 
+
+3)
+Determine the transaction price; 
+
+4)
+Allocate the transaction price to the performance obligations in the contract; and 
+
+5)
+Recognize revenue when (or as) the entity satisfies a performance obligation. 
+
+We
+adopted Topic 606 for the year ended July 31, 2018 using the modified retrospective transition method. We recognized the cumulative
+effect of adopting this guidance as an adjustment to our opening balance of retained earnings. Prior periods will not be retrospectively
+adjusted. The adoption of Topic 606 does not have a material impact to our consolidated financial statements, including the presentation
+of revenues in our Consolidated Statements of Operations, which were not broken down by revenue stream or geographic areas since
+the Company only sells within the United States and has only one revenue stream. 
+
+During
+the year ended July 31, 2019, the Company s revenues were primarily made up of revenue generated from our online streaming
+distributor. Revenue consists of pay per view sales from the online streaming contract as well as proceeds and commissions from
+sale of DVDs and videos. 
+
+The Company generated revenues
+from contracted sources of 888 and 2,827 for the twelve months ended July 31, 2019 and 2018, respectively. 
+
+Accounts
+receivable 
+
+The
+Company routinely assesses the recoverability of receivables to determine their collectability by considering factors such as
+historical experience, credit quality, the age of the accounts receivable balances, and current economic conditions that may affect
+a customer s ability to pay. The Company determines its allowance for doubtful accounts by considering such factors as the
+length of time balances are past due, the Company s previous loss history, the customer s current ability to pay its
+obligations to the Company and the condition of the general economy and the industry as a whole. 
+
+The
+Company has evaluated its accounts receivable history and determined that an allowance for doubtful accounts of 73,413 and 74,500,
+is required for the years ended July 31, 2019 and 2018, respectively. The Company reported net accounts receivable balance at
+July 31, 2019 and 2018 of 0 and 0, respectively. 
+
+Concentration
+risk 
+
+The
+Company recognized 888 from Amazon, in the year ended July 31, 2019 which was 100 of reported income. 
+
+The
+Company recognized 1,950 from EGPE and 877 from Amazon, in the year ended July 31, 2018 which was 69 and 31 of reported income,
+respectively. 
+
+Fair
+value of financial instruments 
+
+The
+carrying value of cash, accounts receivable, accounts payable and accrued expenses, and debt approximate their fair values because
+of the short-term nature of these instruments. Management believes the Company is not exposed to significant interest or credit
+risks arising from these financial instruments. 
+
+Fair
+value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in
+the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on
+the measurement date. Valuation techniques used to measure fair value maximize the use of observable inputs and minimize the use
+of unobservable inputs. The Company utilizes a fair value hierarchy based on three levels of inputs, of which the first two are
+considered observable and the last unobservable. 
+
+F- 8 
+
+Level
+ 1 - 
+ Quoted
+ prices in active markets for identical assets or liabilities. These are typically obtained from real-time quotes for transactions
+ in active exchange markets involving identical assets. 
+
+Level
+ 2 - 
+ Quoted
+ prices for similar assets and liabilities in active markets; quoted prices included for identical or similar assets and liabilities
+ that are not active; and model-derived valuations in which all significant inputs and significant value drivers are observable
+ in active markets. These are typically obtained from readily-available pricing sources for comparable instruments. 
+
+Level
+ 3 - 
+ Unobservable
+ inputs, where there is little or no market activity for the asset or liability. These inputs reflect the reporting entity s
+ own beliefs about the assumptions that market participants would use in pricing the asset or liability, based on the best
+ information available in the circumstances. 
+
+The
+following table presents the derivative financial instruments, the Company s only financial liabilities measured and recorded
+at fair value on the Company s balance sheets on a recurring basis, and their level within the fair value hierarchy as of
+July 31, 2019 and 2018: 
+
+Amount 
+
+Level 1 
+
+Level 2 
+
+Level 3 
+
+Embedded conversion derivative liability 2018 
+
+351,492 
+
+- 
+
+- 
+
+351,492 
+
+Total 2018 
+
+351,492 
+
+351,492 
+
+Embedded conversion derivative liability 2019 
+
+177,746 
+
+- 
+
+- 
+
+177,746 
+
+Warrant derivative liability 2019 
+
+47,063 
+
+47,063 
+
+Total 2019 
+
+224,809 
+
+- 
+
+- 
+
+224,809 
+
+The
+following table provides a summary of the changes in fair value, including net transfers in and/or out, of the derivative financial
+instruments, measured at fair value on a recurring basis using significant unobservable inputs: 
+
+Balance at July 31, 2017 
+ 262,722 
+ 
+ Fair value of derivative liability at
+ issuance charged to debt discount 
+ 55,614 
+ 
+ Reclass to equity due to conversion 
+ (306,377 
+ 
+ Unrealized derivative
+ loss included in other expense 
+ 339,533 
+ 
+ Balance at July 31, 2018 
+ 351,492 
+ 
+ Fair value of derivative liability at
+ issuance charged to debt discount 
+ 200,770 
+ 
+ Reclass to equity due to conversion 
+ (205,391 
+ 
+ Unrealized derivative
+ gain included in other expense 
+ (122,062 
+ 
+ Balance at July 31, 2019 
+ 224,809 
+
+On
+August 9, 2018, the Company and EMA Financial EMA negotiated a settlement agreement for the January 2017 Note.
+In the settlement agreement EMA agreed to accept the amount of 40,000 as the current outstanding balance of the January 2017
+Note as of the Effective Date. 57,248 derivative gain was recognized as a result of the reduction in convertible note balance 
+
+The
+Company evaluated its convertible notes to determine if the embedded component of those contracts qualify as derivatives to be
+separately accounted for under ASC Topic 815, Derivatives and Hedging. The Company determined that due to the variable
+number of common stock that the notes convert to, the embedded conversion option were required to be bifurcated and accounted
+for as a derivative liability. The fair value of the derivative liability is calculated at the time of issuance and the Company
+records a derivative liability for the calculated value. Changes in the fair value of the derivative liability are recorded in
+other income (expense) in the consolidated statements of operations. Upon conversion of a derivative instrument, the instrument
+is marked to fair value at the conversion date and then that fair value is reclassified to equity. The Company evaluated all
+outstanding warrants to determine whether these instruments may be tainted. All warrants outstanding were considered tainted. 
+
+For the period ended July 31,
+2019, the Company s derivative instruments were valued using the Lattice
+model (for convertible notes) based on a probability weighted discounted cash flow model, and the Montel Carlo model (for tainted
+warrants) based on a multipath random event model. Assumptions used in the valuation include the following: a) underlying
+stock price ranging from 0.00038 to 0.00009; b) projected discount on the conversion price ranging from 40 to 58 with the
+notes effectively converting at discounts in the range of 38.51 to 73.97 ; c) projected volatility of 261.1 to 543.8 ; d) probabilities
+related to default and redemption of the notes during the term of the notes. 
+
+For
+the year ended July 31, 2018, the Company s derivative instruments were valued using the Lattice model which was based on
+a probability weighted discounted cash flow model. Assumptions used in the valuation include the following: a) underlying stock
+price ranging from 0.0001 to 0.2; b) projected discount on the conversion price ranging from 62 to 35 and 40 with the notes
+effectively converting at discounts in the range of 55.5 to 75.4 ; c) projected volatility of 366 to 499.9 ; d) probabilities
+related to default and redemption of the notes during the term of the notes. 
+
+The
+Company has considered the provisions of ASC 480, Distinguishing Liabilities from Equity , as the conversion feature embedded
+in each debenture could result in the note principal being converted to a variable number of the Company s common shares. 
+
+Basic
+and Diluted Earnings per Share 
+
+Basic
+earnings per share are based on the weighted-average number of shares of common stock outstanding. 
+
+The
+FASB ASC Topic 260, Earnings per Share , requires the Company to include additional shares in the computation of
+earnings per share, assuming dilution. 
+
+We
+calculate basic earnings (loss) per share by dividing net income (loss) available to common shareholders by the weighted average
+number of common shares outstanding during the reporting period. Diluted earnings per share is calculated similarly but reflects
+the potential impact of outstanding stock options, stock warrants and other commitments to issue common stock, including shares
+issuable upon the conversion of convertible notes outstanding, except where the impact would be anti-dilutive. 
+
+Diluted
+earnings per share are based on the assumption that all dilutive options were converted or exercised. Dilution is computed by
+applying the treasury stock method for options and warrants and if converted method for convertible notes. Under
+the treasury stock method, options and warrants are assumed to be exercised at the time of issuance, and as if funds obtained
+thereby were used to purchase common stock at the average market price during the period. 
+
+The
+following is a reconciliation of basic and diluted earnings per share for the years ended July 31, 2019 and 2018: 
+
+Year Ended 
+ Year Ended 
+
+July
+ 31, 2019 
+ July
+ 31 2018 
+ 
+ Numerator: 
+
+Net
+ (loss) available to common shareholders 
+ (490,715 
+ (6,433,283 
+
+Denominator: 
+
+Weighted average shares basic
+ and diluted 
+ 3,295,591,232 
+ 688,162,436 
+
+Net (loss) per share
+ basic and diluted 
+ (0.00 
+ (0.01 
+
+F- 9 
+
+Recent
+Account Pronouncements 
+
+In
+January 2017, the FASB issued an ASU regarding how goodwill is tested annually. This ASU will simplify the measurement of goodwill
+which will reduce cost and complexity of the evaluating process. This ASU is effective beginning after December 15, 2019. The
+adoption of this ASU will not have a material impact on the financial position and results of operations of the Company. 
+
+NOTE
+2 GOING CONCERN 
+
+The
+Company s consolidated financial statements are prepared using accounting principles generally accepted in the United States
+of American applicable to a going concern, which contemplates the realization of assets and liquidation of liabilities in the
+normal course of business. However, the Company has incurred recurring losses, does not have significant cash or other current
+assets, nor does it have an established source of revenues sufficient to cover its operating costs and to allow it to continue
+as a going concern. These factors raise substantial doubt about our ability to continue as a going concern. 
+
+In
+the coming year, the Company s foreseeable cash requirements will relate to continual development of the operations of its
+business, maintaining its good standing and making the requisite filings with the Securities and Exchange Commission, and payment
+of expenses associated with operations and business developments. The Company may experience a cash shortfall and be required
+to raise additional capital. 
+
+Historically,
+it has mostly relied upon internally generated funds such as shareholder loans and advances to finance its operation and growth.
+Management may raise additional capital by future public or private offerings of the Company s stock or through loans from
+private investors, although there can be no assurance that it will be able to obtain such financing. The Company s failure
+to do so could have a material and adverse effect upon it and its shareholders. 
+
+The
+ability of the Company to continue as a going concern is dependent upon its ability to successfully accomplish the plan described
+in the preceding paragraph and eventually attain profitable operations. The accompanying consolidated financial statements do
+not include any adjustments that may be necessary if the Company is unable to continue as a going concern. 
+
+NOTE
+3 ADVANCE FROM SHAREHOLDERS 
+
+For
+the twelve months ended July 31, 2019 and July 31, 2018, additional advances from shareholders were 100,220 and 201,412, respectively.
+The Company made payments on these advances amounting to 82,609 and 184,210 for the twelve months ended July 31, 2019 and July
+31, 2018, respectively. These advances bear no interest and are due on demand. Total advances from shareholders as of July 31,
+2019 and 2018 were 75,135 and 57,524, respectively. 
+
+During
+the twelve months ended July 31, 2018, 20,000 in advances from shareholder was converted to 62,500,000 shares of common stock. 
+
+NOTE
+4 NOTE PAYABLE RELATED PARTY 
+
+In
+January 2013, Bigfoot Project Investments, Inc. executed a promissory note in the amount of 484,029 as part of the asset transfer
+agreement for the transfer of all assets held by Searching for Bigfoot, Inc. In August 2013, the Company increased the balance
+of the promissory note by 489 to add an asset that was not included in the original transfer. The note is subject to annual interest
+of 4 and the unpaid principal and the accrued interest are payable in full on January 31, 2018. The holders of the note have
+agreed to allow the note to be renewed for another year, making the current maturity date January 31, 2020. 
+
+F- 10 
+
+Monthly
+payments are not required on the note; however, the note does contain a prepayment clause that allows for payments to be made
+prior to the due date with no detrimental effects. The Company paid 36,476 toward the principal of the loan during the year ended
+July 31, 2019. As of July 31, 2019, and 2018, the outstanding balance on the note was 435,894 and 472,370, respectively. 
+
+Interest
+expense for the years ended July 31, 2019 and 2018 was 18,895 and 18,895, respectively. During the year ended July 31, 2018,
+ 35,000 of accrued interest was converted to 109,375,000 shares of common stock. 
+
+NOTE
+5 CAPITAL STOCK 
+
+The
+holders of the Company s common stock are entitled to receive dividends out of assets or funds legally available for the
+payment of dividends at such times and in such amounts as the board from time to time may determine. Holders of common stock are
+entitled to one vote for each share held on all matters submitted to a vote of shareholders. There is no cumulative voting of
+the election of directors then standing for election. The common stock is not entitled to pre-emptive rights and is not subject
+to conversion or redemption. Upon liquidation, dissolution or winding up of the Company, the assets legally available for distribution
+to stockholders are distributable ratably among the holders of the common stock after payment of liquidation preferences, if any,
+on any outstanding payment of other claims of creditors. 
+
+The
+Company has 4,433,279,043 and 2,159,215,077 shares of common stock issued and outstanding as of July 31, 2019 and July 31, 2018,
+respectively. 
+
+On
+November 28, 2017 the Board discussed and agreed to increase the authorized shares from 400,000,000 to 500,000,000 for the purpose
+of securing additional resources for anticipated operations. On November 29, 2017 an amendment to the Articles of Incorporation
+was filed with the Nevada Secretary of State to increase the authorized shares. 
+
+On
+January 12, 2018 the Board discussed and agreed to increase the authorized shares from 500,000,000 to 4,000,000,000. Common stock
+authorized was changed to 3,500,000,000 and a class of Preferred stock was added with 500,000,000 shares authorized. This change
+was implemented for the purpose of securing additional resources and establishing the Preferred stock for merger/acquisition negotiations. 
+
+On
+August 2, 2018 the Board discussed and agreed to increase the authorized shares from 4,000,000,000 to 7,000,000,000. Common stock
+authorized was changed to 6,500,000,000 and a class of Preferred stock was unchanged with 500,000,000 shares authorized. This
+change was implemented for the purpose of securing additional resources in preparation for merger/acquisition negotiations. 
+
+The
+Board authorized stock compensation for Directors of the Company in the August 28, 2017 Directors meeting. The stock was issued
+on September 13, 2017. Total number of shares issued for director compensation was twenty million (20,000,000) shares to CEO,
+Tom Biscardi, ten million (10,000,000) shares to President, Tommy Biscardi, ten million (10,000,000) shares to CFO, Sara Reynolds
+and ten million (10,000,000) shares to Director, William Marlette for a total of fifty million shares (50,000,000). The Board
+also authorized stock compensation for the Company s legal representative The Krueger Group in the amount of ten million
+shares (10,000,000). The Company recorded 5,220,000 stock-based compensation during the three months ended October 31, 2017. 
+
+On
+December 27, 2017, the Board voted to rescind the stock compensation issued on September 13, 2017. Consequently, 47,080,000 shares
+issued as stock compensation were cancelled and the corresponding par value of 47,080 was reclassed to additional paid in capital. 
+
+During
+the year ended July 31, 2018, EMA Financial converted 260,595,950 shares of common stock for a reduction in the principal amount
+due of 50,240. The note went into default as of January 19, 2018. Penalties in the amount of 45,232 were assessed upon default
+of the note. The balance was 55,042 as of July 31, 2018 
+
+During
+the year ended July 31, 2018, Auctus Fund converted 348,248,299 shares of common stock for a principal amount due of 59,348 and
+settlement of unpaid interest of 7,074, and penalty of 5,000. The note went into default November 18, 2017, Auctus Fund assessed
+penalties totaling 20,000 for default and sub-penny penalties. As part of negotiations for final settlement of this note, Auctus
+agreed to forgive 5,000 of the penalties that had been assessed. The principal of the note was 13,152 as of July 31, 2018. 
+
+During
+the year ended July 31, 2018, Power Up Lending converted 941,125,859 shares of common stock for a principal amount due of 60,000
+and settlement of unpaid interest of 4,961. The note is paid in full as of July 31, 2018. 
+
+During
+the year ended July 31, 2018, 35,000 of accrued interest from the related party note was converted to 109,375,000 shares of common
+stock. During the year ended July 31, 2018, 20,000 in advances from shareholders was converted to 62,500,000 shares of common
+stock. The total shares issued for these conversions was 171,875,000 which had a fair value at conversion of 85,937, and the
+Company recorded a loss on debt settlement of 30,937. 
+
+During
+the year ended July 31, 2019, Auctus Fund converted 948,644,320 shares of common stock for a principal amount due of 46,200 and
+settlement of unpaid interest of 6,696, conversion fee of 2,500 and penalty of 10,000. The principal balance of the note as
+of April 30, 2019 was 82,316. The note went into default as of May 1, 2019. 
+
+During
+the year ended July 31, 2019 and 2018, the Company reserved 168,449,182 and 159,941,858 shares of common stock for Veyo Partners,
+respectively. This agreement has been terminated and final compensation has been estimated. Fair value of the shares reserved
+during the year ended July 31, 2018 and 2019 is 291,456 and 16,845, respectively. 
+
+During
+the year ended July 31, 2019, EMA Financial converted 461,683,700 shares of common stock for a reduction in the principal amount
+due of 40,000 and settlement of unpaid interest of 2,063 and penalties of 2,000. The note went into default as of January 19,
+2018. The balance on the note as of July 31, 2019 is 0. 
+
+During
+the year ended July 31, 2019, Power Up Lending converted 705,286,764 shares of common stock for a principal amount due of 83,000
+and settlement of unpaid interest of 4,980. The balance of all notes for Power Up as of July 31, 2019 is 0. 
+
+During
+the year ended July 31, 2019, the Company rescinded the 10,000,000 shares of stock compensation issued to The Krueger Group in
+August 2017. Consequently, the corresponding par value of 10,000 was reclassed to additional paid in capital. 
+
+NOTE
+6 DISTRIBUTION AGREEMENTS 
+
+The
+Company entered into a Distribution Agreement on September 2, 2011 with the Bosko Group providing them a non-exclusive right to
+market the sales of its DVD s. The Distribution Agreement requires the Company to pay the Bosko Group ten percent (10 of the selling price of the DVD s sold. This agreement remained in effect for a period of 4 years and has been automatically
+renewed for an additional 4 years with no limit on the number of times the agreement may be automatically renewed, unless either
+party gives notice to the other of its desire to terminate the Agreement at least sixty (60) days before expiration of the original
+or renewal term. 
+
+On
+May 2017, the Company entered into two separate agreements (the Re-Release with The Bosko Group LLC (the Distributor to provide distribution and promotional services to the Company. The terms of the agreements provide for the following. 
+
+a. 
+ Compensation
+ to the Company for the Re-Release will be based on projected gross sales range and royalties for six existing DVD documentaries
+ which will be offered into all distribution markets as a series with a new introduction narrated by Tom Biscardi. 
+
+b. 
+ Compensation
+ to the Company for the Distribution of new feature-length films is based on past performance of previous productions with
+ up-front funding and projected royalties over all distribution channels. The film was edited and released in August 2018 through
+ various channels. 
+
+F- 11 
+
+NOTE
+7 COMMITMENTS AND CONTINGENCIES 
+
+The
+Company could become a party to various legal actions arising in the ordinary course of business. Matters that are probable of
+unfavorable outcomes to the Company and which can be reasonably estimated are accrued. Such accruals are based on information
+known about the matters, the Company s estimates of the outcomes of such matters and its experience in contesting, litigating
+and settling similar matters. As of the date of this report there are no material pending legal proceedings to which the Company
+is a party or of which any of their property is the subject, nor are there any such proceedings known to be contemplated by governmental
+authorities. 
+
+NOTE
+8 INCOME TAXES 
+
+On
+December 22, 2017, H.R. 1, formally known as the Tax Cut and Jobs Act (the Act was enacted into law. The Act provides
+for significant tax law changes and modifications with varying effective dates. The major change that affects the Company is reducing
+the corporate income tax rate to 21 . 
+
+Deferred
+taxes, estimated at 21 of taxable incomes, are provided on a liability method whereby deferred tax assets are recognized for
+deductible temporary differences and operating loss and tax credit carry forward and deferred tax liabilities are recognized for
+taxable temporary differences. Temporary differences are the differences between the reported amounts of assets and liabilities
+and their tax bases. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely
+than not that some portion or all of the deferred tax assets will be realized. Deferred tax assets and liabilities are adjusted
+for the effects of changes in tax laws and rates on the date of enactment. 
+
+Net
+operating losses consist of the following components as of July 31, 2019 and 2018: 
+
+July
+ 31, 2019 
+ July
+ 31, 2018 
+ 
+ Net operating loss: 
+
+Net
+ operating loss carryover 
+ 3,580,447 
+ 3,215,014 
+ 
+ Valuation
+ allowance 
+ (3,580,447 
+ (3,215,014 
+ 
+ Net operating
+ loss: 
+ - 
+ - 
+
+A
+reconciliation of deferred tax assets with income taxes rates computed at the 21 and 39 statutory rate to the income tax recorded
+as of July 31, 2019 and 2018 is as follows: 
+
+July
+ 31, 2019 
+
+July
+ 31, 2018 
+
+Net
+ provision for federal income taxes (benefits): 
+
+Deferred
+ tax assets 
+
+751,894 
+
+675,153 
+
+Valuation
+ allowance 
+
+(751,894) 
+
+(675,153) 
+
+- 
+
+- 
+
+A
+reconciliation of the expected income tax benefit at the U.S. Federal income tax rate to the income tax benefit actually recognized
+for the years ended July 31, 2019 and 2018 is set forth below: 
+
+2019 
+ 2018 
+ 
+ Net loss 
+ (103,050 
+ (2,508,980 
+ 
+ Non-deductible expenses and other 
+ 26,309 
+ 1,291,675 
+ 
+ Effect due to decrease in tax rates 
+ - 
+
+1,685,851 
+ 
+ Change in valuation
+ allowance 
+ 76,741 
+ (468,546 
+ 
+ Benefit from income taxes 
+ - 
+ - 
+
+As
+of July 31, 2019, the Company did not pay any income taxes nor have they paid or accrued any taxes from inception through July
+31, 2019. 
+
+The
+net federal loss carry-forwards of 3,580,447 and 3,215,014 for the year ended July 31, 2019 and 2018, respectively,
+will begin to expire in 2034. No tax benefit has been reported in the July 31, 2019 and 2018 consolidated financial statements
+since the potential tax benefit is offset by a valuation allowance in the same amount. Due to the change in ownership provisions
+of the Tax Reform Act of 1986, net operating loss carry forwards for Federal income tax reporting purposes are subject to annual
+limitations. The Company has filed taxes for the year ended July 31, 2019. All of the Company s income tax years remained
+open for examination by taxing authorities. 
+
+F- 12 
+
+NOTE
+9 ADVISORY AGREEMENTS 
+
+On
+November 30, 2017, the Company entered into an Advisory Agreement with Veyo Partners LLC in which Veyo Partners is to provide
+financial and other consulting services to the Company. Compensation for this agreement shall be a base fee in the form of common
+stock equal to 8 of the outstanding fully diluted shares of the Company and a monthly fee of 10,000 per month which is deferred
+until the advisors secure financing of no less than 300,000. 
+
+During
+the years ended July 31, 2018 the Company issued to Veyo Partners LLC 41,111,111 shares of common stock as partial compensation
+for the monthly fee of 10,000 resulting in professional fees of 21,000. The Company also accrued 69,000 for services provided
+from November 2017 through July 2018. 
+
+The
+Company recorded the issuance of
+ 159,941,858 shares of common stock during
+the year ended July 31, 2018 as base fee for consulting services, with total value of 291,456. The Company increased this
+to 168,449,182 shares of common stock as of July 31, 2019 as the base fee for consulting services, with a total value
+of 16,845. The Company also accrued 120,000 in professional fees during the year ended July 31, 2019. The agreement was terminated
+on October 23, 2019. Additional fees will be accrued for 90 days following the termination of the agreement. 
+
+F- 13 
+
+NOTE
+10 CONVERTIBLE NOTES 
+
+On
+January 19, 2017, the Company issued a convertible promissory note in the amount of 62,500 to EMA Financial, LLC, a Delaware
+limited liability company. This convertible note is due and payable January 19, 2018, has an interest rate of 10 and is convertible
+to common stock of the Company at a conversion price equal to the lower of: (i) the closing sale price of the common stock on
+the principal market on the trading immediately preceding the closing date of this note, and (ii) 50 of either the lowest sale
+price for the common stock on the principal market during the twenty-five (25) consecutive trading days immediately preceding
+the conversion date or the closing bid price. The note may be prepaid at 135 - 145 of outstanding principal balance. The note
+became convertible on May 23, 2017 and the variable conversion feature was accounted for as a derivative liability in accordance
+with ASC 815. During the year ended July 31, 2018, EMA Financial converted 260,595,950 shares of common stock for a reduction
+in the principal amount due of 50,240. The note went into default as of January 19, 2018. Penalties in the amount of 45,232
+were assessed upon default of the note during the year ended July 31, 2018. 
+
+On
+August 9, 2018, the Company and EMA Financial EMA negotiated a settlement agreement for the January 2017 Note.
+In the settlement agreement EMA agreed to accept the amount of 40,000 as the current outstanding balance of the January 2017
+Note as of the Effective Date. As of the Effective Date, interest will accrue on the January 2017 Note at a rate of ten percent
+(10 per annum, unless the Company breaches any provision or representation in this settlement agreement, or an additional Event
+of Default occurs. In the event of default, the conversion price discount shall revert to a 50 discount of either the lowest
+sale price for the Common Stock on the Principal Market as defined in the January 2017 Note during the twenty-five (25) consecutive
+Trading Days as defined in the January 2017 Note immediately preceding the Conversion Date or the closing bid price, whichever
+is lower. EMA imposed an additional 2,000 in penalties during the year ended July 31, 2019. A gain on the settlement agreement
+of 15,042 has been recognized for the year ended July 31, 2019. During the year July 31, 2019, EMA Financial converted 461,683,700
+shares of common stock for a principal amount due of 40,000, settlement of unpaid interest of 2,063, and penalty of 2,000.
+Balance of principal on the note as of July 31, 2018 and July 31, 2019 was 55,042 and 0, respectively. 
+
+On
+February 27, 2017, the Company issued a convertible promissory note in the amount of 62,500 to Auctus Fund LLC, a Delaware limited
+liability company. This convertible note is due and payable on November 28, 2017 with interest of 10 per annum. This note is
+convertible at the election of Auctus Fund, LLC after the 120 holding period has expired. In the event of default, the amount
+of principal and interest not paid when due bear interest at the rate of 24 per annum and the note becomes immediately due and
+payable. Should an event of default occur, the Company is liable to pay 150 of the then outstanding principal and interest. The
+note agreement contains covenants requiring Auctus Fund s written consent for certain activities not in existence or not
+committed to by the Company on the issuance date of the note, as follows: dividend distributions in cash or shares, stock repurchases,
+borrowings, sale of assets, certain advances and loans in excess of 100,000, and certain guarantees with respect to preservation
+of existence of the Company and non-circumvention. This note became convertible on June 27, 2017 and the variable conversion
+feature was accounted for as a derivative liability in accordance with ASC 815. 
+
+F- 14 
+
+Outstanding
+note principal and interest accrued thereon can be converted in whole, or in part, at any time by Auctus Fund, LLC after the issuance
+date into an equivalent of the Company s common stock at a conversion price equal to the lower of: (i) 50 multiplied by
+the lowest trading price of the common stock during the previous twenty-five (25) trading day period prior to the date of the
+note and (ii) 50 of the lowest trading price of the common stock during the twenty-five (25) trading day period prior to the
+conversion date. The Company may prepay the amounts outstanding to Auctus Fund at any time up to the 180 th day following
+the issue date of this note by making a payment to the note holder of an amount in cash equal to 135 to 145 , multiplied by the
+sum of: (w) the then outstanding principal amount of this note plus (x) accrued and unpaid interest on the unpaid principal amount
+of this note plus (y) default interest, depending on the time of prepayment. During the year ended July 31, 2018, Auctus Fund
+converted 348,248,299 shares of common stock for a principal amount due of 59,348 and settlement of unpaid interest of 7,074,
+and penalty of 5,000. During the year ended July 31, 2019, Auctus Fund converted 110,289,820 shares of common stock for a principal
+amount due of 3,516 and settlement of unpaid interest of 83, and penalty of 10,000. Auctus imposed additional penalties of
+ 364 during the year ended July 31, 2019. The note went into default November 18, 2017, Auctus Fund assessed penalties totaling
+ 20,000 for default and sub-penny penalties. As part of settlement negotiations, Auctus Fund agreed to forgive 5,000 of the penalties
+assessed during the year ended July 31, 2018. Balance of the note as of July 31, 2019 and 2018 was 0 and 13,152, respectively.
+
+On
+August 28, 2017, the Company issued a convertible promissory note in the amount of 60,000 to Power Up Lending Group LTD, a Virginia
+corporation. This convertible note is due and payable on June 10, 2018, has an interest rate of 12 and is convertible to common
+stock of the Company, beginning from 180 days following the date of the note, at a conversion price equal to 62 of the average
+of the lowest trading price of the common stock during the fifteen (15) trading day period prior to the conversion date. The note
+may be prepaid at any time up to 180 th day following the issue date of the note for an amount equal to 115 - 140 
+of outstanding balance plus unpaid interest. This note became convertible on February 24, 2018 and the variable conversion feature
+was accounted for as a derivative liability in accordance with ASC 815. During the year ended July 31, 2018, Power Up Lending
+converted 941,125,859 shares of common stock for a principal amount due of 60,000 and settlement of unpaid interest of 4,961.
+The note is paid in full as of July 31, 2018. 
+
+On
+July 5, 2018, the Company entered into a Securities Purchase Agreement (the Securities Purchase Agreement with
+Power Up Lending (the Investor ), pursuant to which the Company sold to the Investor convertible promissory note
+in the principal amount of 53,000 (the Note ), for an aggregate purchase price of 53,000. The Note matures
+on April 30, 2019, bears interest rate of 12 per year payable on maturity date in cash or shares of common stock at the Company s
+option (subject to certain conditions), and is convertible into shares of the Company s common stock on January 1, 2019,
+at the conversion price equal to 58 of the lowest trading price of the common stock during the 15 trading day period prior to
+the conversion date. The note became convertible on January 1, 2019 and the variable conversion feature with a fair value of 36,334
+was accounted for as a derivative liability in accordance with ASC 815 with a corresponding charge to debt discount. During the
+year ended July 31, 2019, Power Up Lending converted 468,166,666 shares of common stock for a principal amount due of 53,000
+and settlement of unpaid interest of 3,180. The balance of the July 2018 note as of July 31, 2018 and July 31, 2019 is 53,000
+and 0, respectively. 
+
+On
+August 3, 2018, the Company entered into a Securities Purchase Agreement (the Securities Purchase Agreement with
+Power Up Lending (the Investor ), pursuant to which the Company sold to the Investor convertible promissory note
+in the principal amount of 30,000 (the Note ), for an aggregate purchase price of 30,000. The Company received
+ 27,000 in cash for this note and recorded 3,000 as issuance cost. The August 2018 Note matures on May 15, 2019, bears interest
+rate of 12 per year payable on maturity date in cash or shares of common stock at the Company s option (subject to certain
+conditions), and is convertible into shares of the Company s common stock on January 30, 2019 at the conversion price equal
+to 58 of the lowest sale price for the common stock during the 15 consecutive trading days ending on the latest complete Trading
+Day prior to the conversion date. The note became convertible on January 30, 2019 and the variable conversion feature with a fair
+value of 20,936 was accounted for as a derivative liability in accordance with ASC 815 with a corresponding charge to debt discount.
+During the year ended July 31, 2019, Power Up Lending converted 237,120,098 shares of common stock for a principal amount due
+of 30,000 and settlement of unpaid interest of 1,800. The balance of the Note as of July 31, 2019 is 0. 
+
+F- 15 
+
+On
+August 1, 2018, the Company entered into a Securities Purchase Agreement (the Securities Purchase Agreement with
+Auctus Fund LLC (the Investor ), pursuant to which the Company sold to the Investor convertible promissory note in
+the principal amount of 110,000 (the Note ), for an aggregate purchase price of 100,000. The Company received 100,000
+cash and recorded 10,000 as issuance cost. The Second August 2018 Note matures on May 1, 2019, bears interest rate of 10 per
+year payable on maturity date in cash or shares of common stock at the Company s option (subject to certain conditions),
+and is convertible into shares of the Company s common stock at the conversion price equal to the lower of (i) the closing
+sale price of the common stock on the principal market on the trading day immediately preceding the closing date, and (ii) 55 
+of either the lowest sale price for the common stock during the 20 consecutive trading days including and immediately preceding
+the conversion date. This note became convertible on issuance date and the variable conversion feature with a fair value of 216,164
+was accounted for as a derivative liability in accordance with ASC 815 with a corresponding charge of 115,000 to debt discount
+and 101,164 to day one loss on derivative. The Company recorded an increase in the principal of 15,000 since the conversion
+price is less than 0.01. During the year ended July 31, 2019, Auctus converted 838,354,500 shares of common stock for a principal
+amount due of 42,684, conversion fee of 2,500 and unpaid interest of 6,613. The outstanding balance of principal on the second
+August 2018 note as of July 31, 2019 is 82,316. As of May 1, 2019, the note went into default resulting in a default interest
+rate of 24 . The Company is pursuing options to pay off the note to prevent further conversions. 
+
+On February 25, 2019, the Company
+signed a convertible promissory note with Crown Bridge Partners, LLC for a principal sum of 165,000 to be requested in installments.
+The first installment of 28,500 was received for the principal of 33,000 on March 1 st , 2019. The note is subject
+to interest rate of 8 and matures in February 2020. The holder of the note shall have the right to convert the notes at any time,
+the note bears interest rate of 8 per year payable on maturity date in cash or shares of common stock at the Company s
+option (subject to certain conditions), and is convertible into shares of the Company s common stock at the conversion price
+which equals 50 multiplied by the lowest one trading price for the common stock during the 25 day trading day period ending on
+the last complete trading day prior to the conversion date. The note is convertible on issuance date and the variable conversion
+feature with a fair value of 56,216 was accounted for as a derivative liability in accordance with ASC 815 with a corresponding
+charge of 28,500 to debt discount and 27,716 to day one loss on derivative. On February 25, 2019, the Company also issued Crown
+Bridge Partners LLC a Common Stock Purchase Warrant for 18,857,142 shares of common stock. The warrants have an exercise price
+of 0.0035 per share and expiration date of February 25, 2024. These warrants were tainted by the variable notes and the fair
+value of 47,063 was accounted for as a derivative liability in accordance with ASC 815. The outstanding balance of the principal
+on the note as of July 31, 2019 is 33,000. 
+
+In
+connection with the above notes, during the year ended July 31, 2019 and 2018, the Company paid deferred financing costs totaling
+to 17,500 and 6,000, respectively, which were recorded as a discount to the notes. During the years ended July 31, 2019 and
+2018, the Company also recognized a debt discount of 200,770 and 55,614 resulting from the embedded conversion option derivative
+liability. The debt discount is amortized over the term of the note. Total amortization expense for the years ended July 31, 2019
+and 2018 amounted to 200,107 and 173,405, respectively. Unamortized discount as of July 31, 2019 and 2018 amounted to 18,163
+and 0, respectively. 
+
+F- 16 
+
+NOTE
+11 RELATED PARTY TRANSACTIONS 
+
+Sara
+Reynolds has held the positions of Director, CFO, Secretary and Treasurer of the Company and its subsidiary since November 2015.
+During that time, she has provided accounting and advisory services without a compensation agreement and has not received compensation
+for any of the work performed. The Company has no compensated employees, nor do the Officers have employment or consulting contracts.
+C. Thomas Biscardi III was compensated for leading the team during the expeditions. He was classified as contract labor and issued
+a 1099 to report his compensation for services. His compensation is recorded in expedition expenses. 
+
+NOTE
+12 SUBSEQUENT EVENTS 
+
+On
+August 1, 2019, Auctus Fund LLC issued a conversion notice for the loan executed on August 1, 2018 to the Company for 204,833,900
+shares of common stock for a principal reduction of 2,917, interest of 4,776 and fees of 500. 
+
+On
+September 5, 2019, Crown Bridge Partners Fund LLC issued a conversion notice for the loan executed February 25, 2019 to the
+Company for 215,000,000 shares of common stock for a principal reduction of 6,775 and fees of 750. 
+
+On September 23, 2019, the Company entered into a convertible promissory note with KinerjaPay Corp. for an
+aggregate purchase price of 20,000. The Note matures on March 23, 2020, bears interest rate of 10 per year payable on maturity
+date in cash or shares of common stock at the Company s option (subject to certain conditions), and is convertible into shares
+of common stock at the conversion rate equal to 50 multiplied by the Market Price. Market Price means the average
+of the lowest Trading Price (as defined below) for the Common Stock during the thirty (30) Trading Day period ending on the latest
+complete Trading Day prior to the Conversion Date. Trading Price means, for any security as of any date, the closing
+bid price on the OTCQB, OTCQX, Pink Sheets electronic quotation system or applicable trading market (the OTC as
+reported by a reliable reporting service Reporting Service designated by the Holder (i.e. Bloomberg) or, if the
+OTC is not the principal trading market for such security, the closing bid price of such security on the principal securities exchange
+or trading market where such security is listed or traded or, if no closing bid price of such security is available in any of the
+foregoing manners, the average of the closing bid prices of any market makers for such security that are listed in the pink
+sheets . 
+
+On October 31, 2019, the Board of Directors authorized an increase in the authorized stock to 500,000,000
+shares Preferred Series A and 19,500,000,000 shares common stock. 
+
+On October 31, 2019, pursuant
+to the Certificate of Designation, the Company authorized 500,000,000 shares of the Series A Convertible Preferred Stock, which
+shall be convertible into shares of common stock of the Company at the option of the holders thereof at any time after the issuance
+of the preferred stock. Each Series A Convertible Preferred Stock shall be converted into 24 shares of common stock. The Board
+voted to award Tom Biscardi 500,000,000 shares of Preferred Series A stock, of which 50,000,000 shares of Series A convertible
+preferred stock were issued in exchange for 50,000 of the debt and 450,000,000 shares of Series A convertible preferred stock
+were issued as compensation for his long service to the Company. We determined the fair value of the restricted stock as of the
+issuance date based on the market price of 0.0001 for common stock with 1 share of Series A Preferred Stock convertible to 24
+shares of common stock, resulting in a fair value of 0.0024 per share. Thus the fair value for 50,000,000 and 450,000,000 shares
+of Series A Convertible Preferred Stock is 120,000 and 1,080,000, respectively as of October 31, 2019. 
+
+On November 8, 2019, 178,000,000
+shares of Preferred Series A Convertible stock were converted to 4,272,000,000 shares of common stock. 
+
+F- 17 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION 
+
+I,
+Carmine T. (Tom) Biscardi, certify that: 
+
+1. 
+ I
+ have reviewed this Annual Report on Form 10-K of Bigfoot Project Investments, Inc. (the Company ); 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+ to the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+ material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods
+ presented in this report; 
+
+4. 
+ The
+ Company s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+ (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+ Act Rules 13a-15(f) and 15d-15(f)) for the Company and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us
+ by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+ our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated
+ the effectiveness of the Company s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+ evaluation; and 
+
+d. 
+ Disclosed
+ in this report any change in the Company s internal control over financial reporting that occurred during the Company s
+ most recent fiscal quarter (the Company s fourth fiscal quarter in the case of an annual report) that has materially
+ affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting; and 
+
+5. 
+ The
+ Company s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+ financial reporting, to the Company s auditors and the audit committee of the Company s board of directors (or
+ persons performing the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+ are reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the Company s
+ internal control over financial reporting. 
+
+Date:
+December 9, 2019 
+
+/s/
+ Carmine T. Biscardi 
+ 
+ /s/
+ Sara L. Reynolds 
+ 
+ Carmine
+ T. Biscardi 
+ 
+ Sara
+ L. Reynolds 
+ 
+ Principal
+ Executive Officer 
+ 
+ Principal
+ Financial Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+CERTIFICATION
+OF PRINCIPAL ACCOUNTING OFFICER 
+
+ PURSUANT
+TO SECTION 302 OF THE 
+
+ SARBANES-OXLEY
+ACT OF 2002 
+
+I,
+Sara Reynolds, certify that: 
+
+1.
+I have reviewed this annual report on Form 10-K of Bigfoot Project Investments Inc.; 
+
+2.
+Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading
+with respect to the period covered by this annual report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present
+in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this annual report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a)
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly for the period in which this annual report is being prepared; 
+
+b)
+designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c)
+evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on
+such evaluation; 
+
+d)
+disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function): 
+
+a)
+all significant deficiencies in the design or operation of internal controls which could adversely affect the registrant s
+ability to record, process, summarize and report financial data and have identified for the registrant s auditors any material
+weaknesses in internal controls; and 
+
+b)
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal controls over financial reporting. 
+
+Date:
+ December 9, 2019 
+ By: 
+ /s/
+ Sara Reynolds 
+
+Sara
+ Reynolds 
+
+Chief
+ Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Bigfoot Project Investments Inc. (the Company on Form 10-K for the period
+ended July 31, 2019, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Tom
+Biscardi, Principal Executive Officer and Principal Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1.
+ 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2.
+ 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+Date:
+December 9, 2019 
+
+/s/
+ Carmine T. (Tom) Biscardi 
+ 
+ /s/
+ Sara L. Reynolds 
+ 
+ Carmine
+ T.Biscardi 
+ 
+ Sara
+ L. Reynolds 
+ 
+ Principal
+ Executive Officer 
+ 
+ Principal
+ Financial Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+EXHIBIT 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF 
+
+ THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with this Annual Report of Bigfoot
+Project Investments Inc. (the Company ), on Form 10-K for the year ended July 31, 2019, as filed with the U.S. Securities
+and Exchange Commission on the date hereof, I, Sara Reynolds, Chief Financial Officer of the Company, certify to the best of my
+knowledge, pursuant to 18 U.S.C. Sec. 1350, as adopted pursuant to Sec. 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ Such Annual Report on Form 10-K for the year ended July 31, 2019, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in such Annual Report on Form 10-K for the year ended July 31, 2019, fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: December 9,
+ 2019 
+ By: 
+ /s/ Sara Reynolds 
+
+Sara Reynolds 
+
+Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ bgft-20190731.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ bgft-20190731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ bgft-20190731_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ bgft-20190731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ bgft-20190731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ bgft-20190731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+
